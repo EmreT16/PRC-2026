@@ -1,0 +1,19 @@
+CV satırı 847,150 (RMSE 177.40); G2 satırı 88,344, SSE payı %25.2
+  ay  1 dışarıda: RMSE 172.37 → 171.79 (SSE %-0.67)
+  ay  3 dışarıda: RMSE 159.72 → 158.18 (SSE %-1.91)
+  ay  7 dışarıda: RMSE 212.97 → 212.69 (SSE %-0.27)
+  ay 10 dışarıda: RMSE 174.47 → 173.73 (SSE %-0.84)
+  ay 11 dışarıda: RMSE 155.72 → 155.71 (SSE %-0.00)
+  toplam ΔSSE %-0.675
+test: G2 satırı 36,374 / 339,551; ekleme ort +6.5 sn, RMS 76.0, çeyrekler [-19.0, -8.0, -2.0, 8.0, 62.0]
+  EDDF: 4,928 satır, ort +3.6
+  EDDM: 2,039 satır, ort +26.4
+  EGLL: 3,717 satır, ort +0.9
+  EHAM: 5,984 satır, ort +3.7
+  LEBL: 3,500 satır, ort +20.2
+  LEMD: 4,182 satır, ort -0.5
+  LFPG: 3,904 satır, ort -3.2
+  LIRF: 920 satır, ort +39.0
+  LSZH: 3,952 satır, ort +0.9
+  LTFM: 3,248 satır, ort +13.4
+yazıldı: <repo>\data\preds\TEST_D_kqgpPe_adsb_42o_ha_g2cb.parquet

@@ -1,0 +1,165 @@
+ham: eğitim 4,167,797 (DEP 2,085,047) | test 1,341,197 (DEP 670,790) — final_ranking.parquet
+<repo>\src\prc2_taban\features.py:247: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['DELAY_QUEUE_PRESSURE'] = out['TAKEOFF_VS_SCHED_SEC_POS'] * out['DEP_QUEUE_N']  # #82
+<repo>\src\prc2_taban\features.py:248: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['STAND_TYPE'] = d['STAND_mvt'].astype(str).str[0]                          # #84
+<repo>\src\prc2_taban\features.py:249: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['ROUTE_PAIR'] = d['ADEP_mvt'] + '_' + d['ADES_mvt']                        # #87
+<repo>\src\prc2_taban\features.py:253: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['IS_DOMESTIC'] = (dep_cc.to_numpy() == ades_cc2.to_numpy()).astype(float)   # #115
+<repo>\src\prc2_taban\features.py:258: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['DEP_RANK_TODAY'] = rank_in_day.reindex(d.index)
+<repo>\src\prc2_taban\features.py:259: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['IS_FIRST_DEP_TODAY'] = (out['DEP_RANK_TODAY'] == 1).astype(float)          # #116
+<repo>\src\prc2_taban\features.py:266: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['QUEUE_RATIO_TO_HOUR_MEAN'] = out['DEP_QUEUE_N'] / (hour_mean + 1)
+<repo>\src\prc2_taban\features.py:271: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['SCHED_DIFF_SEC_HOUR_PCT'] = out.groupby([day_key, out['LOCAL_HOUR']])['SCHED_DIFF_SEC'].rank(pct=True)
+<repo>\src\prc2_taban\features.py:275: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['MVT_ID_mvt'] = d['MVT_ID_mvt']
+<repo>\src\prc2_taban\features.py:277: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out[TARGET] = d[TARGET]
+<repo>\src\prc2_taban\features.py:286: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['NM_OFFSET_SEC'] = (d['BLOCK_TIME_UTC_mvt'] - d['AOBT_3_flt']).dt.total_seconds()
+özellikler: 127 sütun | 124 sn
+yazıldı: dep_train.parquet (2085047, 127), dep_rank.parquet (670790, 127), advanced_features_rank_v3.parquet
+test ayları: {1: 152719, 2: 144158, 6: 181791, 7: 192122}
+
+dep_train (final geçişi ↔ PRC_2): eski 2,085,047 | yeni 2,085,047 | ortak 2,085,047 | sütun eski 127 yeni 127
+                       sütun  farklı %  maks |fark|
+             DEST_VISIBILITY   100.000          NaN
+    QUEUE_RATIO_TO_HOUR_MEAN    98.137     0.363929
+             STAND_RWY_COUNT    97.102   597.000000
+      AIRCRAFT_TYPE_MED_TAXI    66.688   299.500000
+             QUEUE_DELAY_EST    49.577   886.200000
+              UNIMPEDED_TAXI    49.484   886.200000
+              BASE_TAXI_TIME    47.342   928.000000
+       OPERATOR_APT_MED_TAXI    47.008   493.500000
+              WK_TBL_CAT_flt     1.081          NaN
+                  ADES_FILED     1.078          NaN
+                CALLSIGN_flt     1.078          NaN
+          MARKET_SEGMENT_flt     1.078          NaN
+       AIRCRAFT_OPERATOR_flt     1.078          NaN
+              DEP_RANK_TODAY     0.484     2.000000
+           AIRCRAFT_TYPE_mvt     0.072          NaN
+             AIRLINE_LETTERS     0.016          NaN
+WAKE_TURBULENCE_BEHIND_HEAVY     0.010     1.000000
+                 FLIGHT_CODE     0.009          NaN
+                    ADES_mvt     0.006          NaN
+                  ROUTE_PAIR     0.006          NaN
+                   STAND_mvt     0.001          NaN
+                  STAND_TYPE     0.001          NaN
+         PREV_STAND_ARR_TAXI     0.000    61.000000
+
+dep_rank Oca/Tem (final ↔ PRC_2; ±12 sn oynatma beklenir): eski 344,841 | yeni 670,790 | ortak 344,841 | sütun eski 127 yeni 127
+                       sütun  farklı %   maks |fark|
+             DEST_VISIBILITY   100.000           NaN
+             STAND_RWY_COUNT    99.319    597.000000
+    QUEUE_RATIO_TO_HOUR_MEAN    98.228      2.187938
+             ARR_TAXI_MED_30    97.997   3826.500000
+             ARR_TAXI_MED_60    97.810   3415.000000
+             ARR_TAXI_MAX_30    97.788  32943.000000
+             DEP_TAXI_MED_15    96.014  85442.000000
+             DEP_TAXI_MED_30    95.666   4348.500000
+         PREV_STAND_ARR_TAXI    95.621  16747.000000
+             QUEUE_DELAY_EST    93.212    896.200000
+              SCHED_DIFF_SEC    91.561     12.000000
+        TAKEOFF_VS_SCHED_SEC    91.561     12.000000
+    TAKEOFF_VS_SCHED_SEC_POS    90.964     12.000000
+               EOBT_DIFF_SEC    90.423     12.000000
+               LOBT_DIFF_SEC    90.423     12.000000
+               IOBT_DIFF_SEC    90.423     12.000000
+               AOBT_DIFF_SEC    90.422     12.000000
+            NM_TAXI_DIFF_SEC    90.422     12.000000
+        DELAY_QUEUE_PRESSURE    90.405 175031.000000
+         SEC_SINCE_STAND_ARR    85.360  81565.000000
+              ARVT3_DIFF_SEC    81.746     12.000000
+      AIRCRAFT_TYPE_MED_TAXI    68.998    299.500000
+              UNIMPEDED_TAXI    51.938    886.200000
+              BASE_TAXI_TIME    49.614    928.000000
+       OPERATOR_APT_MED_TAXI    46.370    493.500000
+     SCHED_DIFF_SEC_HOUR_PCT    36.465      0.906250
+               DEP_ARR_RATIO    34.793     14.000000
+                MOVEMENTS_15    32.450      5.000000
+                   SURFACE_N    29.956      8.000000
+              LOCAL_MINOFDAY    29.492   1439.000000
+            MVT_MINOFDAY_UTC    29.492   1439.000000
+                    HOUR_SIN    29.213      0.004363
+                    HOUR_COS    29.132      0.004363
+                    Q_ARR_60    22.477     12.000000
+                    Q_ARR_30    22.049      4.000000
+                      ARR_15    21.919      4.000000
+                    Q_ARR_15    21.919      4.000000
+               ARR_TAXIING_N    21.526      5.000000
+                      DEP_15    19.600      4.000000
+                 DEP_QUEUE_N    16.223      6.000000
+                Q_RWY_DEP_15    12.155      2.000000
+                Q_RWY_DEP_30    11.582      2.000000
+                Q_RWY_DEP_60    10.730      3.000000
+                 RWY_QUEUE_N     9.715      6.000000
+              DEP_RANK_TODAY     7.935    825.000000
+      OPERATIONAL_DIFFICULTY     4.439     95.200000
+              WK_TBL_CAT_flt     1.538           NaN
+          MARKET_SEGMENT_flt     1.534           NaN
+                  ADES_FILED     1.534           NaN
+       AIRCRAFT_OPERATOR_flt     1.534           NaN
+                CALLSIGN_flt     1.534           NaN
+    TAKEOFF_VS_SCHED_SEC_NEG     0.637     12.000000
+                  LOCAL_HOUR     0.463     23.000000
+                MVT_HOUR_UTC     0.463     23.000000
+                   CROSSWIND     0.461     18.833677
+                      WIND_V     0.461     30.575772
+                      WIND_U     0.461     30.915887
+                    HEADWIND     0.461     30.575772
+                  WIND_SPEED     0.452     25.700000
+                TEMP_DROP_3H     0.442      8.000000
+                    WIND_DIR     0.438    357.000000
+                 TEMPERATURE     0.438      5.200000
+        TEMP_DEWPOINT_SPREAD     0.433     10.100000
+                   DEW_POINT     0.429      5.900000
+                    HUMIDITY     0.401     30.000000
+                 CLOUD_COVER     0.292     98.000000
+      ACTIVE_RUNWAY_COUNT_30     0.155      2.000000
+WAKE_TURBULENCE_BEHIND_HEAVY     0.129      1.000000
+           AIRCRAFT_TYPE_mvt     0.113           NaN
+                   PRECIP_3H     0.093      6.100000
+                IS_PEAK_HOUR     0.085      1.000000
+               PRECIPITATION     0.077      6.800000
+                   DEST_WIND     0.055     11.800000
+                   DEST_TEMP     0.053      5.100000
+              DEST_DEW_POINT     0.052      4.400000
+               DEST_HUMIDITY     0.049     27.000000
+                  VISIBILITY     0.048   7290.310200
+             AIRLINE_LETTERS     0.025           NaN
+                 FLIGHT_CODE     0.017           NaN
+                 SNOWFALL_6H     0.013      0.910000
+                 DEST_PRECIP     0.012      3.600000
+                 SNOWFALL_3H     0.011      0.630000
+                    SNOWFALL     0.010      0.560000
+                  FROST_RISK     0.009      1.000000
+                  IS_LOW_VIS     0.008      1.000000
+          IS_FIRST_DEP_TODAY     0.008      1.000000
+                 IS_FREEZING     0.006      1.000000
+                  SNOW_DEPTH     0.006      0.020000
+                  ROUTE_PAIR     0.004           NaN
+                    ADES_mvt     0.004           NaN
+                     MVT_DAY     0.004      1.000000
+               MVT_DAYOFWEEK     0.004      6.000000
+             DEST_FROST_RISK     0.003      1.000000
+                   DEST_SNOW     0.003      0.840000
+                      IS_LVP     0.003      1.000000
+ ades_days_since_holiday_end     0.002      6.000000
+                   STAND_mvt     0.001           NaN
+               Q_PUSHBACK_60     0.001      3.000000
+             DEST_SNOW_DEPTH     0.001      0.010000
+      dep_days_until_holiday     0.001      1.000000
+     ades_days_until_holiday     0.001     14.000000
+ ades_days_until_holiday_end     0.001      1.000000
+  dep_days_since_holiday_end     0.001      1.000000
+                  STAND_TYPE     0.001           NaN
+      ades_prev_holiday_name     0.000           NaN
+        dep_is_holiday_today     0.000      1.000000
+           ades_holiday_name     0.000           NaN
+  dep_days_until_holiday_end     0.000      0.000000
+       ades_is_holiday_today     0.000      1.000000
+final çıkış 0

@@ -1,0 +1,14 @@
+başladı 05:09:23
+izli 244,720 satır | r̂₃ ↔ r̂₂ korelasyonu 0.9982, fark RMS 7.18
+5 tohum − 3 tohum: RMS 2.85 (izli), ort +0.065, maks |fark| 156
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+normal: ara gonderim/strong-moose_v358.parquet → gonderim/strong-moose_v359.parquet MD5: `079dc92647845e89266b7395f1d5cba1`
+  − v355: değişen 314,861, RMS 2.39, ort +0.011, maks |fark| 156
+izli 475,238 satır | r̂₃ ↔ r̂₂ korelasyonu 0.9984, fark RMS 6.69
+5 tohum − 3 tohum: RMS 2.66 (izli), ort +0.001, maks |fark| 145
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+final: ara gonderim_final/strong-moose_final_a61.parquet → gonderim_final/strong-moose_final_a62.parquet MD5: `ce17854543e78b8571f18723cf619f75`
+  gonderim_final/strong-moose_final_a62.parquet − a56: değişen 582,597, RMS 2.23, ort +0.008
+zincir bitti 06:27:46

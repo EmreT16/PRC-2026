@@ -1,0 +1,11 @@
+== split_1: ADAY_v_lgb_huber1000_nan:harman ↔ D2_huber_1000:pred
+  ağırlıklı RMSE: taban 228.526 | aday 228.790 | Δ +0.263 sn [%95: +0.043 … +0.473]
+  ay  1: taban 203.414 | aday 203.629 (n=152,271)
+  ay  7: taban 246.648 | aday 246.945 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 21/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: ADAY_v_lgb_huber1000_nan:harman ↔ D2_huber_1000:pred
+  ağırlıklı RMSE: taban 219.540 | aday 219.694 | Δ +0.154 sn [%95: -0.110 … +0.392]
+  ay  2: taban 222.912 | aday 222.945 (n=142,622)
+  ay  8: taban 216.827 | aday 217.079 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 27/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+cikis: 0

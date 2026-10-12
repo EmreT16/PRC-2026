@@ -1,0 +1,31 @@
+[split_1] eğitim 1,723,367 | doğrulama 339,046 | hazırlık 14 sn
+  EDDF: eğitim 191,954 doğrulama 36,231 | lgb_s42 188.3 lgb 187.4 cb 193.1 xgb 190.4 | 153 sn
+  EDDM: eğitim 139,470 doğrulama 26,854 | lgb_s42 170.8 lgb 170.1 cb 170.5 xgb 170.0 | 137 sn
+  EGLL: eğitim 198,388 doğrulama 39,744 | lgb_s42 244.9 lgb 243.4 cb 244.0 xgb 243.2 | 157 sn
+  EHAM: eğitim 203,724 doğrulama 40,141 | lgb_s42 170.0 lgb 169.6 cb 171.0 xgb 171.3 | 149 sn
+  LEBL: eğitim 149,349 doğrulama 28,490 | lgb_s42 227.5 lgb 226.6 cb 228.9 xgb 228.5 | 139 sn
+  LEMD: eğitim 176,276 doğrulama 35,019 | lgb_s42 174.9 lgb 174.1 cb 179.6 xgb 179.9 | 151 sn
+  LFPG: eğitim 197,012 doğrulama 38,732 | lgb_s42 248.2 lgb 247.0 cb 257.3 xgb 252.5 | 160 sn
+  LIRF: eğitim 133,027 doğrulama 26,131 | lgb_s42 389.6 lgb 388.2 cb 389.9 xgb 395.6 | 132 sn
+  LSZH: eğitim 110,729 doğrulama 21,822 | lgb_s42 198.8 lgb 198.2 cb 206.6 xgb 195.4 | 131 sn
+  LTFM: eğitim 223,438 doğrulama 45,882 | lgb_s42 249.2 lgb 247.8 cb 254.3 xgb 252.6 | 169 sn
+[split_1] ağırlıklı RMSE: lgb_s42 232.093 | lgb 231.060 | cb 235.288 | xgb 234.264 | blend 230.125
+  aylar (harman): 1: 206.205, 7: 247.473
+  havalimanı (harman): EDDF 187.0, EDDM 167.9, EGLL 240.35, EHAM 168.11, LEBL 225.88, LEMD 175.18, LFPG 248.59, LIRF 383.44, LSZH 199.33, LTFM 248.26
+[split_1] süre 1493 sn
+[split_2] eğitim 1,730,940 | doğrulama 331,474 | hazırlık 15 sn
+  EDDF: eğitim 191,885 doğrulama 36,300 | lgb_s42 154.3 lgb 153.5 cb 156.2 xgb 154.9 | 212 sn
+  EDDM: eğitim 140,544 doğrulama 25,780 | lgb_s42 155.9 lgb 155.0 cb 158.8 xgb 157.5 | 198 sn
+  EGLL: eğitim 199,498 doğrulama 38,634 | lgb_s42 204.6 lgb 203.8 cb 207.5 xgb 205.2 | 196 sn
+  EHAM: eğitim 204,010 doğrulama 39,855 | lgb_s42 150.0 lgb 149.4 cb 152.2 xgb 150.3 | 210 sn
+  LEBL: eğitim 149,346 doğrulama 28,494 | lgb_s42 206.3 lgb 205.6 cb 205.4 xgb 207.2 | 190 sn
+  LEMD: eğitim 177,508 doğrulama 33,787 | lgb_s42 165.9 lgb 165.2 cb 165.5 xgb 165.0 | 196 sn
+  LFPG: eğitim 197,377 doğrulama 38,361 | lgb_s42 217.7 lgb 217.0 cb 221.0 xgb 217.8 | 211 sn
+  LIRF: eğitim 133,260 doğrulama 25,907 | lgb_s42 353.5 lgb 352.3 cb 358.3 xgb 358.4 | 167 sn
+  LSZH: eğitim 111,277 doğrulama 21,271 | lgb_s42 159.2 lgb 158.3 cb 162.4 xgb 158.8 | 166 sn
+  LTFM: eğitim 226,235 doğrulama 43,085 | lgb_s42 324.4 lgb 323.5 cb 323.9 xgb 315.3 | 224 sn
+[split_2] ağırlıklı RMSE: lgb_s42 221.717 | lgb 220.921 | cb 223.417 | xgb 220.784 | blend 219.463
+  aylar (harman): 2: 224.056, 8: 215.747
+  havalimanı (harman): EDDF 152.82, EDDM 155.22, EGLL 203.73, EHAM 148.85, LEBL 204.21, LEMD 163.82, LFPG 216.25, LIRF 352.39, LSZH 156.95, LTFM 318.29
+[split_2] süre 1984 sn
+cikis: 0

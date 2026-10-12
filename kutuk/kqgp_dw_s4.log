@@ -1,0 +1,14 @@
+[split_4] hazırlık 36 sn
+0:	learn: 380.5219981	test: 385.1651887	best: 385.1651887 (0)	total: 367ms	remaining: 48m 55s
+1000:	learn: 185.4879618	test: 209.8625318	best: 209.8625318 (1000)	total: 1m 29s	remaining: 10m 25s
+2000:	learn: 175.6425715	test: 207.3695602	best: 207.3695602 (2000)	total: 2m 51s	remaining: 8m 32s
+3000:	learn: 167.8925535	test: 206.2744198	best: 206.2744198 (3000)	total: 4m 20s	remaining: 7m 14s
+4000:	learn: 161.1902744	test: 205.7128893	best: 205.7110465 (3999)	total: 5m 40s	remaining: 5m 40s
+5000:	learn: 155.0110747	test: 205.3129536	best: 205.3080156 (4989)	total: 7m 8s	remaining: 4m 16s
+6000:	learn: 149.3846259	test: 205.0698694	best: 205.0698623 (5999)	total: 8m 38s	remaining: 2m 52s
+7000:	learn: 144.1903764	test: 204.9389026	best: 204.9368378 (6992)	total: 10m 4s	remaining: 1m 26s
+7999:	learn: 139.1989685	test: 204.8139571	best: 204.8138352 (7997)	total: 11m 38s	remaining: 0us
+bestTest = 204.8138352
+bestIteration = 7997
+Shrink model to first 7998 iterations.
+cikis: 0

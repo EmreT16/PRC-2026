@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_kq",
+  "gcb6k_ort2_kq",
+  "e1h3_kq",
+  "lgbh3_kq",
+  "dw_kq"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "30.09: D_dw ağırlıkları (g1_agirliklar_H_C_dw_lr03_ek5_l2_10.json), kuyruk özellikli bileşenlerle"
+}

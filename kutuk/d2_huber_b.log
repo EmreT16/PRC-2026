@@ -1,0 +1,19 @@
+== split_1: Huber δ=1500 ↔ MSE (lgb_s42)
+  ağırlıklı RMSE: taban 229.628 | aday 228.727 | Δ -0.901 sn [%95: -1.354 … -0.446]
+  ay  1: taban 204.456 | aday 203.740 (n=152,271)
+  ay  7: taban 247.796 | aday 246.768 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 42/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_1: Huber δ=2500 ↔ MSE (lgb_s42)
+  ağırlıklı RMSE: taban 229.628 | aday 229.668 | Δ +0.041 sn [%95: -0.330 … +0.442]
+  ay  1: taban 204.456 | aday 204.084 (n=152,271)
+  ay  7: taban 247.796 | aday 248.107 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 31/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+[split_1] süre 826 sn
+split_1'de kabul alan en iyi δ = 1500; split_2'de onay
+== split_2: Huber δ=1500 ↔ MSE (lgb_s42)
+  ağırlıklı RMSE: taban 221.512 | aday 219.903 | Δ -1.609 sn [%95: -3.774 … -0.042]
+  ay  2: taban 227.080 | aday 223.757 (n=142,622)
+  ay  8: taban 216.990 | aday 216.795 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 28/59 (≥39) ✗ · güven aralığı < 0 ✓  →  RET
+[split_2] süre 495 sn
+cikis: 0

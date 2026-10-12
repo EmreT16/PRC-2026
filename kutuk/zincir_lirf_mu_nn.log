@@ -1,0 +1,17 @@
+başladı 08:15:25
+TabM μ normal tamam 09:17:05
+TabM μ final tamam 10:18:41
+LIRF test B 383 satır | p0 > 0.95 ve ön koşul dışı: 52 | μ_TabM − μ_yeni ort -11.7, RMS 234.8 | taksi farkı ort -6.2, RMS 137.0, maks |fark| 355
+TEST_B_tum6M_adsb_lirfte_mu2n: 5290 B satırı, değişen 52
+normal aday: ara gonderim/strong-moose_v362.parquet → gonderim/strong-moose_v363.parquet MD5: `05b59be367611efc81a746d7e8605524`
+strong-moose_v363.parquet − v361:
+  değişen 26,897; LIRF B satırları (383) RMS 50.5, ort -0.87, değişen 383; diğer satırlar maks |fark| 0.06
+LIRF test B 619 satır | p0 > 0.95 ve ön koşul dışı: 108 | μ_TabM − μ_yeni ort -23.8, RMS 313.8 | taksi farkı ort -13.1, RMS 182.2, maks |fark| 1197
+TEST_B_tum6M_adsb_lirfte_mu2n: 9077 B satırı, değişen 108
+tum6M_adsb → _bN85L: 7692 satır
+tum6M_adsb_lirfte → _bN85L: 7692 satır
+lirfte _bN85L − _bN85: değişen 108, RMS 19.9
+final: ara gonderim_final/strong-moose_final_a65.parquet → gonderim_final/strong-moose_final_a66.parquet MD5: `7cc385df02f3f68394ef08abd5b4d3ff`
+gonderim_final/strong-moose_final_a66.parquet − a64:
+  değişen 41,882; LIRF B satırları (619) RMS 76.1, ort -2.27, değişen 547; diğer satırlar maks |fark| 0.09
+zincir bitti 10:31:21

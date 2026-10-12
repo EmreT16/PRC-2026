@@ -1,0 +1,36 @@
+[dort_bilesen(CB,LGB,XGB,GCB)] split_1'de seçilen (0.0, 0.45, 0.2, np.float64(0.35)) (seçim bölmesinde 225.653)
+== split_2'de sınama ↔ blend
+  ağırlıklı RMSE: taban 219.184 | aday 216.793 | Δ -2.391 sn [%95: -3.488 … -1.473]
+  ay  2: taban 223.852 | aday 220.350 (n=142,622)
+  ay  8: taban 215.406 | aday 213.927 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 56/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[dort_bilesen(CB,LGB,XGB,GCB)] split_2'de seçilen (0.0, 0.3, 0.25, np.float64(0.45)) (seçim bölmesinde 216.610)
+== split_1'de sınama ↔ blend
+  ağırlıklı RMSE: taban 226.951 | aday 225.898 | Δ -1.053 sn [%95: -1.649 … -0.486]
+  ay  1: taban 202.379 | aday 201.786 (n=152,271)
+  ay  7: taban 244.706 | aday 243.344 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 42/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[E1_tum_beta] split_1'de seçilen 0.5 (seçim bölmesinde 228.132)
+== split_2'de sınama ↔ lgb_s42
+  ağırlıklı RMSE: taban 221.512 | aday 220.042 | Δ -1.470 sn [%95: -2.117 … -0.758]
+  ay  2: taban 227.080 | aday 225.257 (n=142,622)
+  ay  8: taban 216.990 | aday 215.812 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 53/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[E1_tum_beta] split_2'de seçilen 0.5 (seçim bölmesinde 220.042)
+== split_1'de sınama ↔ lgb_s42
+  ağırlıklı RMSE: taban 229.628 | aday 228.132 | Δ -1.496 sn [%95: -1.868 … -1.128]
+  ay  1: taban 204.456 | aday 203.542 (n=152,271)
+  ay  7: taban 247.796 | aday 245.908 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 55/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[E1_LIRF_beta] split_1'de seçilen 0.5 (seçim bölmesinde 228.637)
+== split_2'de sınama ↔ lgb_s42
+  ağırlıklı RMSE: taban 221.512 | aday 221.014 | Δ -0.498 sn [%95: -0.958 … +0.102]
+  ay  2: taban 227.080 | aday 226.760 (n=142,622)
+  ay  8: taban 216.990 | aday 216.344 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✓ · gün 47/59 (≥39) ✓ · güven aralığı < 0 ✗  →  RET
+[E1_LIRF_beta] split_2'de seçilen 0.5 (seçim bölmesinde 221.014)
+== split_1'de sınama ↔ lgb_s42
+  ağırlıklı RMSE: taban 229.628 | aday 228.637 | Δ -0.991 sn [%95: -1.304 … -0.661]
+  ay  1: taban 204.456 | aday 204.019 (n=152,271)
+  ay  7: taban 247.796 | aday 246.435 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 52/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL

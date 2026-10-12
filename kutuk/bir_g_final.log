@@ -1,0 +1,35 @@
+# Gönderim denetimi — strong-moose_final_a63
+
+- Dosya: `<repo>\gonderim_final\strong-moose_final_a63.parquet`
+- MD5: `d3219c56fb2bd3b781c8386f3f01717d`
+- Aday: `D_kqgpPeT2_adsb_42p5T`; final testi (final_ranking.parquet, 670,790 satır), taban yok
+- Model B: TEST_B_D_kqgpxg_17a_b5_iz5_nmsiz_d5_12ay_k125_opdi_bN85 (9077 satır)
+- Not: FINAL (4 ay): a56 + B μ TabM 5 tohum (a60) + düzeltici 5 tohum (a62). Ara dosya (Y1'siz).
+
+| Denetim | Sonuç |
+|---|---|
+| satir_sayisi | ✓ |
+| sutunlar | ✓ |
+| kimlik_sirasi | ✓ |
+| nan_inf_yok | ✓ |
+| alt_sinir_60 | ✓ |
+| tum_satirlar_a_ya_da_b | ✓ |
+| model_b_yeni_uygulandi | ✓ |
+
+| Bilgi | Değer |
+|---|---:|
+| model_a_rms_fark | nan |
+| model_a_ort_fark | nan |
+| yeni_modelin_v126dan_rms_farki | nan |
+| 40000_ustu | 20.00 |
+| 40000_ustu_v126 | 0.00 |
+| satir_24s | 86,504.51 |
+| satir_24s_v126 | nan |
+| satir_24s_yeni | 86,504.51 |
+| lobt_kirpilan_satir | 71.00 |
+| lobt_kirpilan_model_b_satir | 0.00 |
+| model_b_degisen_satir | 9,077.00 |
+| model_b_rms_fark | nan |
+| model_b_ort_fark | nan |
+| model_b_ort_v126 | nan |
+| model_b_ort_yeni | 1,500.14 |

@@ -1,0 +1,39 @@
+<python>\Lib\site-packages\numpy\lib\_nanfunctions_impl.py:1215: RuntimeWarning: All-NaN slice encountered
+  return fnb._ureduce(a, func=_nanmedian, keepdims=keepdims,
+  hazırlık: 138 sayısal (eksiklik bayrakları dahil), 11 kategorik | 76 sn
+  TabM: 5 sabit sütun atıldı, 133 sayısal kaldı
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 0-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 2-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 19-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 41-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 47-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 48-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 52-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 53-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 54-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 55-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 72-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 77-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 79-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 114-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 115-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 131-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+<python>\Lib\site-packages\rtdl_num_embeddings.py:340: UserWarning: The 132-th feature has just two bin edges, which means only one bin. Strictly speaking, using a single bin for the piecewise-linear encoding should not break anything, but it is the same as using sklearn.preprocessing.MinMaxScaler
+  warnings.warn(
+cikis 127 20:26:44

@@ -1,0 +1,13 @@
+başladı 00:08:02
+final harman: ort. taksi 1002.5
+final düzeltici tamam 00:26:33
+final6: ara gonderim_final/strong-moose_final_a41.parquet → gonderim_final/strong-moose_final_a42.parquet MD5: `cfeb7a19cdb2f3aceae527506bb84703`
+final8: ara gonderim_final/strong-moose_final_a43.parquet → gonderim_final/strong-moose_final_a44.parquet MD5: `cbfc664b943c197d316b04cd431b7219`
+  gonderim_final/strong-moose_final_a42.parquet − a30: RMS 17.57, ort +0.03
+           mean  <lambda_0>
+MVT_MONTH                  
+1         -0.21   23.270000
+2          0.59   14.180000
+6         -0.38   14.720000
+7          0.20   17.049999
+zincir bitti 00:26:50

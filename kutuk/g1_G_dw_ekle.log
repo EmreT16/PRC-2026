@@ -1,0 +1,13 @@
+[G_dw_ekle] split_1'de seçilen {'xgb': 0.106, 'gcb_12k_t2026': 0.298, 'e1h3': 0.182, 'lgbh3': 0.201, 'gcb_dw': 0.213}
+== split_2'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 215.204 | Δ -3.980 sn [%95: -5.942 … -2.473]
+  ay  2: taban 223.852 | aday 218.198 (n=142,622)
+  ay  8: taban 215.406 | aday 212.797 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 53/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[G_dw_ekle] split_2'de seçilen {'xgb': 0.098, 'gcb_12k_t2026': 0.345, 'e1h3': 0.263, 'lgbh3': 0.101, 'gcb_dw': 0.193}
+== split_1'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 224.829 | Δ -2.122 sn [%95: -2.835 … -1.451]
+  ay  1: taban 202.379 | aday 200.654 (n=152,271)
+  ay  7: taban 244.706 | aday 242.309 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 51/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[G_dw_ekle] önerilen ağırlıklar: {'xgb': 0.102, 'gcb_12k_t2026': 0.3215, 'e1h3': 0.2225, 'lgbh3': 0.151, 'gcb_dw': 0.203} | çapraz Δ: split_2 -3.980, split_1 -2.122

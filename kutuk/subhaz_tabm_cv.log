@@ -1,0 +1,13 @@
+başladı 06:28:32
+lgb bitti 06:40:02
+lgbnn bitti 07:13:18
+lgbnn_pl bitti 07:49:16
+                                Şub      Haz  ortalama     EDDF     EDDM     EGLL     EHAM     LEBL     LEMD     LFPG     LIRF     LSZH     LTFM
+taban (düzelticisiz)        203.707  203.529   203.618  149.029  149.204  201.392  144.897  159.130  156.208  206.651  344.681  154.235  274.542
+ADSB_duz_cv_T2_sh_lgb       186.689  182.082   184.400  104.677   94.229  188.851   85.258  114.198  131.152  205.927  343.326   79.302  274.542
+ADSB_duz_cv_T2_sh_lgbnn     185.935  181.039   183.503  101.396   90.006  188.637   81.469  111.802  130.309  205.821  343.366   75.091  274.542
+ADSB_duz_cv_T2_sh_lgbnn_pl  185.904  180.633   183.287  101.031   90.647  188.467   81.692  111.286  130.349  205.931  341.848   75.046  274.543
+ADSB_duz_cv_T2_sh_lgbnn − ADSB_duz_cv_T2_sh_lgb: Şub -0.754, Haz -1.042, ortalama -0.896 → doğrulandı
+ADSB_duz_cv_T2_sh_lgbnn_pl − ADSB_duz_cv_T2_sh_lgb: Şub -0.784, Haz -1.449, ortalama -1.112 → doğrulandı
+ADSB_duz_cv_T2_sh_lgbnn_pl − ADSB_duz_cv_T2_sh_lgbnn: Şub -0.030, Haz -0.406, ortalama -0.216 → doğrulandı
+zincir bitti 07:49:22

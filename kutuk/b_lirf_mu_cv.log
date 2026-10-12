@@ -1,0 +1,14 @@
+yeniden kurulan v126_B, b_model_cv OOF'uyla en büyük fark: 0.000
+                             satır   v126_B  v126_B + μ_tüm  ort. hata v126_B  ort. hata yeni
+Q1      LIRF ön koşul dışı   170.0   2362.3          2208.1            -492.7          -274.5
+        LIRF ön koşul          7.0  13167.6         13167.6           -7078.5         -7080.1
+Q2      LIRF ön koşul dışı   341.0   3179.9          3150.0            -172.4            -9.6
+        LIRF ön koşul         13.0  24486.7         24434.7           -7905.2         -7891.1
+Q3      LIRF ön koşul dışı   668.0   3622.2          3581.3             497.0           654.5
+        LIRF ön koşul         34.0   9297.9          9291.4            -873.7          -846.0
+Q4      LIRF ön koşul dışı   241.0   2290.5          2264.4            -401.3          -305.2
+        LIRF ön koşul         14.0  11313.4         11306.1           -4524.1         -4543.0
+Oca+Tem LIRF ön koşul dışı   377.0   3214.0          3202.3             757.1           936.5
+        LIRF ön koşul         20.0   9823.5          9819.6           -3866.8         -3840.5
+hepsi   LIRF ön koşul dışı  1420.0   3187.3          3141.7              65.3           220.9
+        LIRF ön koşul         68.0  14214.6         14194.2           -3608.2         -3595.8

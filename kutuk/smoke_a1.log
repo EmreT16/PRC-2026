@@ -1,0 +1,20 @@
+Model A satırı: 2,062,577 | yükleme 1 sn
+== split_1: LightGBM (tur 467) ↔ havalimanı medyanı
+  ağırlıklı RMSE: taban 414.291 | aday 253.786 | Δ -160.505 sn [%95: -170.361 … -151.096]
+  ay  1: taban 355.671 | aday 223.233 (n=152,271)
+  ay  7: taban 455.487 | aday 275.640 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 62/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_1: sıfır karşılaştırması (aynı model, tohum +1, tur 608)
+  ağırlıklı RMSE: taban 253.786 | aday 253.749 | Δ -0.037 sn [%95: -0.512 … +0.403]
+  ay  1: taban 223.233 | aday 223.186 (n=152,271)
+  ay  7: taban 275.640 | aday 275.610 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✓ · gün 31/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+  süre 47 sn
+== split_2: LightGBM (tur 624) ↔ havalimanı medyanı
+  ağırlıklı RMSE: taban 367.451 | aday 239.210 | Δ -128.241 sn [%95: -134.106 … -122.610]
+  ay  2: taban 354.888 | aday 239.179 (n=142,622)
+  ay  8: taban 377.127 | aday 239.235 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 59/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+  süre 27 sn
+toplam 75 sn
+cikis: 0

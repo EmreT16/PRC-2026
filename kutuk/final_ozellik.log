@@ -1,0 +1,26 @@
+başladı 23:04:52
+kuyruk_ozellik tamam (7 sn)
+gecikme_ozellik tamam (170 sn)
+gecikme_pist_ozellik tamam (111 sn)
+wx_ozellik tamam (176 sn)
+varis_wx_ozellik tamam (10 sn)
+pencere_ileri_ozellik tamam (450 sn)
+park_varis_ozellik tamam (12 sn)
+komsu_ozellik tamam (5 sn)
+yanki_te_ozellik tamam (11 sn)
+gunluk_seri_ozellik tamam (25 sn)
+pist_ozellik tamam (29 sn)
+opdi_ozellik tamam (714 sn)
+kuyruk_oz         test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.011 eğitim 0.009 | sütun 10
+gecikme_oz        test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.007 eğitim 0.006 | sütun 5
+gecikme_pist_oz   test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.022 eğitim 0.021 | sütun 4
+wx_oz             test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.096 eğitim 0.097 | sütun 19
+varis_wx_oz       test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.086 eğitim 0.087 | sütun 11
+pencere_ileri_oz  test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.006 eğitim 0.005 | sütun 9
+park_varis_oz     test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.201 eğitim 0.193 | sütun 5
+komsu_oz          test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.000 eğitim 0.000 | sütun 14
+yanki_te_oz       test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.000 eğitim 0.000 | sütun 5
+gunluk_oz         test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.000 eğitim 0.000 | sütun 5
+pist_oz           test 670,790/670,790 | eğitim 2,085,047 | boş oranı test 0.006 eğitim 0.005 | sütun 9
+opdi_oz           test 345,176/670,790 | eğitim 1,043,227 | boş oranı test 0.482 eğitim 0.493 | sütun 17
+bitti 23:33:46

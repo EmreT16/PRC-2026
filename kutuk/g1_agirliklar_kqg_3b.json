@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_kqg",
+  "gcb6k_ort2_kqg",
+  "e1h3_kqg",
+  "lgbh3_kqg",
+  "dw_kqg"
+ ],
+ "agirlik": [
+  0.1266,
+  0.196,
+  0.2238,
+  0.1411,
+  0.3125
+ ],
+ "not": "harman3.py: üç bölmenin birleşik OOF'unda seçildi"
+}

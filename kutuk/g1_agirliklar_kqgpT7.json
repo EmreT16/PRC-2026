@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_T",
+  "gcb_T4",
+  "e1h3_T",
+  "lgbh3_T",
+  "dw_T5"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "05.10: kqgpT ağırlıkları; test GCB 4 tohum, DW 5 tohum (zincir_tohum.sh)"
+}

@@ -1,0 +1,33 @@
+hareket 5,508,994 (kalkış 2,755,837)
+EDDF 300812 konfigürasyon sayısı 149
+EDDM 218206 konfigürasyon sayısı 122
+EGLL 316767 konfigürasyon sayısı 51
+EHAM 323816 konfigürasyon sayısı 1097
+LEBL 239019 konfigürasyon sayısı 70
+LEMD 284722 konfigürasyon sayısı 131
+LFPG 317072 konfigürasyon sayısı 346
+LIRF 212850 konfigürasyon sayısı 117
+LSZH 179815 konfigürasyon sayısı 136
+LTFM 362758 konfigürasyon sayısı 416
+2755837 
+                  count     mean      std     min       max
+PC_N_DEP     2755837.0     1.77     0.58    0.00      6.00
+PC_N_ARR     2755837.0     1.74     0.64    0.00      6.00
+PC_DEGISTI   2755837.0     0.37     0.48    0.00      1.00
+PC_PAY       2755837.0     0.69     0.25    0.01      1.00
+PC_BASKIN    2755837.0     0.77     0.42    0.00      1.00
+PC_KUYRUK_W  2722891.0     7.70     6.01    0.00    496.60
+PC_AGIR_N    2722891.0     1.58     2.35    0.00     51.00
+PC_SPAN20    2687567.0  2419.11  1778.78  598.00  21600.00
+PC_CFG_TE    2755837.0    -3.25    79.75 -294.67   1699.13
+eğitim / test ortalaması:
+ test            False     True 
+PC_N_DEP        1.769     1.781
+PC_N_ARR        1.738     1.745
+PC_DEGISTI      0.371     0.384
+PC_PAY          0.695     0.692
+PC_BASKIN       0.770     0.767
+PC_KUYRUK_W     7.723     7.615
+PC_AGIR_N       1.584     1.572
+PC_SPAN20    2401.332  2474.337
+PC_CFG_TE      -2.741    -4.851

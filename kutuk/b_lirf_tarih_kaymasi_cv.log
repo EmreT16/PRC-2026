@@ -1,0 +1,22 @@
+LIRF NM'siz 1,488 satır; gece yarısını geçen ve gecikmesi ≥ 11,1 sa: 33 (kayma 11)
+τ (12 ay) = 86.400 + 1020 sn
+
+== ay dışarıda: aday satırlarda SSE (milyar sn²); fark − iyi; 1 milyar ≈ test benzeri 2,900 MSE
+   mevcut (= gecikme): 5.77
+   ≥14 sa tek bant   4.17 (-1.59) | iyi 7, kötü 3 | 1:-0.29 2:+0.69 3:-0.38 4:+0.28 6:-0.33 7:-0.68 8:+0.47 9:-0.06 11:-1.30 12:-0.00
+   ≥12 sa tek bant   5.99 (+0.22) | iyi 5, kötü 5 | 1:-0.32 2:+0.35 3:-0.30 4:+0.14 6:-0.02 7:+0.53 8:+1.00 9:-0.41 11:-1.01 12:+0.26
+   14–18 / ≥18       4.49 (-1.28) | iyi 7, kötü 3 | 1:-0.32 2:+1.16 3:-0.42 4:+0.19 6:-0.37 7:-0.68 8:+0.33 9:-0.16 11:-1.00 12:-0.00
+   14 / 18 / 26      3.83 (-1.94) | iyi 7, kötü 3 | 1:-0.32 2:+0.48 3:-0.45 4:+0.19 6:-0.39 7:-0.70 8:+0.33 9:-0.08 11:-1.00 12:-0.00
+
+== çeyrek dışarıda: aday satırlarda SSE (milyar sn²); fark − iyi; 1 milyar ≈ test benzeri 2,900 MSE
+   mevcut (= gecikme): 5.77
+   ≥14 sa tek bant   4.14 (-1.62) | iyi 4, kötü 0 | Q1:-0.02 Q2:-0.08 Q3:-0.26 Q4:-1.26
+   ≥12 sa tek bant   7.24 (+1.47) | iyi 2, kötü 2 | Q1:-0.32 Q2:+0.13 Q3:+2.45 Q4:-0.79
+   14–18 / ≥18       4.44 (-1.33) | iyi 3, kötü 1 | Q1:+0.30 Q2:-0.18 Q3:-0.45 Q4:-1.00
+   14 / 18 / 26      3.90 (-1.86) | iyi 4, kötü 0 | Q1:-0.29 Q2:-0.20 Q3:-0.37 Q4:-1.00
+
+Bantlar (12 ay):
+   ≥14 sa tek bant  bant 1: 19 satır, 11 kayma, p 0.571
+   ≥12 sa tek bant  bant 1: 27 satır, 11 kayma, p 0.414
+   14–18 / ≥18      bant 1: 11 satır, 5 kayma, p 0.462 | bant 2: 8 satır, 6 kayma, p 0.700
+   14 / 18 / 26     bant 1: 11 satır, 5 kayma, p 0.462 | bant 2: 7 satır, 6 kayma, p 0.778 | bant 3: 1 satır, 0 kayma, p 0.333

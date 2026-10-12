@@ -1,0 +1,19 @@
+başladı 16:57:34
+  _42p − _42n: izli 244,720 satır RMS 15.9, ort +0.01; izsiz maks |fark| 0.000
+  rhat korelasyonu 0.9908
+normal düzeltici tamam 18:03:53
+normal: ara gonderim/strong-moose_v352.parquet → gonderim/strong-moose_v353.parquet MD5: `3954b84247049bac50714ddb49b71ccd`
+  − v349: değişen 316,784, RMS 13.34, ort -0.016, min 60
+  − v351: değişen 316,785, RMS 13.35, ort -0.015, min 60
+  _42p − _42n: izli 475,238 satır RMS 14.6, ort -0.06; izsiz maks |fark| 0.000
+  rhat korelasyonu 0.9919
+final düzeltici tamam 19:05:40
+final: ara gonderim_final/strong-moose_final_a53.parquet → gonderim_final/strong-moose_final_a54.parquet MD5: `0c5e6372408b8f63eb5eca3a45d799f3`
+  gonderim_final/strong-moose_final_a54.parquet − a52: RMS 12.25, ort +0.01
+           mean  <lambda_0>
+MVT_MONTH                  
+1          0.00       15.66
+2          0.13       12.07
+6          0.03       10.35
+7         -0.11       10.88
+zincir bitti 19:05:50

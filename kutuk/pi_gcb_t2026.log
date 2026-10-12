@@ -1,0 +1,23 @@
+0:	learn: 370.7990946	total: 467ms	remaining: 1h 17m 44s
+500:	learn: 191.6918622	total: 3m 17s	remaining: 1h 2m 18s
+1000:	learn: 185.5494911	total: 6m 41s	remaining: 1h 5s
+1500:	learn: 181.4062062	total: 10m 10s	remaining: 57m 37s
+2000:	learn: 178.1738018	total: 13m 27s	remaining: 53m 46s
+2500:	learn: 175.3682841	total: 17m 5s	remaining: 51m 14s
+3000:	learn: 172.9697049	total: 20m 23s	remaining: 47m 32s
+3500:	learn: 170.7888462	total: 24m 1s	remaining: 44m 35s
+4000:	learn: 168.7507520	total: 27m 20s	remaining: 40m 59s
+4500:	learn: 166.8744479	total: 30m 58s	remaining: 37m 50s
+5000:	learn: 165.0384909	total: 34m 17s	remaining: 34m 16s
+5500:	learn: 163.3395062	total: 37m 56s	remaining: 31m 1s
+6000:	learn: 161.7009874	total: 41m 17s	remaining: 27m 30s
+6500:	learn: 160.1540718	total: 44m 55s	remaining: 24m 10s
+7000:	learn: 158.6703493	total: 48m 17s	remaining: 20m 41s
+7500:	learn: 157.2342227	total: 51m 55s	remaining: 17m 17s
+8000:	learn: 155.8324859	total: 55m 21s	remaining: 13m 49s
+8500:	learn: 154.4960880	total: 58m 56s	remaining: 10m 23s
+9000:	learn: 153.1841152	total: 1h 2m 27s	remaining: 6m 55s
+9500:	learn: 151.9253418	total: 1h 5m 59s	remaining: 3m 27s
+9999:	learn: 150.7264702	total: 1h 9m 30s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_it12000_t2026_kqgpy.parquet | ort. ofset 14.0 | süre 4271 sn
+cikis: 0

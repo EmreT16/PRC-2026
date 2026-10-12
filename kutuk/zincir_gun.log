@@ -1,0 +1,23 @@
+ekoz_secim: ['komsu_oz.parquet', 'komsu_tah_oz.parquet', 'komsu2_oz.parquet', 'gunluk_oz.parquet']
+eğitim başladı 13:53:27
+islemci: 0 15:24:07
+ekran: 0 17:23:31
+Model A test tabanı, günlük serili − v205: RMS 16.4 | ort -0.9
+MVT_MONTH     1    7
+ADEP_mvt            
+EDDF        0.1  5.2
+EDDM       -3.5  0.1
+EGLL        0.8  2.5
+EHAM        4.9 -0.0
+LEBL       -1.5 -4.2
+LEMD       -0.4 -1.0
+LFPG       -2.5 -1.6
+LIRF       -0.3  0.5
+LSZH       -2.2 -0.1
+LTFM      -10.5 -3.1
+- Dosya: `<repo>\gonderim\strong-moose_v207.parquet`
+- MD5: `559237b8d13125911a2b0bfb5cd2f00a`
+- Aday: `D_kqgpT4_adsb_27a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+strong-moose_v207.parquet
+strong-moose_v206.parquet
+zincir bitti 17:35:55

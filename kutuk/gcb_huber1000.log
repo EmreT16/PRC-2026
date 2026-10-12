@@ -1,0 +1,35 @@
+0:	learn: 55447.8532618	test: 59459.0956934	best: 59459.0956934 (0)	total: 349ms	remaining: 17m 25s
+1000:	learn: 18379.8628554	test: 22301.1120262	best: 22301.1120262 (1000)	total: 5m 7s	remaining: 10m 13s
+2000:	learn: 16713.2800728	test: 21687.9741281	best: 21687.9741281 (2000)	total: 10m 36s	remaining: 5m 17s
+2999:	learn: 15622.7720799	test: 21441.4979642	best: 21441.4488262 (2998)	total: 16m 6s	remaining: 0us
+bestTest = 21441.44883
+bestIteration = 2998
+Shrink model to first 2999 iterations.
+== split_1: GCB_huber1000 tek ↔ B1 harmanı (en iyi iterasyon 2998)
+  ağırlıklı RMSE: taban 226.951 | aday 230.148 | Δ +3.198 sn [%95: +2.136 … +4.345]
+  ay  1: taban 202.379 | aday 205.825 (n=152,271)
+  ay  7: taban 244.706 | aday 247.764 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 10/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1: GCB_huber1000 yuzde50 ↔ B1 harmanı (en iyi iterasyon 2998)
+  ağırlıklı RMSE: taban 226.951 | aday 226.494 | Δ -0.457 sn [%95: -1.038 … +0.107]
+  ay  1: taban 202.379 | aday 202.171 (n=152,271)
+  ay  7: taban 244.706 | aday 244.083 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✓ · gün 36/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+0:	learn: 57347.0114138	test: 58156.1430992	best: 58156.1430992 (0)	total: 561ms	remaining: 28m 3s
+1000:	learn: 18946.5812589	test: 21039.7358238	best: 21039.7358238 (1000)	total: 5m 13s	remaining: 10m 26s
+2000:	learn: 17254.0427902	test: 20509.6655577	best: 20509.6410586 (1999)	total: 10m 43s	remaining: 5m 21s
+2999:	learn: 16107.9322037	test: 20301.7112233	best: 20301.6002567 (2997)	total: 16m 14s	remaining: 0us
+bestTest = 20301.60026
+bestIteration = 2997
+Shrink model to first 2998 iterations.
+== split_2: GCB_huber1000 tek ↔ B1 harmanı (en iyi iterasyon 2997)
+  ağırlıklı RMSE: taban 219.184 | aday 219.795 | Δ +0.612 sn [%95: -1.656 … +2.320]
+  ay  2: taban 223.852 | aday 222.771 (n=142,622)
+  ay  8: taban 215.406 | aday 217.404 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 11/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: GCB_huber1000 yuzde50 ↔ B1 harmanı (en iyi iterasyon 2997)
+  ağırlıklı RMSE: taban 219.184 | aday 217.689 | Δ -1.494 sn [%95: -2.830 … -0.454]
+  ay  2: taban 223.852 | aday 221.089 (n=142,622)
+  ay  8: taban 215.406 | aday 214.952 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 32/59 (≥39) ✗ · güven aralığı < 0 ✓  →  RET
+cikis: 0

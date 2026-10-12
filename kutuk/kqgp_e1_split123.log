@@ -1,0 +1,49 @@
+  EDDF: harman 180.3 (alt sınırsız) | 340 sn
+  EDDM: harman 163.5 (alt sınırsız) | 309 sn
+  EGLL: harman 233.9 (alt sınırsız) | 290 sn
+  EHAM: harman 165.7 (alt sınırsız) | 300 sn
+  LEBL: harman 220.9 (alt sınırsız) | 248 sn
+  LEMD: harman 171.1 (alt sınırsız) | 270 sn
+  LFPG: harman 240.4 (alt sınırsız) | 287 sn
+  LIRF: harman 372.7 (alt sınırsız) | 230 sn
+  LSZH: harman 186.4 (alt sınırsız) | 232 sn
+  LTFM: harman 232.3 (alt sınırsız) | 296 sn
+== split_1: v_e1_huber1000_3t_kqgp (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 218.863 | Δ -8.088 sn [%95: -9.650 … -6.486]
+  ay  1: taban 202.379 | aday 197.193 (n=152,271)
+  ay  7: taban 244.706 | aday 234.646 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 56/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_1] süre 2840 sn
+  EDDF: harman 149.5 (alt sınırsız) | 273 sn
+  EDDM: harman 147.4 (alt sınırsız) | 240 sn
+  EGLL: harman 196.9 (alt sınırsız) | 282 sn
+  EHAM: harman 146.9 (alt sınırsız) | 286 sn
+  LEBL: harman 199.1 (alt sınırsız) | 243 sn
+  LEMD: harman 161.4 (alt sınırsız) | 265 sn
+  LFPG: harman 209.7 (alt sınırsız) | 284 sn
+  LIRF: harman 343.4 (alt sınırsız) | 220 sn
+  LSZH: harman 154.0 (alt sınırsız) | 226 sn
+  LTFM: harman 291.1 (alt sınırsız) | 278 sn
+== split_2: v_e1_huber1000_3t_kqgp (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 209.886 | Δ -9.297 sn [%95: -12.298 … -6.612]
+  ay  2: taban 223.852 | aday 211.078 (n=142,622)
+  ay  8: taban 215.406 | aday 208.935 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 58/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_2] süre 2631 sn
+  EDDF: harman 162.4 (alt sınırsız) | 295 sn
+  EDDM: harman 173.9 (alt sınırsız) | 238 sn
+  EGLL: harman 214.1 (alt sınırsız) | 279 sn
+  EHAM: harman 148.1 (alt sınırsız) | 284 sn
+  LEBL: harman 177.1 (alt sınırsız) | 248 sn
+  LEMD: harman 164.6 (alt sınırsız) | 271 sn
+  LFPG: harman 219.8 (alt sınırsız) | 279 sn
+  LIRF: harman 355.0 (alt sınırsız) | 209 sn
+  LSZH: harman 159.8 (alt sınırsız) | 234 sn
+  LTFM: harman 198.6 (alt sınırsız) | 285 sn
+== split_3: v_e1_huber1000_3t_kqgp (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 208.159 | aday 201.775 | Δ -6.384 sn [%95: -8.098 … -3.693]
+  ay 12: taban 199.451 | aday 192.276 (n=164,028)
+  ay  6: taban 214.821 | aday 209.009 (n=180,640)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 60/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_3] süre 2654 sn
+cikis: 0

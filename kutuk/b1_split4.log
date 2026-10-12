@@ -1,0 +1,17 @@
+[split_4] eğitim 1,738,069 | doğrulama 324,343 | hazırlık 18 sn
+  EDDF: eğitim 192,603 doğrulama 35,582 | lgb_s42 159.1 lgb 158.3 cb 161.7 xgb 160.5 (alt sınırsız) | 177 sn
+  EDDM: eğitim 141,315 doğrulama 25,009 | lgb_s42 146.0 lgb 145.5 cb 151.8 xgb 147.2 (alt sınırsız) | 162 sn
+  EGLL: eğitim 199,603 doğrulama 38,529 | lgb_s42 208.9 lgb 208.0 cb 210.6 xgb 212.7 (alt sınırsız) | 190 sn
+  EHAM: eğitim 204,902 doğrulama 38,964 | lgb_s42 151.9 lgb 151.3 cb 154.9 xgb 153.2 (alt sınırsız) | 179 sn
+  LEBL: eğitim 150,493 doğrulama 27,345 | lgb_s42 160.2 lgb 159.4 cb 161.9 xgb 161.5 (alt sınırsız) | 170 sn
+  LEMD: eğitim 176,412 doğrulama 34,883 | lgb_s42 173.1 lgb 172.5 cb 174.1 xgb 173.2 (alt sınırsız) | 181 sn
+  LFPG: eğitim 198,222 doğrulama 37,509 | lgb_s42 228.3 lgb 227.2 cb 234.9 xgb 237.4 (alt sınırsız) | 187 sn
+  LIRF: eğitim 135,412 doğrulama 23,761 | lgb_s42 288.9 lgb 287.6 cb 291.6 xgb 290.8 (alt sınırsız) | 156 sn
+  LSZH: eğitim 112,270 doğrulama 20,278 | lgb_s42 152.3 lgb 151.6 cb 153.5 xgb 152.7 (alt sınırsız) | 155 sn
+  LTFM: eğitim 226,837 doğrulama 42,483 | lgb_s42 211.6 lgb 210.8 cb 217.9 xgb 216.4 (alt sınırsız) | 193 sn
+[split_4] süre 1769 sn
+[split_4] ağırlıklı RMSE (60 sn alt sınırlı): lgb_s42 192.374 | lgb 191.505 | cb 195.420 | xgb 195.079 | blend 191.761
+  alt sınırsız harman 192.391; alt sınıra takılan satır %0.00
+  aylar (harman): 11: 192.866, 3: 190.879
+  havalimanı (harman): EDDF 158.54, EDDM 143.18, EGLL 207.74, EHAM 151.04, LEBL 159.19, LEMD 171.74, LFPG 228.03, LIRF 287.16, LSZH 149.08, LTFM 211.44
+cikis: 0

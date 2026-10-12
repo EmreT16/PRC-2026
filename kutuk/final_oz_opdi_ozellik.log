@@ -1,0 +1,45 @@
+2025-01: 957,107 olay
+  153,706 kalkış → çağrı kodu 83,583, pist zamanı 1,084 | yerde görülen (OP_YER ≥ 150) 16,132 | 4 sn
+2025-02: 1,053,994 olay
+  143,732 kalkış → çağrı kodu 88,143, pist zamanı 644 | yerde görülen (OP_YER ≥ 150) 16,090 | 4 sn
+2025-03: 956,362 olay
+  164,449 kalkış → çağrı kodu 76,985, pist zamanı 743 | yerde görülen (OP_YER ≥ 150) 15,291 | 3 sn
+2025-04: 990,755 olay
+  175,288 kalkış → çağrı kodu 89,960, pist zamanı 964 | yerde görülen (OP_YER ≥ 150) 11,520 | 4 sn
+2025-05: 926,925 olay
+  185,202 kalkış → çağrı kodu 80,965, pist zamanı 1,210 | yerde görülen (OP_YER ≥ 150) 10,610 | 6 sn
+2025-06: 1,237,277 olay
+  183,142 kalkış → çağrı kodu 95,578, pist zamanı 1,701 | yerde görülen (OP_YER ≥ 150) 14,670 | 4 sn
+2025-07: 1,264,345 olay
+  190,713 kalkış → çağrı kodu 91,542, pist zamanı 2,595 | yerde görülen (OP_YER ≥ 150) 14,879 | 6 sn
+2025-08: 1,122,530 olay
+  191,182 kalkış → çağrı kodu 89,540, pist zamanı 1,659 | yerde görülen (OP_YER ≥ 150) 12,831 | 6 sn
+2025-09: 1,288,967 olay
+  183,950 kalkış → çağrı kodu 88,618, pist zamanı 1,806 | yerde görülen (OP_YER ≥ 150) 17,434 | 7 sn
+2025-10: 968,167 olay
+  185,674 kalkış → çağrı kodu 65,555, pist zamanı 1,062 | yerde görülen (OP_YER ≥ 150) 17,643 | 5 sn
+2025-11: 1,339,928 olay
+  162,332 kalkış → çağrı kodu 90,992, pist zamanı 913 | yerde görülen (OP_YER ≥ 150) 25,882 | 5 sn
+2025-12: 1,173,042 olay
+  165,677 kalkış → çağrı kodu 86,335, pist zamanı 1,050 | yerde görülen (OP_YER ≥ 150) 18,494 | 6 sn
+2026-01: 706,916 olay
+  152,719 kalkış → çağrı kodu 49,835, pist zamanı 690 | yerde görülen (OP_YER ≥ 150) 11,074 | 3 sn
+2026-02: 897,374 olay
+  144,158 kalkış → çağrı kodu 71,944, pist zamanı 930 | yerde görülen (OP_YER ≥ 150) 9,277 | 4 sn
+2026-06: 1,448,390 olay
+  181,791 kalkış → çağrı kodu 106,743, pist zamanı 1,539 | yerde görülen (OP_YER ≥ 150) 21,858 | 8 sn
+2026-07: 1,528,130 olay
+  192,122 kalkış → çağrı kodu 111,888, pist zamanı 1,607 | yerde görülen (OP_YER ≥ 150) 24,715 | 7 sn
+ay        2025-01  2025-02  2025-03  2025-04  2025-05  2025-06  2025-07  2025-08  2025-09  2025-10  2025-11  2025-12  2026-01  2026-02  2026-06  2026-07
+ADEP_mvt                                                                                                                                                
+EDDF           10       17       15       32       26      915      667       29     4748     5762     7381     8282     5265      790     9890    10932
+EDDM         1837      987      948      649      479     1484     1642     1489      414      958     1061       45       41       78       98      853
+EGLL           12       11       11       10        7       18       12       11        7        4       14       11        4        6        3       19
+EHAM          167      131      303      156       84       58       66      153       92       24       24       17        9       23       32       61
+LEBL         6361     6668     6160      826      623      782      660      526      542       98       27       29       24       23       50       60
+LEMD            0        1        1        0        8       27       27       17       23     3450     8826      398        6       20       36      131
+LFPG          115      137       90      182      126       82        1        0        1        0        0        1        1        0       11        8
+LIRF            5        3        6        8        2       12       22        6       10        5       15        8        6        2       14       26
+LSZH         7625     8135     7757     9657     9255    11292    11782    10600    11597     7342     8534     9703     5718     8335    11724    12625
+LTFM            0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0
+→ <repo>\data_final\opdi_oz.parquet (1,388,403 satır)

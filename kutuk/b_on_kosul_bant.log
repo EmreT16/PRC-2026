@@ -1,0 +1,7 @@
+Eğitim ön koşul satırı 68 | bant [15.5 sa, 24 sa): 13 satır, 24 saat 9 → p = 0.667; 24 saat hedef ortalaması 87,575 | bant altı: 1/53 24 saat
+Test ön koşul satırı 26 | bantta 3:
+ MVT_ID_mvt  gecikme    v126   taksi
+202680942.0  56520.0 56459.0 77224.0
+213145102.0  61322.0 61227.0 78824.0
+213154026.0  60656.0 60552.0 78602.0
+Beklenen SSE kazancı (eğitim oranları geçerliyse): 1.057e+09 → satır başına MSE 3,065

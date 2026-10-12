@@ -1,0 +1,72 @@
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDF: harman 151.3 (alt sınırsız) | 205 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDM: harman 154.6 (alt sınırsız) | 193 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EGLL: harman 201.1 (alt sınırsız) | 223 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EHAM: harman 146.7 (alt sınırsız) | 223 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEBL: harman 203.3 (alt sınırsız) | 192 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEMD: harman 160.9 (alt sınırsız) | 208 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LFPG: harman 214.4 (alt sınırsız) | 224 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LIRF: harman 354.8 (alt sınırsız) | 181 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LSZH: harman 154.8 (alt sınırsız) | 178 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LTFM: harman 332.9 (alt sınırsız) | 231 sn
+== split_2: v_lgb_taksi_kq (144 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 221.469 | Δ +2.285 sn [%95: -0.672 … +5.715]
+  ay  2: taban 223.852 | aday 230.494 (n=142,622)
+  ay  8: taban 215.406 | aday 214.033 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 41/59 (≥39) ✓ · güven aralığı < 0 ✗  →  RET
+[split_2] süre 2075 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDF: harman 166.0 (alt sınırsız) | 212 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDM: harman 179.3 (alt sınırsız) | 144 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EGLL: harman 220.5 (alt sınırsız) | 164 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EHAM: harman 147.5 (alt sınırsız) | 182 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEBL: harman 183.9 (alt sınırsız) | 194 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEMD: harman 167.0 (alt sınırsız) | 216 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LFPG: harman 225.9 (alt sınırsız) | 233 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LIRF: harman 356.2 (alt sınırsız) | 185 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LSZH: harman 160.4 (alt sınırsız) | 182 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LTFM: harman 210.3 (alt sınırsız) | 236 sn
+== split_3: v_lgb_taksi_kq (144 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 208.159 | aday 207.134 | Δ -1.025 sn [%95: -1.488 … -0.544]
+  ay 12: taban 199.451 | aday 198.473 (n=164,028)
+  ay  6: taban 214.821 | aday 213.760 (n=180,640)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 47/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_3] süre 1964 sn

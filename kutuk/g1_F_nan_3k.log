@@ -1,0 +1,13 @@
+[F_nan_3k] split_1'de seçilen {'xgb': 0.154, 'gcb_nan': 0.37, 'e1h3': 0.199, 'lgbh3': 0.277}
+== split_2'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 215.818 | Δ -3.365 sn [%95: -5.356 … -1.792]
+  ay  2: taban 223.852 | aday 218.389 (n=142,622)
+  ay  8: taban 215.406 | aday 213.756 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 51/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[F_nan_3k] split_2'de seçilen {'xgb': 0.145, 'gcb_nan': 0.399, 'e1h3': 0.285, 'lgbh3': 0.172}
+== split_1'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 225.397 | Δ -1.554 sn [%95: -2.150 … -1.007]
+  ay  1: taban 202.379 | aday 201.127 (n=152,271)
+  ay  7: taban 244.706 | aday 242.943 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 52/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[F_nan_3k] önerilen ağırlıklar: {'xgb': 0.1494, 'gcb_nan': 0.3843, 'e1h3': 0.2419, 'lgbh3': 0.2244} | çapraz Δ: split_2 -3.365, split_1 -1.554

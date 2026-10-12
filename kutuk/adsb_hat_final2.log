@@ -1,0 +1,9 @@
+2026-06-07: indirildi, 3.37 GB
+2026-06-07: çıkarma hatası (tar akışı erken bitti: 2.02 / 3.37 GB okundu); öbür kopya deneniyor
+2026-06-07: öbür kopyada da çıkarma hatası ([WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: '<repo>\\..\\PRC_adsb\\ham\\2026-06-07\\v2026.06.07-planes-readsb-staging-0.tar.ab')
+2026-06-23: indirildi, 3.97 GB
+2026-06-23: çıkarma hatası (tar akışı erken bitti: 2.02 / 3.97 GB okundu); öbür kopya deneniyor
+2026-06-23: öbür kopyada da çıkarma hatası ([WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: '<repo>\\..\\PRC_adsb\\ham\\2026-06-23\\v2026.06.23-planes-readsb-staging-0.tar.ab')
+2026-06-25: indirildi, 4.18 GB
+2026-06-25: çıkarma hatası (tar akışı erken bitti: 2.02 / 4.18 GB okundu); öbür kopya deneniyor
+2026-06-25: öbür kopyada da çıkarma hatası ([WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: '<repo>\\..\\PRC_adsb\\ham\\2026-06-25\\v2026.06.25-planes-readsb-staging-0.tar.ab')

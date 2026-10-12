@@ -1,0 +1,3 @@
+denetim: eski E1 ile yeniden hesap − mevcut taksi maks |fark| 0.000000 sn (10,643 hedge satırı)
+p_kilit (hedge satırları): eski ort 0.2028 → yeni 0.2095, korelasyon 0.9537 | taksi farkı RMS 13.46, ort +0.79, maks |fark| 320
+yazıldı: <repo>\data\preds\TEST_D_kqgpPeT2t5_adsb_42p9T.parquet

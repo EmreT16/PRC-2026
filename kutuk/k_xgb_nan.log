@@ -1,0 +1,11 @@
+== split_1: ADAY_v_xgb_nan:harman ↔ xgb
+  ağırlıklı RMSE: taban 231.429 | aday 231.721 | Δ +0.292 sn [%95: +0.005 … +0.587]
+  ay  1: taban 205.658 | aday 206.010 (n=152,271)
+  ay  7: taban 250.004 | aday 250.258 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 28/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: ADAY_v_xgb_nan:harman ↔ xgb
+  ağırlıklı RMSE: taban 220.500 | aday 220.804 | Δ +0.304 sn [%95: -0.029 … +0.676]
+  ay  2: taban 223.012 | aday 223.592 (n=142,622)
+  ay  8: taban 218.486 | aday 218.566 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 26/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+cikis: 0

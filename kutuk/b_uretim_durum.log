@@ -1,0 +1,14 @@
+durum ['kom', 'gs', 'pc', 'yte']: +29 sütun (atılan ['PC_KUYRUK_W', 'PC_AGIR_N']); test B boş oranı en çok 0.009
+eğitim 2,085,047 satır (B 22,470) | test B 5,290, LIRF dışı 4,907 | 8 sn
+LIRF dışı test B: ort. tahmin 1158.4 (v126 1228.9) | RMS fark 453.9 | 3.500 tavanında 24 (v126 41) | süre 159 sn
+           taksi    v126
+ADEP_mvt                
+EDDF      1190.7  1030.8
+EDDM      1218.7  1120.1
+EGLL      1554.9  1551.9
+EHAM      1158.6  1494.3
+LEBL      1110.3  1096.3
+LEMD      1152.7  1140.8
+LFPG      1272.6  1340.1
+LSZH       892.9   876.6
+LTFM      1140.5  1144.7

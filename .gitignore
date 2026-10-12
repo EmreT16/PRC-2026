@@ -1,0 +1,19 @@
+# Data and intermediate products (derived from the challenge data and from adsb.lol / OPDI; not redistributed)
+data/
+data_final/
+# Submission files (leaderboard and final); the final file is delivered to the organisers' bucket
+gonderim/
+gonderim_final/
+# Training by-products and local backups
+catboost_info/
+kutuk/skor_defteri.yedek_*.csv
+kutuk/*.done
+__pycache__/
+# METAR outputs of external/metar_indir.py and metar_saatlik.py (written to the repository root; kept outside)
+metar_ham/
+metar_saatlik.parquet
+eksik_saat.csv
+metar_ozet.txt
+*.pyc
+# Editor settings
+.vscode/

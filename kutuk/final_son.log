@@ -1,0 +1,40 @@
+[20:13:34] ADS-B gün özellikleri
+2026 ADS-B gün özelliği: {'01': 31, '02': 28, '06': 30, '07': 31} | fazladan: []
+[20:13:48] park dizisi (park_b_oz)
+[21:16:11] A: G2 + G2b birleştirme
+G2 66,512 satır (RMS 13.1), G2b 595,200 satır (RMS 11.9)
+[21:16:12] B: melez (tavan 5.000)
+LightGBM μ iki çalıştırmada aynı mı: 0.0 | CatBoost μ iki çalıştırma RMS farkı: 68.5
+melez: 8458 satır | ort 1147.4 | 5.000 tavanında 7
+[21:16:15] B: LIRF (yeni μ) + 24 sa tarih kayması
+tum6M_adsb → _bF: 4751 satır yeni tabanla
+tum6M_adsb_lirfte → _bF: 4751 satır yeni tabanla
+[21:16:32] B5 → D_kqgpxg_17a_b5_iz5_nmsiz_d5_12ay_k125_opdi_bF
+[21:26:49] gönderim
+[21:26:59] aday: ara gonderim_final/strong-moose_final_a21.parquet → gonderim_final/strong-moose_final_a22.parquet MD5: `d71798c42e9c4273466eb0df19f05d59`
+satır 670790 | boş 0 | en küçük 60.0
+ay başına ortalama: {1: 1084.0, 2: 983.4000244140625, 6: 980.5999755859375, 7: 994.4000244140625}
+Oca/Tem 344,841 satır: final − v320 RMS 26.4, ort -0.09
+                 size  <lambda_0>  mean
+B     ADEP_mvt                         
+False EDDF      35896   16.799999  -0.1
+      EDDM      25728   13.300000   0.1
+      EGLL      39592   18.200001  -0.1
+      EHAM      36976   11.700000   0.3
+      LEBL      29638   13.100000  -0.0
+      LEMD      36716   17.600000  -0.5
+      LFPG      39138   20.600000   0.1
+      LIRF      26516   36.900002   0.3
+      LSZH      22491   16.000000  -0.1
+      LTFM      46860   24.600000   0.2
+True  EDDF        421   47.099998   4.3
+      EDDM        238   40.200001  -2.0
+      EGLL        248   35.599998   2.7
+      EHAM       1206  127.500000 -19.5
+      LEBL        442   20.900000   0.6
+      LEMD        238   24.500000  -2.8
+      LFPG        734   53.500000  -2.3
+      LIRF        383  349.600006 -24.0
+      LSZH        659  218.500000  -6.6
+      LTFM        721   50.200001  -0.3
+[21:27:00] bitti

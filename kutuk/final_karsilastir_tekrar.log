@@ -1,0 +1,25 @@
+gonderim_final/strong-moose_final.parquet MD5 5192dc4098c66bc2127f5be84e1646b6 sha256 691516e3f8d993492fef1eb2640967e3107e19c34c0c8e9cf58672ac7b9bfaee
+../sistem_1_tekrar/gonderim_final/strong-moose_final.parquet MD5 89f225f7c03cd4fea7a0ae1a5de1b25c sha256 44688312b91ec631cec135e7c04a20d86d8ad27ace33122bfb33542d27e368ef
+tüm: n 670,790 | RMS 6.99 | ort +0.000 | maks 548 | |fark| > 60 sn %0.14 | korelasyon 0.999925
+            n    rms   ort    maks  pay_60sn_%
+tur                                           
+A    661713.0   6.81 -0.01  547.80        0.13
+B      9077.0  15.35  0.54  214.27        1.18
+           n   rms   ort    maks  pay_60sn_%
+ay                                          
+1   152719.0  7.86 -0.02  547.80        0.18
+2   144158.0  6.16  0.01  468.84        0.07
+6   181791.0  6.21 -0.00  320.76        0.10
+7   192122.0  7.52  0.01  422.31        0.20
+                  n    rms   ort    maks  pay_60sn_%
+havalimani                                          
+EDDF        70671.0   4.65  0.04  287.43        0.03
+EDDM        50872.0   2.85 -0.00  111.32        0.02
+EGLL        77221.0   4.13  0.00  228.44        0.02
+EHAM        75865.0   3.58 -0.01  207.33        0.06
+LEBL        59314.0   3.93  0.01  157.66        0.02
+LEMD        72480.0   4.24  0.02  192.64        0.03
+LFPG        77520.0   7.02 -0.02  428.88        0.10
+LIRF        52146.0  16.30  0.06  547.80        1.06
+LSZH        44908.0   3.99 -0.01  154.62        0.05
+LTFM        89793.0   9.41 -0.06  190.36        0.19

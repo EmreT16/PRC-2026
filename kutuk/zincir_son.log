@@ -1,0 +1,29 @@
+başladı 13:52:19 | v 0,9 adayları: strong-moose_v365.parquet / strong-moose_final_a68.parquet
+rhat korelasyonu (izli satırlar): 0.9473
+        Oca     Tem  ağırlıklı    izli    EDDF
+0.0  171.40  211.46     194.75  177.43  123.60  11
+0.1  171.06  211.08     194.39  176.84  122.73  11
+0.2  170.76  210.75     194.07  176.33  121.94  11
+0.3  170.49  210.46     193.79  175.88  121.22  11
+0.4  170.27  210.22     193.56  175.51  120.58  10
+0.5  170.09  210.02     193.37  175.20  120.02  10
+0.6  169.94  209.87     193.22  174.96  119.54  10
+0.7  169.83  209.76     193.11  174.78  119.14  10
+0.8  169.77  209.70     193.05  174.68  118.83  10
+0.9  169.74  209.69     193.03  174.65  118.60  10
+1.0  169.75  209.72     193.05  174.69  118.46  10
+çapraz: Oca'da v = 0.9 → Tem -1.774 | Tem'de v 
+v kuralı: v* = 0.9 ↔ ref 0.9: ağırlıklı +0.
+V_SECIM=0.9
+v kuralı: v* = 0.9 ↔ ref 0.9: ağırlıklı +0.000, Oca +0.000, Tem +0.000 → RET
+V_SECIM=0.9
+seçilen v = 0.9 14:18:37
+  data/preds: 2 ↔ 3 tohum korelasyonu 0.99871, fark RMS 17.84
+normal A hazır: D_kqgpPeT2t5_adsb_42p9T 17:09:48
+tn: ara gonderim/strong-moose_v369.parquet → gonderim/strong-moose_v370.parquet MD5: `9fe7d12a9bbba1446427bd15ddc7d369`
+  − strong-moose_v365.parquet: değişen 342,378, RMS 3.59, ort -0.049, maks |fark| 149
+  data_final/preds: 2 ↔ 3 tohum korelasyonu 0.99882, fark RMS 16.32
+final A hazır: D_kqgpPeT2t5_adsb_42p9T 20:05:46
+tf: ara gonderim_final/strong-moose_final_a74.parquet → gonderim_final/strong-moose_final_a75.parquet MD5: `2869b784519af106eec002fcf542553b`
+  − strong-moose_final_a68.parquet: değişen 666,573, RMS 3.24, ort -0.080, maks |fark| 226
+zincir bitti 20:05:54

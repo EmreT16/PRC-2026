@@ -1,0 +1,33 @@
+0:	learn: 361.0549209	test: 379.6837998	best: 379.6837998 (0)	total: 572ms	remaining: 28m 36s
+1000:	learn: 195.4587249	test: 220.3677969	best: 220.3677969 (1000)	total: 8m 50s	remaining: 17m 38s
+2000:	learn: 185.8569380	test: 216.9729613	best: 216.9729613 (2000)	total: 17m 36s	remaining: 8m 47s
+2999:	learn: 179.2243656	test: 215.6492313	best: 215.6492313 (2999)	total: 26m 9s	remaining: 0us
+bestTest = 215.6492313
+bestIteration = 2999
+== split_1: GCB_kat_ek5 tek ↔ B1 harmanı (en iyi iterasyon 2999)
+  ağırlıklı RMSE: taban 226.951 | aday 229.736 | Δ +2.785 sn [%95: +1.455 … +4.136]
+  ay  1: taban 202.379 | aday 206.230 (n=152,271)
+  ay  7: taban 244.706 | aday 246.808 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 10/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1: GCB_kat_ek5 yuzde50 ↔ B1 harmanı (en iyi iterasyon 2999)
+  ağırlıklı RMSE: taban 226.951 | aday 226.279 | Δ -0.671 sn [%95: -1.383 … +0.020]
+  ay  1: taban 202.379 | aday 202.321 (n=152,271)
+  ay  7: taban 244.706 | aday 243.627 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 37/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+0:	learn: 370.7735299	test: 375.9423932	best: 375.9423932 (0)	total: 732ms	remaining: 36m 34s
+1000:	learn: 198.6205796	test: 213.7118041	best: 213.7118041 (1000)	total: 8m 30s	remaining: 16m 59s
+2000:	learn: 188.8812986	test: 210.8646881	best: 210.8616468 (1997)	total: 17m 18s	remaining: 8m 38s
+2999:	learn: 182.1440799	test: 209.6354517	best: 209.6354517 (2999)	total: 26m 6s	remaining: 0us
+bestTest = 209.6354517
+bestIteration = 2999
+== split_2: GCB_kat_ek5 tek ↔ B1 harmanı (en iyi iterasyon 2999)
+  ağırlıklı RMSE: taban 219.184 | aday 219.286 | Δ +0.102 sn [%95: -1.681 … +1.615]
+  ay  2: taban 223.852 | aday 222.329 (n=142,622)
+  ay  8: taban 215.406 | aday 216.839 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 14/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: GCB_kat_ek5 yuzde50 ↔ B1 harmanı (en iyi iterasyon 2999)
+  ağırlıklı RMSE: taban 219.184 | aday 217.521 | Δ -1.662 sn [%95: -2.767 … -0.710]
+  ay  2: taban 223.852 | aday 221.074 (n=142,622)
+  ay  8: taban 215.406 | aday 214.659 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 40/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+cikis: 0

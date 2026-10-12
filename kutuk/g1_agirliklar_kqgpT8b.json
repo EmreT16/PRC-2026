@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_T",
+  "gcb_T4",
+  "e1h3_T6",
+  "lgbh3_T6",
+  "dw_T5"
+ ],
+ "agirlik": [
+  0.1832,
+  0.1832,
+  0.2799,
+  0.0997,
+  0.254
+ ],
+ "not": "05.10: T8 ağırlıkları + lgbh3 / E1 6 tohum, GCB 4, DW 5"
+}

@@ -1,0 +1,11 @@
+0:	learn: 370.7668706	total: 459ms	remaining: 30m 34s
+500:	learn: 191.8384718	total: 3m 30s	remaining: 24m 27s
+1000:	learn: 185.6990465	total: 7m 14s	remaining: 21m 41s
+1500:	learn: 181.5778900	total: 10m 58s	remaining: 18m 16s
+2000:	learn: 178.2464915	total: 14m 41s	remaining: 14m 40s
+2500:	learn: 175.5508170	total: 18m 24s	remaining: 11m 2s
+3000:	learn: 173.1429176	total: 21m 54s	remaining: 7m 17s
+3500:	learn: 170.9889466	total: 25m 30s	remaining: 3m 38s
+3999:	learn: 168.9933462	total: 29m 14s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_it12000_kqgpy.parquet | ort. ofset 14.5 | süre 1851 sn
+cikis: 0

@@ -1,0 +1,4 @@
+ay: 1: 193.85 → 193.49 2: 207.81 → 207.05 6: 204.07 → 203.69 7: 230.40 → 230.07 8: 204.85 → 204.94 12: 188.47 → 187.94 | ort -0.379 | iyi 5/6
+havalimanı: EDDF -0.34 EDDM -0.05 EGLL -0.13 EHAM -0.48 LEBL -0.14 LEMD -0.04 LFPG -0.45 LIRF +0.00 LSZH -0.34 LTFM -1.19
+test 339,551 | rhat ort -4.4, std 21.6 | OOF rhat ort -5.5, std 16.5
+süre 118 sn

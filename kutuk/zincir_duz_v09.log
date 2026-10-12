@@ -1,0 +1,10 @@
+başladı 10:31:31
+  bileşenler: 0,1 · lgb + 0,9 · nn − rhat maks 9.77e-05 | v 0,7 yeniden ↔ _42p5 (izli): korelasyon 1.0000, fark RMS 0.00
+  _42p9 − _42p5 rhat (izli 244,720): RMS 6.80, ort +0.192
+normal: ara gonderim/strong-moose_v364.parquet → gonderim/strong-moose_v365.parquet MD5: `8186d48441dd9e17e85aab31b8c86b89`
+  − v361: değişen 294,003, RMS 5.64, ort -0.003, maks |fark| 372
+  bileşenler: 0,1 · lgb + 0,9 · nn − rhat maks 8.54e-05 | v 0,7 yeniden ↔ _42p5 (izli): korelasyon 1.0000, fark RMS 0.00
+  _42p9 − _42p5 rhat (izli 475,238): RMS 6.45, ort +0.156
+final: ara gonderim_final/strong-moose_final_a67.parquet → gonderim_final/strong-moose_final_a68.parquet MD5: `8076e0fc003862d723a9913d1f76bde3`
+  gonderim_final/strong-moose_final_a68.parquet − a64: değişen 560,765, RMS 5.36, ort -0.004
+zincir bitti 13:51:31

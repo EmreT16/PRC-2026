@@ -1,0 +1,13 @@
+[v_xgb_kqgpy_1500] eğitim 2,062,378 | test 661,713 | özellik 224 | hazırlık 57 sn
+  EDDF: eğitim 228,185 test 69,905 | 63 sn
+  EDDM: eğitim 166,324 test 50,423 | 53 sn
+  EGLL: eğitim 238,132 test 76,750 | 71 sn
+  EHAM: eğitim 243,865 test 73,971 | 71 sn
+  LEBL: eğitim 177,838 test 58,555 | 59 sn
+  LEMD: eğitim 211,295 test 72,042 | 65 sn
+  LFPG: eğitim 235,725 test 76,215 | 68 sn
+  LIRF: eğitim 159,154 test 51,527 | 55 sn
+  LSZH: eğitim 132,540 test 43,861 | 49 sn
+  LTFM: eğitim 269,320 test 88,464 | 73 sn
+[v_xgb_kqgpy_1500] bitti: <repo>\data_final\preds\TEST_v_xgb_kqgpy_1500.parquet | ort. taksi 1005.4 | süre 684 sn
+cikis: 0

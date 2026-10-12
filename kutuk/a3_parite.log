@@ -1,0 +1,19 @@
+eğitim Oca+Tem 339,011 | test 339,551 | özellik 134 | 17 sn
+
+[ham] {'tamam': 130, 'UYARI': 4}
+  UYARI CALLSIGN_flt                 test satırlarının 46.9%'i eğitimde görülmemiş değer
+  UYARI FLIGHT_CODE                  test satırlarının 39.3%'i eğitimde görülmemiş değer
+  UYARI NM_MISSING                   iki tarafta da sabit (ölü)
+  UYARI RWY_DISPLACED_THRESH_FT      ortalama farkı 0.55 std; KS 0.20
+
+[matris] {'tamam': 126, 'UYARI': 8}
+  UYARI ADES_mvt                     iki tarafta da sabit (ölü)
+  UYARI CALLSIGN_flt                 iki tarafta da sabit (ölü)
+  UYARI MARKET_SEGMENT_flt           iki tarafta da sabit (ölü)
+  UYARI FLIGHT_CODE                  testte 2 sonsuz değer
+  UYARI AIRLINE_LETTERS              iki tarafta da sabit (ölü)
+  UYARI ADES_FILED                   iki tarafta da sabit (ölü)
+  UYARI NM_MISSING                   iki tarafta da sabit (ölü)
+  UYARI ROUTE_PAIR                   iki tarafta da sabit (ölü)
+toplam 41 sn
+cikis: 0

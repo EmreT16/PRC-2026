@@ -1,0 +1,8 @@
+başladı 14:12:37
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+ara gonderim/strong-moose_v260.parquet, aday gonderim/strong-moose_v261.parquet
+- MD5: `94ac543469ceba2970dca54e78a6eb93`
+- Kaynak: `gonderim/strong-moose_v260.parquet` (MD5 5480273bb2f2af842f2ac927bc53f287) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+  − v259: değişen 112,373 satır, RMS 0.54 sn | B satırları: değişen 3,367, RMS 4.3 | A satırları RMS 0.01
+zincir bitti 14:18:36

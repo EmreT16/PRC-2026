@@ -1,0 +1,8 @@
+CatBoost GPU tekrar farkı: teslim koşusu (data_final) ↔ sıfırdan tekrar koşusu (11–12.10), aynı kod ve tohumlar
+test tahmini (Model A ofseti, sn); birinci nesil (komşu tahmin özelliklerinden önce) ve son nesil
+TEST_gcb_it12000_kqgp                         global_cb  satır 661,713 | RMS 28.8 | maks |fark| 656
+TEST_gcb_dw_lr03_ek5_l2_10_kqgp               global_cb  satır 661,713 | RMS 23.2 | maks |fark| 487
+TEST_gcb_it12000_ort4_pist_kqgpy              global_cb  satır 661,713 | RMS 17.5 | maks |fark| 1032
+TEST_gcb_dw_lr03_ek5_l2_10_kqgpy_ort5_pist    global_cb  satır 661,713 | RMS 15.6 | maks |fark| 1062
+TEST_v_xgb_kqgpy_1500_pist                    xgb        satır 661,713 | RMS 12.9 | maks |fark| 2334
+TEST_tam_e1_lgb42: yok

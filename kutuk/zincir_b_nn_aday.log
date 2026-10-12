@@ -1,0 +1,39 @@
+başladı 11:08:19
+TEST_B_tum_dpdcb6c5N8: 4,907 satır | μ korelasyonu 0.9488 | taksi farkı RMS 145.2, ort -18.1
+      size  mean  <lambda_0>
+apt                         
+EDDF   421 -58.6       137.7
+EDDM   238 -12.7       104.8
+EGLL   248 -41.1       100.4
+EHAM  1206   1.1       237.7
+LEBL   442 -11.5        42.3
+LEMD   238 -14.8        64.8
+LFPG   734 -31.0       113.1
+LSZH   659 -16.6        99.0
+LTFM   721 -13.6        80.2
+normal aday: ara gonderim/strong-moose_v346.parquet → gonderim/strong-moose_v347.parquet MD5: `4c6919155612333dd20b7fa00fd721a3`
+  gonderim/strong-moose_v347.parquet − v345: değişen 198,783, RMS 15.63, ort +0.005, maks |fark| 1913
+  gonderim/strong-moose_v347.parquet − v343: değişen 344,644, RMS 18.12, ort -0.105, maks |fark| 1913
+TEST_B_tum_dpdcb6c5N: 8,458 satır | μ korelasyonu 0.9522 | taksi farkı RMS 127.2, ort -14.0
+      size  mean  <lambda_0>
+apt                         
+EDDF   766 -43.7       125.6
+EDDM   449 -17.1       118.8
+EGLL   471 -49.4       139.8
+EHAM  1894  10.7       204.7
+LEBL   759  -9.7        44.6
+LEMD   438 -12.7        67.6
+LFPG  1305 -26.6        97.6
+LSZH  1047 -14.2        87.9
+LTFM  1329  -8.9        66.7
+tum6M_adsb → _bN8: 7692 satır TabM'li melezle
+tum6M_adsb_lirfte → _bN8: 7692 satır TabM'li melezle
+final: ara gonderim_final/strong-moose_final_a49.parquet → gonderim_final/strong-moose_final_a50.parquet MD5: `ddfd10ffe6433878b0494f7cc259ecd3`
+  − a48: B satırları 9,077 RMS 105.8, ort -4.6; A satırları RMS 0.21
+           size  mean  <lambda_0>
+MVT_MONTH                        
+1          2453  -2.3  186.199997
+2          1320  -8.9   66.800003
+6          2467  -6.0   51.000000
+7          2837  -3.5   39.099998
+zincir bitti 11:22:09

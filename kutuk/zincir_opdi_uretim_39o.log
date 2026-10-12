@@ -1,0 +1,35 @@
+başladı 11:47:07 | _39o epoch=0 | opdi=1
+yankı hedge'i: β=0.25, 10,618 satır | ort. değişim 6.1 sn | ort. p_kilit 0.203
+eğitim satırı 1,453,054 | test satırı 339,551, ADS-B eşleşmeli 243,310 (%71.7)
+          satir  adsb  ort_fark  rms_fark
+ADEP_mvt                                 
+EDDF      35896  93.8       6.6      92.4
+EDDM      25728  97.9      -2.9     138.5
+EGLL      39592  95.7     -14.3     140.1
+EHAM      36976  98.8      -3.0     138.5
+LEBL      29638  97.7      -3.2     112.3
+LEMD      36716  97.8      -3.9      96.1
+LFPG      39138  31.7       2.1      45.9
+LIRF      26516  40.0      -3.9      45.5
+LSZH      22491  97.2       2.4     130.1
+LTFM      46860   0.6      -0.1       2.2
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+ara gonderim/strong-moose_v254.parquet, aday gonderim/strong-moose_v255.parquet
+- MD5: `cc9c416447a8f8f6ba3632eb7cb7e9aa`
+- Kaynak: `gonderim/strong-moose_v254.parquet` (MD5 df6a26e0369e60ef2335717fb89b83f4) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+− v243: değişen 290,809 satır, RMS 22.57 sn, ort +0.217
+           mean       <lambda_0>       
+MVT_MONTH     1     7          1      7
+ADEP_mvt                               
+EDDF       4.17  0.24      50.14  41.95
+EDDM       0.32 -0.02       7.65   8.07
+EGLL       0.39  0.02      12.99   8.93
+EHAM      -0.30 -0.69      12.48   7.95
+LEBL      -0.05 -0.29      10.94  25.77
+LEMD       0.44 -1.31       7.40  14.43
+LFPG      -0.09  0.35       7.21   8.92
+LIRF      -0.00  0.01      10.62   5.12
+LSZH      -3.18  4.84      49.96  56.32
+LTFM       0.00  0.02       0.39   1.01
+zincir bitti 12:16:03

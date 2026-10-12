@@ -1,0 +1,28 @@
+satır 2,085,047 (B 22,470) | özellik 121 | atılan ['PC_KUYRUK_W', 'PC_AGIR_N']
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 45 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/12: kayıp 0.1209 | 55 sn
+    epok 2/12: kayıp 0.0719 | 54 sn
+    epok 3/12: kayıp 0.0662 | 54 sn
+    epok 4/12: kayıp 0.0623 | 54 sn
+    epok 5/12: kayıp 0.0602 | 54 sn
+    epok 6/12: kayıp 0.0584 | 64 sn
+    epok 7/12: kayıp 0.0566 | 66 sn
+    epok 8/12: kayıp 0.0548 | 60 sn
+    epok 9/12: kayıp 0.0531 | 54 sn
+    epok 10/12: kayıp 0.0516 | 54 sn
+    epok 11/12: kayıp 0.0504 | 54 sn
+    epok 12/12: kayıp 0.0498 | 62 sn
+    epok 1/12: kayıp 0.1192 | 66 sn
+    epok 2/12: kayıp 0.0718 | 66 sn
+    epok 3/12: kayıp 0.0658 | 55 sn
+    epok 4/12: kayıp 0.0623 | 54 sn
+    epok 5/12: kayıp 0.0604 | 54 sn
+    epok 6/12: kayıp 0.0585 | 54 sn
+    epok 7/12: kayıp 0.0568 | 66 sn
+    epok 8/12: kayıp 0.0551 | 66 sn
+    epok 9/12: kayıp 0.0535 | 63 sn
+    epok 10/12: kayıp 0.0519 | 54 sn
+    epok 11/12: kayıp 0.0508 | 54 sn
+    epok 12/12: kayıp 0.0502 | 54 sn
+TEST_B_mu_nn_dparkktahkomgspcyte_e12_t2.parquet: 4,907 satır | ort μ_nn 1207.0 | 1470 sn

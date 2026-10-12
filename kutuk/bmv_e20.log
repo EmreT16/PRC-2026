@@ -1,0 +1,94 @@
+satır 2,085,047 (B 22,470) | özellik 121 | atılan ['PC_KUYRUK_W', 'PC_AGIR_N']
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 35 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/20: kayıp 0.1272 | 42 sn
+    epok 2/20: kayıp 0.0714 | 42 sn
+    epok 3/20: kayıp 0.0672 | 42 sn
+    epok 4/20: kayıp 0.0637 | 45 sn
+    epok 5/20: kayıp 0.0608 | 51 sn
+    epok 6/20: kayıp 0.0589 | 50 sn
+    epok 7/20: kayıp 0.0574 | 50 sn
+    epok 8/20: kayıp 0.0562 | 50 sn
+    epok 9/20: kayıp 0.0549 | 49 sn
+    epok 10/20: kayıp 0.0538 | 41 sn
+    epok 11/20: kayıp 0.0524 | 42 sn
+    epok 12/20: kayıp 0.0511 | 42 sn
+    epok 13/20: kayıp 0.0499 | 45 sn
+    epok 14/20: kayıp 0.0487 | 51 sn
+    epok 15/20: kayıp 0.0476 | 50 sn
+    epok 16/20: kayıp 0.0466 | 50 sn
+    epok 17/20: kayıp 0.0457 | 50 sn
+    epok 18/20: kayıp 0.0451 | 49 sn
+    epok 19/20: kayıp 0.0447 | 41 sn
+    epok 20/20: kayıp 0.0444 | 42 sn
+  Q1: eğitim 1,617,467 | doğrulama 3,627 | 965 sn
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 33 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/20: kayıp 0.1432 | 37 sn
+    epok 2/20: kayıp 0.0782 | 37 sn
+    epok 3/20: kayıp 0.0732 | 37 sn
+    epok 4/20: kayıp 0.0691 | 41 sn
+    epok 5/20: kayıp 0.0655 | 45 sn
+    epok 6/20: kayıp 0.0634 | 45 sn
+    epok 7/20: kayıp 0.0616 | 45 sn
+    epok 8/20: kayıp 0.0603 | 45 sn
+    epok 9/20: kayıp 0.0585 | 45 sn
+    epok 10/20: kayıp 0.0571 | 38 sn
+    epok 11/20: kayıp 0.0558 | 37 sn
+    epok 12/20: kayıp 0.0545 | 37 sn
+    epok 13/20: kayıp 0.0528 | 37 sn
+    epok 14/20: kayıp 0.0515 | 44 sn
+    epok 15/20: kayıp 0.0503 | 45 sn
+    epok 16/20: kayıp 0.0492 | 45 sn
+    epok 17/20: kayıp 0.0483 | 45 sn
+    epok 18/20: kayıp 0.0476 | 45 sn
+    epok 19/20: kayıp 0.0472 | 45 sn
+    epok 20/20: kayıp 0.0470 | 42 sn
+  Q2: eğitim 1,536,023 | doğrulama 5,192 | 875 sn
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 33 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/20: kayıp 0.1384 | 37 sn
+    epok 2/20: kayıp 0.0730 | 36 sn
+    epok 3/20: kayıp 0.0684 | 37 sn
+    epok 4/20: kayıp 0.0645 | 37 sn
+    epok 5/20: kayıp 0.0614 | 41 sn
+    epok 6/20: kayıp 0.0593 | 45 sn
+    epok 7/20: kayıp 0.0576 | 44 sn
+    epok 8/20: kayıp 0.0560 | 44 sn
+    epok 9/20: kayıp 0.0546 | 44 sn
+    epok 10/20: kayıp 0.0531 | 44 sn
+    epok 11/20: kayıp 0.0517 | 42 sn
+    epok 12/20: kayıp 0.0505 | 36 sn
+    epok 13/20: kayıp 0.0491 | 36 sn
+    epok 14/20: kayıp 0.0478 | 37 sn
+    epok 15/20: kayıp 0.0467 | 38 sn
+    epok 16/20: kayıp 0.0457 | 45 sn
+    epok 17/20: kayıp 0.0448 | 44 sn
+    epok 18/20: kayıp 0.0441 | 44 sn
+    epok 19/20: kayıp 0.0437 | 44 sn
+    epok 20/20: kayıp 0.0435 | 44 sn
+  Q3: eğitim 1,514,505 | doğrulama 8,733 | 856 sn
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 35 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/20: kayıp 0.1383 | 40 sn
+    epok 2/20: kayıp 0.0750 | 40 sn
+    epok 3/20: kayıp 0.0701 | 40 sn
+    epok 4/20: kayıp 0.0664 | 40 sn
+    epok 5/20: kayıp 0.0631 | 45 sn
+    epok 6/20: kayıp 0.0608 | 49 sn
+    epok 7/20: kayıp 0.0593 | 48 sn
+    epok 8/20: kayıp 0.0578 | 48 sn
+    epok 9/20: kayıp 0.0565 | 48 sn
+    epok 10/20: kayıp 0.0550 | 46 sn
+    epok 11/20: kayıp 0.0537 | 40 sn
+    epok 12/20: kayıp 0.0522 | 40 sn
+    epok 13/20: kayıp 0.0510 | 40 sn
+    epok 14/20: kayıp 0.0497 | 44 sn
+    epok 15/20: kayıp 0.0485 | 49 sn
+    epok 16/20: kayıp 0.0475 | 49 sn
+    epok 17/20: kayıp 0.0466 | 48 sn
+    epok 18/20: kayıp 0.0459 | 48 sn
+    epok 19/20: kayıp 0.0455 | 47 sn
+    epok 20/20: kayıp 0.0453 | 40 sn
+  Q4: eğitim 1,565,936 | doğrulama 4,918 | 928 sn
+OOF → BM_cv_mu_nn_dparkktahkomgspcyte_e20_t1_oof.parquet | 3637 sn

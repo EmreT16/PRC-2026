@@ -1,0 +1,11 @@
+                               satır    RMSE
+LIRF ön koşul dışı v126       1420.0  3187.3
+                   v126+oran  1420.0  2991.3
+LIRF hepsi         v126       1488.0  4350.7
+                   v126+oran  1488.0  4325.4
+v126: çeyrek logloss [0.3428, 0.4298, 0.4797, 0.3793] | ort 0.4079
+v126+oran: çeyrek logloss [0.3056, 0.3594, 0.4557, 0.3898] | ort 0.3776
+  Q1 ön koşul dışı: v126 2362.3 | v126+oran 2201.6
+  Q2 ön koşul dışı: v126 3179.9 | v126+oran 2970.1
+  Q3 ön koşul dışı: v126 3622.2 | v126+oran 3381.8
+  Q4 ön koşul dışı: v126 2290.5 | v126+oran 2263.1

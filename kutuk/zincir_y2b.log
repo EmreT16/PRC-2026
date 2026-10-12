@@ -1,0 +1,12 @@
+- Dosya: `<repo>\gonderim\strong-moose_v214.parquet`
+- MD5: `b4030e306e2fdb4dc010076e6cf5c6b3`
+- Aday: `D_kqgpT5_adsb_28a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+| model_b_kalan_ayni | ✓ |
+| model_b_yeni_uygulandi | ✓ |
+| lobt_kirpilan_model_b_satir | 0.00 |
+| model_b_degisen_satir | 5,290.00 |
+| model_b_rms_fark | 395.36 |
+| model_b_ort_fark | 5.17 |
+| model_b_ort_v126 | 1,645.98 |
+| model_b_ort_yeni | 1,651.15 |
+zincir bitti 04:24:52

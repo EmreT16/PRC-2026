@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_kqgp_1500",
+  "gcb12k_ort2_kqgp",
+  "e1h3_kqgp",
+  "lgbh3_kqgp",
+  "dw_kqgp"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "01.10 gece: kqgpx + global CatBoost 12.000 iterasyon (2 tohum ortalaması); D_dw ağırlıkları"
+}

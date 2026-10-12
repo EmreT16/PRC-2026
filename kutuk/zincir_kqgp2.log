@@ -1,0 +1,53 @@
+lgbh3_kqgp bitti 04:47:09
+lgbh3 kqg → kqgp (taksi RMSE, sn): 1: 199.71 → 196.50 (-3.21) 2: 216.40 → 211.30 (-5.10) 6: 211.69 → 207.11 (-4.58) 7: 240.05 → 234.63 (-5.42) 8: 211.79 → 208.32 (-3.47) 12: 195.62 → 191.76 (-3.86)
+iyi ay 6/6 | ortalama Δ -4.275 → KABUL
+kuyruk_29 başladı 04:47:09
+kuyruk_29 bitti: 0 08:35:34
+kuyruk_30 başladı 03:51:03 (erken)
+DW + XGB HAZIR 05:36:38
+kuyruk bitti: 0 10:43:49
+== harman ağırlıkları (3 bölme, bilgi için) 10:44:42
+split_1 dışarıda: ağırlık {'xgb_kqgp': 0.1541, 'gcb6k_ort2_kqgp': 0.1536, 'e1h3_kqgp': 0.1977, 'lgbh3_kqgp': 0.1797, 'dw_kqgp': 0.315} → ay 1 193.90, ay 7 230.58 | sabit: ay 1 194.07, ay 7 230.53
+split_2 dışarıda: ağırlık {'xgb_kqgp': 0.095, 'gcb6k_ort2_kqgp': 0.1416, 'e1h3_kqgp': 0.1924, 'lgbh3_kqgp': 0.1946, 'dw_kqgp': 0.3764} → ay 2 208.27, ay 8 205.08 | sabit: ay 2 208.27, ay 8 205.06
+split_3 dışarıda: ağırlık {'xgb_kqgp': 0.1423, 'gcb6k_ort2_kqgp': 0.1408, 'e1h3_kqgp': 0.2336, 'lgbh3_kqgp': 0.1292, 'dw_kqgp': 0.3541} → ay 6 204.27, ay 12 188.72 | sabit: ay 6 204.28, ay 12 188.72
+önerilen (3 bölme): {'xgb_kqgp': 0.1295, 'gcb6k_ort2_kqgp': 0.145, 'e1h3_kqgp': 0.2074, 'lgbh3_kqgp': 0.1681, 'dw_kqgp': 0.35} → <repo>\kutuk\g1_agirliklar_kqgp_3b.json
+== düzeltici CV (kqgp, kuyruk=1) 10:44:47
+k=0.0   194.07             173.67  230.53             227.59             215.16
+k=1.0   175.79             138.02  216.13             207.54             199.29
+EDDF  36231.0     98.5  168.3        128.1
+EDDM  26854.0     95.2  159.8        117.6
+EGLL  39744.0     82.9  225.5        213.5
+EHAM  40141.0     99.4  160.7        106.4
+LEBL  28490.0     98.6  213.5        185.4
+LEMD  35019.0     71.2  164.6        163.4
+LFPG  38732.0     18.5  236.2        235.5
+LIRF  26131.0     55.8  365.4        361.7
+LSZH  21822.0     98.1  171.0        128.8
+LTFM  45882.0      0.0  226.6        226.6
+süre 137 sn
+== düzeltici CV (kqgp, kuyruk=1 pencere=1) 10:47:07
+k=0.0   194.07             173.67  230.53             227.59             215.16
+k=1.0   175.83             138.09  216.05             207.42             199.25
+EDDF  36231.0     98.5  168.3        127.4
+EDDM  26854.0     95.2  159.8        117.7
+EGLL  39744.0     82.9  225.5        214.2
+EHAM  40141.0     99.4  160.7        106.7
+LEBL  28490.0     98.6  213.5        185.6
+LEMD  35019.0     71.2  164.6        163.7
+LFPG  38732.0     18.5  236.2        235.5
+LIRF  26131.0     55.8  365.4        360.7
+LSZH  21822.0     98.1  171.0        128.2
+LTFM  45882.0      0.0  226.6        226.6
+süre 179 sn
+== v184 10:50:08
+- Dosya: `<repo>\gonderim\strong-moose_v184.parquet`
+- MD5: `a83825f2d69e2a35d5fc3f670fe58b71`
+- Aday: `D_kqgp_adsb_14a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+== v185 10:57:19
+- Dosya: `<repo>\gonderim\strong-moose_v185.parquet`
+- MD5: `25b9354f7ac0850ede9e997e8a6d6c59`
+- Aday: `D_kqgp_adsb_14b`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+strong-moose_v185.parquet
+strong-moose_v184.parquet
+strong-moose_v183.parquet
+zincir bitti 11:05:42

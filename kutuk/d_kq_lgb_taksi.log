@@ -1,0 +1,32 @@
+[v_lgb_taksi_kq] eğitim 2,062,378 | test 339,551 | özellik 144 | hazırlık 20 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDF: eğitim 228,185 test 35,896 | 214 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDM: eğitim 166,324 test 25,728 | 208 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EGLL: eğitim 238,132 test 39,592 | 241 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EHAM: eğitim 243,865 test 36,976 | 248 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEBL: eğitim 177,838 test 29,638 | 195 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEMD: eğitim 211,295 test 36,716 | 216 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LFPG: eğitim 235,725 test 39,138 | 215 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LIRF: eğitim 159,154 test 26,516 | 150 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LSZH: eğitim 132,540 test 22,491 | 162 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LTFM: eğitim 269,320 test 46,860 | 179 sn
+[v_lgb_taksi_kq] bitti: <repo>\data\preds\TEST_v_lgb_taksi_kq.parquet | ort. taksi 1030.8 | süre 2047 sn

@@ -1,0 +1,61 @@
+0:	learn: 375.2183459	total: 190ms	remaining: 28m 25s
+500:	learn: 185.2279639	total: 1m 1s	remaining: 17m 28s
+1000:	learn: 179.2995217	total: 1m 57s	remaining: 15m 40s
+1500:	learn: 174.9236023	total: 2m 50s	remaining: 14m 10s
+2000:	learn: 171.2486261	total: 3m 41s	remaining: 12m 54s
+2500:	learn: 167.9798403	total: 4m 32s	remaining: 11m 47s
+3000:	learn: 164.9582534	total: 5m 22s	remaining: 10m 44s
+3500:	learn: 162.0757460	total: 6m 13s	remaining: 9m 47s
+4000:	learn: 159.3516259	total: 7m 6s	remaining: 8m 52s
+4500:	learn: 156.7105453	total: 7m 58s	remaining: 7m 58s
+5000:	learn: 154.2117938	total: 8m 50s	remaining: 7m 4s
+5500:	learn: 151.8715190	total: 9m 42s	remaining: 6m 10s
+6000:	learn: 149.5798656	total: 10m 35s	remaining: 5m 17s
+6500:	learn: 147.2870152	total: 11m 29s	remaining: 4m 24s
+7000:	learn: 145.0342240	total: 12m 24s	remaining: 3m 32s
+7500:	learn: 142.8895633	total: 13m 17s	remaining: 2m 39s
+8000:	learn: 140.8131703	total: 14m 13s	remaining: 1m 46s
+8500:	learn: 138.7842910	total: 15m 8s	remaining: 53.3s
+8999:	learn: 136.7253229	total: 16m 5s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_dw_lr03_ek5_l2_10_kqgpy_t42.parquet | ort. ofset 11.3 | süre 1088 sn
+0:	learn: 375.2853078	total: 268ms	remaining: 40m 8s
+500:	learn: 185.1816595	total: 1m 1s	remaining: 17m 14s
+1000:	learn: 179.1941065	total: 1m 52s	remaining: 14m 59s
+1500:	learn: 174.9267870	total: 2m 45s	remaining: 13m 45s
+2000:	learn: 171.2952881	total: 3m 36s	remaining: 12m 37s
+2500:	learn: 167.9382412	total: 4m 27s	remaining: 11m 34s
+3000:	learn: 164.9596801	total: 5m 18s	remaining: 10m 36s
+3500:	learn: 162.1578998	total: 6m 9s	remaining: 9m 40s
+4000:	learn: 159.4802955	total: 7m 1s	remaining: 8m 46s
+4500:	learn: 156.9190869	total: 7m 53s	remaining: 7m 53s
+5000:	learn: 154.4377857	total: 8m 45s	remaining: 7m
+5500:	learn: 152.0409640	total: 9m 37s	remaining: 6m 7s
+6000:	learn: 149.7007290	total: 10m 30s	remaining: 5m 15s
+6500:	learn: 147.3746773	total: 11m 25s	remaining: 4m 23s
+7000:	learn: 145.2123383	total: 12m 18s	remaining: 3m 30s
+7500:	learn: 143.1249269	total: 13m 13s	remaining: 2m 38s
+8000:	learn: 140.9806427	total: 14m 8s	remaining: 1m 45s
+8500:	learn: 138.8760046	total: 15m 5s	remaining: 53.1s
+8999:	learn: 136.8997693	total: 16m	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_dw_lr03_ek5_l2_10_kqgpy_t2026.parquet | ort. ofset 11.0 | süre 2111 sn
+0:	learn: 375.2884831	total: 307ms	remaining: 46m 3s
+500:	learn: 185.3580110	total: 1m 9s	remaining: 19m 32s
+1000:	learn: 179.4305617	total: 2m 4s	remaining: 16m 32s
+1500:	learn: 175.0615880	total: 2m 56s	remaining: 14m 43s
+2000:	learn: 171.3731091	total: 3m 47s	remaining: 13m 16s
+2500:	learn: 168.0795511	total: 4m 37s	remaining: 12m 2s
+3000:	learn: 165.1136977	total: 5m 28s	remaining: 10m 56s
+3500:	learn: 162.2778214	total: 6m 19s	remaining: 9m 56s
+4000:	learn: 159.6176026	total: 7m 11s	remaining: 8m 58s
+4500:	learn: 157.1041876	total: 8m 2s	remaining: 8m 1s
+5000:	learn: 154.6295495	total: 8m 53s	remaining: 7m 6s
+5500:	learn: 152.2371429	total: 9m 46s	remaining: 6m 12s
+6000:	learn: 149.9339377	total: 10m 39s	remaining: 5m 19s
+6500:	learn: 147.6849780	total: 11m 33s	remaining: 4m 26s
+7000:	learn: 145.4846912	total: 12m 26s	remaining: 3m 33s
+7500:	learn: 143.3559696	total: 13m 19s	remaining: 2m 39s
+8000:	learn: 141.2588628	total: 14m 14s	remaining: 1m 46s
+8500:	learn: 139.2551412	total: 15m 9s	remaining: 53.4s
+8999:	learn: 137.2654110	total: 16m 4s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_dw_lr03_ek5_l2_10_kqgpy_t7.parquet | ort. ofset 11.1 | süre 3137 sn
+cikis: 0

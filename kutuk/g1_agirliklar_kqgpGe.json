@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_G",
+  "gcb_G4",
+  "e1h3_G6",
+  "lgbh3_G6",
+  "dw_G5"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "06.10: kqgpPe ile aynı ağırlıklar ve tohumlar, test bileşenleri MVT_DAY'siz (zincir_gunsuz.sh)"
+}

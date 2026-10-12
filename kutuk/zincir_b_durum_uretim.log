@@ -1,0 +1,85 @@
+başladı 19:49:02
+durum ['kom', 'gs', 'pc', 'yte']: +29 sütun (atılan ['PC_KUYRUK_W', 'PC_AGIR_N']); test B boş oranı en çok 0.009
+eğitim 2,085,047 satır (B 22,470) | test B 5,290, LIRF dışı 4,907 | 8 sn
+LIRF dışı test B: ort. tahmin 1158.4 (v126 1228.9) | RMS fark 453.9 | 3.500 tavanında 24 (v126 41) | süre 159 sn
+           taksi    v126
+ADEP_mvt                
+EDDF      1190.7  1030.8
+EDDM      1218.7  1120.1
+EGLL      1554.9  1551.9
+EHAM      1158.6  1494.3
+LEBL      1110.3  1096.3
+LEMD      1152.7  1140.8
+LFPG      1272.6  1340.1
+LSZH       892.9   876.6
+LTFM      1140.5  1144.7
+taban yeniden üretim: maks fark 0.0000 sn (BİREBİR)
+Traceback (most recent call last):
+  File "<python>\Lib\site-packages\pandas\core\internals\blocks.py", line 1115, in setitem
+    casted = np_can_hold_element(values.dtype, value)
+  File "<python>\Lib\site-packages\pandas\core\dtypes\cast.py", line 1788, in np_can_hold_element
+    raise LossySetitemError
+pandas.errors.LossySetitemError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<stdin>", line 17, in <module>
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 938, in __setitem__
+    iloc._setitem_with_indexer(indexer, value, self.name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1953, in _setitem_with_indexer
+    self._setitem_with_indexer_split_path(indexer, value, name)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1997, in _setitem_with_indexer_split_path
+    self._setitem_single_column(ilocs[0], value, pi)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 2181, in _setitem_single_column
+    self.obj._mgr.column_setitem(loc, plane_indexer, value)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\internals\managers.py", line 1520, in column_setitem
+    new_mgr = col_mgr.setitem((idx,), value)
+  File "<python>\Lib\site-packages\pandas\core\internals\managers.py", line 604, in setitem
+    return self.apply("setitem", indexer=indexer, value=value)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\internals\managers.py", line 442, in apply
+    applied = getattr(b, f)(**kwargs)
+  File "<python>\Lib\site-packages\pandas\core\internals\blocks.py", line 1118, in setitem
+    nb = self.coerce_to_target_dtype(value, raise_on_upcast=True)
+  File "<python>\Lib\site-packages\pandas\core\internals\blocks.py", line 468, in coerce_to_target_dtype
+    raise TypeError(f"Invalid value '{other}' for dtype '{self.values.dtype}'")
+TypeError: Invalid value '[ 949.40352783  858.70971709  880.19954366 ...  900.26494696 1329.51031493
+ 1151.27028947]' for dtype 'float32'
+Traceback (most recent call last):
+  File "<stdin>", line 4, in <module>
+  File "<python>\Lib\site-packages\pandas\io\parquet.py", line 671, in read_parquet
+    return impl.read(
+           ~~~~~~~~~^
+        path,
+        ^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "<python>\Lib\site-packages\pandas\io\parquet.py", line 253, in read
+    path_or_handle, handles, filesystem = _get_path_or_handle(
+                                          ~~~~~~~~~~~~~~~~~~~^
+        path,
+        ^^^^^
+    ...<2 lines>...
+        mode="rb",
+        ^^^^^^^^^^
+    )
+    ^
+  File "<python>\Lib\site-packages\pandas\io\parquet.py", line 141, in _get_path_or_handle
+    handles = get_handle(
+        path_or_handle, mode, is_text=False, storage_options=storage_options
+    )
+  File "<python>\Lib\site-packages\pandas\io\common.py", line 935, in get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'data/preds/TEST_B_D_kqgpxg_17a_b5_bdurum.parquet'
+- Dosya: `<repo>\gonderim\strong-moose_v229.parquet`
+- MD5: `34fced2fe6306492c10a9caf24e83798`
+- Kaynak: `gonderim/strong-moose_v228.parquet` (MD5 e9393afb914fe13576eecbd3c35aceec) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+zincir bitti 19:57:22

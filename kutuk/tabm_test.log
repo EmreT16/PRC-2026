@@ -1,0 +1,41 @@
+normal kip başladı 22:48:32
+  hazırlık: 230 sayısal (eksiklik bayrakları dahil), 11 kategorik | 127 sn
+  TabM: 5 sabit sütun atıldı, 225 sayısal kaldı
+    epok 1/8: kayıp 0.0651 | 103 sn
+    epok 2/8: kayıp 0.0529 | 111 sn
+    epok 3/8: kayıp 0.0513 | 111 sn
+    epok 4/8: kayıp 0.0501 | 112 sn
+    epok 5/8: kayıp 0.0488 | 111 sn
+    epok 6/8: kayıp 0.0471 | 111 sn
+    epok 7/8: kayıp 0.0455 | 111 sn
+    epok 8/8: kayıp 0.0444 | 111 sn
+    epok 1/8: kayıp 0.0642 | 113 sn
+    epok 2/8: kayıp 0.0531 | 110 sn
+    epok 3/8: kayıp 0.0516 | 109 sn
+    epok 4/8: kayıp 0.0501 | 109 sn
+    epok 5/8: kayıp 0.0498 | 109 sn
+    epok 6/8: kayıp 0.0473 | 109 sn
+    epok 7/8: kayıp 0.0458 | 109 sn
+    epok 8/8: kayıp 0.0448 | 109 sn
+[tam] 339,551 test satırı | ort. ofset 16.5 | 2168 sn
+final kip başladı 23:24:50
+  hazırlık: 230 sayısal (eksiklik bayrakları dahil), 11 kategorik | 152 sn
+  TabM: 5 sabit sütun atıldı, 225 sayısal kaldı
+    epok 1/8: kayıp 0.0651 | 100 sn
+    epok 2/8: kayıp 0.0529 | 111 sn
+    epok 3/8: kayıp 0.0513 | 111 sn
+    epok 4/8: kayıp 0.0501 | 111 sn
+    epok 5/8: kayıp 0.0488 | 111 sn
+    epok 6/8: kayıp 0.0471 | 111 sn
+    epok 7/8: kayıp 0.0456 | 111 sn
+    epok 8/8: kayıp 0.0445 | 111 sn
+    epok 1/8: kayıp 0.0643 | 115 sn
+    epok 2/8: kayıp 0.0531 | 111 sn
+    epok 3/8: kayıp 0.0515 | 113 sn
+    epok 4/8: kayıp 0.0501 | 109 sn
+    epok 5/8: kayıp 0.0498 | 111 sn
+    epok 6/8: kayıp 0.0473 | 109 sn
+    epok 7/8: kayıp 0.0458 | 109 sn
+    epok 8/8: kayıp 0.0448 | 109 sn
+[tam] 661,713 test satırı | ort. ofset 18.7 | 2464 sn
+bitti 00:06:03

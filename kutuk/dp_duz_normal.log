@@ -1,0 +1,43 @@
+kopya s30: 1,442,343 eşleşmeli satır (özgün tanımla)
+kopya s10: 1,428,219 eşleşmeli satır (özgün tanımla)
+  TabMReg: 4,326,713 satır, 157 sayısal, 1 kategorik | hazırlık 162 sn
+    epok 1/8: kayıp 0.0310 | 76 sn
+    epok 2/8: kayıp 0.0286 | 85 sn
+    epok 3/8: kayıp 0.0278 | 83 sn
+    epok 4/8: kayıp 0.0273 | 82 sn
+    epok 5/8: kayıp 0.0267 | 82 sn
+    epok 6/8: kayıp 0.0261 | 82 sn
+    epok 7/8: kayıp 0.0255 | 82 sn
+    epok 8/8: kayıp 0.0252 | 83 sn
+  TabMReg: 4,326,713 satır, 157 sayısal, 1 kategorik | hazırlık 116 sn
+    epok 1/8: kayıp 0.0310 | 69 sn
+    epok 2/8: kayıp 0.0286 | 78 sn
+    epok 3/8: kayıp 0.0278 | 83 sn
+    epok 4/8: kayıp 0.0272 | 82 sn
+    epok 5/8: kayıp 0.0267 | 82 sn
+    epok 6/8: kayıp 0.0260 | 82 sn
+    epok 7/8: kayıp 0.0254 | 82 sn
+    epok 8/8: kayıp 0.0251 | 82 sn
+  TabMReg: 4,326,713 satır, 157 sayısal, 1 kategorik | hazırlık 110 sn
+    epok 1/8: kayıp 0.0310 | 69 sn
+    epok 2/8: kayıp 0.0285 | 69 sn
+    epok 3/8: kayıp 0.0278 | 81 sn
+    epok 4/8: kayıp 0.0272 | 82 sn
+    epok 5/8: kayıp 0.0266 | 82 sn
+    epok 6/8: kayıp 0.0260 | 82 sn
+    epok 7/8: kayıp 0.0254 | 82 sn
+    epok 8/8: kayıp 0.0251 | 82 sn
+yankı hedge'i: β=0.25, 10,643 satır | ort. değişim 5.7 sn | ort. p_kilit 0.203
+eğitim satırı 1,456,151 | test satırı 339,551, ADS-B eşleşmeli 244,720 (%72.1)
+          satir  adsb  ort_fark  rms_fark
+ADEP_mvt                                 
+EDDF      35896  93.8       7.5      94.6
+EDDM      25728  97.9       3.8     139.4
+EGLL      39592  95.7     -11.0     137.5
+EHAM      36976  98.8      -2.4     137.9
+LEBL      29638  97.7       0.8     111.3
+LEMD      36716  97.8       0.4      96.2
+LFPG      39138  31.7       3.6      51.4
+LIRF      26516  40.0      -0.5      51.4
+LSZH      22491  97.2       3.4     130.8
+LTFM      46860   0.6      -0.0       1.3

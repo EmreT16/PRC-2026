@@ -1,0 +1,99 @@
+06:39:44
+2025-12-01: indirildi, 3.28 GB
+2025-12-01: iz 61,393 | tutulan uçak-havalimanı 3,818 | nokta 1,533,152 | havalimanı başına nokta {'EHAM': 421213, 'LEMD': 213308, 'EDDF': 184754, 'EDDM': 169765, 'LEBL': 144898, 'EGLL': 127100, 'LSZH': 123949, 'LIRF': 75195, 'LFPG': 70271, 'LTFM': 2699} | 79 sn
+2025-12-02: indirildi, 3.05 GB
+2025-12-02: iz 60,465 | tutulan uçak-havalimanı 3,531 | nokta 1,427,848 | havalimanı başına nokta {'EHAM': 400516, 'LEMD': 194561, 'EDDF': 175255, 'EDDM': 161127, 'EGLL': 128632, 'LSZH': 115561, 'LEBL': 107412, 'LFPG': 81059, 'LIRF': 61027, 'LTFM': 2698} | 120 sn
+2025-12-03: indirildi, 3.21 GB
+2025-12-03: iz 66,689 | tutulan uçak-havalimanı 3,395 | nokta 1,580,327 | havalimanı başına nokta {'EHAM': 411709, 'EGLL': 237891, 'LEMD': 196223, 'EDDF': 172944, 'EDDM': 169789, 'LEBL': 121766, 'LSZH': 121750, 'LFPG': 83124, 'LIRF': 65084, 'LTFM': 47} | 118 sn
+2025-12-04: indirildi, 3.26 GB
+2025-12-04: iz 66,252 | tutulan uçak-havalimanı 3,474 | nokta 1,464,903 | havalimanı başına nokta {'EHAM': 397659, 'LEMD': 198604, 'EDDM': 168692, 'EDDF': 167021, 'LEBL': 146130, 'EGLL': 119971, 'LSZH': 117768, 'LFPG': 82116, 'LIRF': 66917, 'LTFM': 25} | 147 sn
+2025-12-05: indirildi, 3.34 GB
+2025-12-05: iz 64,568 | tutulan uçak-havalimanı 3,607 | nokta 1,670,271 | havalimanı başına nokta {'EHAM': 392122, 'EGLL': 248989, 'LEMD': 225475, 'EDDF': 176406, 'EDDM': 175368, 'LEBL': 169120, 'LSZH': 129103, 'LFPG': 79003, 'LIRF': 74648, 'LTFM': 37} | 162 sn
+2025-12-06: indirildi, 2.83 GB
+2025-12-06: iz 53,601 | tutulan uçak-havalimanı 3,141 | nokta 1,354,127 | havalimanı başına nokta {'EHAM': 355585, 'LEMD': 192942, 'EDDF': 173233, 'EDDM': 142205, 'LEBL': 138923, 'EGLL': 114688, 'LSZH': 103360, 'LFPG': 68489, 'LIRF': 64667, 'LTFM': 35} | 125 sn
+2025-12-07: indirildi, 2.85 GB
+2025-12-07: çıkarma hatası ([Errno 22] Invalid argument); öbür kopya deneniyor
+2025-12-07: öbür kopyada da çıkarma hatası ([WinError 32] Dosya başka bir işlem tarafından kullanıldığından bu işlem dosyaya erişemiyor: 'D:\\PRC_adsb\\ham\\2025-12-07\\v2025.12.07-planes-readsb-staging-0.tar.ab')
+curl: (23) Failure writing output to destination, passed 4134 returned 4020
+2025-12-08: prod kopyası inmedi, staging deneniyor (2 parça)
+curl: (23) Failure writing output to destination, passed 5512 returned 1340
+2025-12-08: indirme hatası (Command '['curl', '-L', '--fail', '--retry', '8', '--retry-delay', '10', '-C', '-', '-sS', '-o', 'D:\\PRC_adsb\\ham\\2025-12-08\\v2025.12.08-planes-readsb-staging-0.tar.aa', 'https://github.com/adsblol/globe_history_2025/releases/download/v2025.12.08-planes-readsb-staging-0/v2025.12.08-planes-readsb-staging-0.tar.aa']' returned non-zero exit status 23.), deneme 1
+curl: (23) client returned ERROR on write of 16384 bytes
+2025-12-08: prod kopyası inmedi, staging deneniyor (2 parça)
+curl: (23) Failure writing output to destination, passed 16384 returned 0
+2025-12-08: indirme hatası (Command '['curl', '-L', '--fail', '--retry', '8', '--retry-delay', '10', '-C', '-', '-sS', '-o', 'D:\\PRC_adsb\\ham\\2025-12-08\\v2025.12.08-planes-readsb-staging-0.tar.aa', 'https://github.com/adsblol/globe_history_2025/releases/download/v2025.12.08-planes-readsb-staging-0/v2025.12.08-planes-readsb-staging-0.tar.aa']' returned non-zero exit status 23.), deneme 2
+curl: (23) client returned ERROR on write of 8268 bytes
+2025-12-08: prod kopyası inmedi, staging deneniyor (2 parça)
+curl: (23) Failure writing output to destination, passed 6890 returned 0
+2025-12-08: indirme hatası (Command '['curl', '-L', '--fail', '--retry', '8', '--retry-delay', '10', '-C', '-', '-sS', '-o', 'D:\\PRC_adsb\\ham\\2025-12-08\\v2025.12.08-planes-readsb-staging-0.tar.aa', 'https://github.com/adsblol/globe_history_2025/releases/download/v2025.12.08-planes-readsb-staging-0/v2025.12.08-planes-readsb-staging-0.tar.aa']' returned non-zero exit status 23.), deneme 3
+2025-12-09: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-09'), deneme 1
+2025-12-09: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-09'), deneme 2
+2025-12-09: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-09'), deneme 3
+2025-12-10: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-10'), deneme 1
+2025-12-10: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-10'), deneme 2
+2025-12-10: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-10'), deneme 3
+2025-12-11: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-11'), deneme 1
+2025-12-11: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-11'), deneme 2
+2025-12-11: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-11'), deneme 3
+2025-12-12: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-12'), deneme 1
+2025-12-12: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-12'), deneme 2
+2025-12-12: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-12'), deneme 3
+2025-12-13: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-13'), deneme 1
+2025-12-13: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-13'), deneme 2
+2025-12-13: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-13'), deneme 3
+2025-12-14: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-14'), deneme 1
+2025-12-14: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-14'), deneme 2
+2025-12-14: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-14'), deneme 3
+2025-12-15: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-15'), deneme 1
+2025-12-15: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-15'), deneme 2
+2025-12-15: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-15'), deneme 3
+2025-12-16: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-16'), deneme 1
+2025-12-16: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-16'), deneme 2
+2025-12-16: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-16'), deneme 3
+2025-12-17: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-17'), deneme 1
+2025-12-17: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-17'), deneme 2
+2025-12-17: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-17'), deneme 3
+2025-12-18: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-18'), deneme 1
+2025-12-18: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-18'), deneme 2
+2025-12-18: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-18'), deneme 3
+2025-12-19: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-19'), deneme 1
+2025-12-19: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-19'), deneme 2
+2025-12-19: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-19'), deneme 3
+2025-12-20: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-20'), deneme 1
+2025-12-20: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-20'), deneme 2
+2025-12-20: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-20'), deneme 3
+2025-12-21: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-21'), deneme 1
+2025-12-21: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-21'), deneme 2
+2025-12-21: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-21'), deneme 3
+2025-12-22: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-22'), deneme 1
+2025-12-22: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-22'), deneme 2
+2025-12-22: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-22'), deneme 3
+2025-12-23: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-23'), deneme 1
+2025-12-23: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-23'), deneme 2
+2025-12-23: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-23'), deneme 3
+2025-12-24: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-24'), deneme 1
+2025-12-24: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-24'), deneme 2
+2025-12-24: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-24'), deneme 3
+2025-12-25: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-25'), deneme 1
+2025-12-25: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-25'), deneme 2
+2025-12-25: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-25'), deneme 3
+2025-12-26: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-26'), deneme 1
+2025-12-26: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-26'), deneme 2
+2025-12-26: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-26'), deneme 3
+2025-12-27: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-27'), deneme 1
+2025-12-27: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-27'), deneme 2
+2025-12-27: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-27'), deneme 3
+2025-12-28: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-28'), deneme 1
+2025-12-28: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-28'), deneme 2
+2025-12-28: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-28'), deneme 3
+2025-12-29: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-29'), deneme 1
+2025-12-29: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-29'), deneme 2
+2025-12-29: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-29'), deneme 3
+2025-12-30: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-30'), deneme 1
+2025-12-30: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-30'), deneme 2
+2025-12-30: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-12-30'), deneme 3
+2025-11-30: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-11-30'), deneme 1
+2025-11-30: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-11-30'), deneme 2
+2025-11-30: indirme hatası ([WinError 433] Var olmayan bir aygıt belirtildi: 'D:\\PRC_adsb\\ham\\2025-11-30'), deneme 3
+cikis: 0
+07:14:15

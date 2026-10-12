@@ -1,0 +1,52 @@
+kopya s30: 1,442,343 eşleşmeli satır (özgün tanımla)
+kopya s10: 1,428,219 eşleşmeli satır (özgün tanımla)
+  TabMReg: 4,072,292 satır, 157 sayısal, 1 kategorik | hazırlık 98 sn
+    epok 1/8: kayıp 0.0317 | 65 sn
+    epok 2/8: kayıp 0.0292 | 64 sn
+    epok 3/8: kayıp 0.0285 | 65 sn
+    epok 4/8: kayıp 0.0279 | 72 sn
+    epok 5/8: kayıp 0.0273 | 77 sn
+    epok 6/8: kayıp 0.0266 | 76 sn
+    epok 7/8: kayıp 0.0261 | 72 sn
+    epok 8/8: kayıp 0.0257 | 64 sn
+ay≠2 → 2: eğitim 1,371,241, sınama 84,910
+  TabMReg: 3,926,145 satır, 157 sayısal, 1 kategorik | hazırlık 95 sn
+    epok 1/8: kayıp 0.0307 | 65 sn
+    epok 2/8: kayıp 0.0282 | 65 sn
+    epok 3/8: kayıp 0.0274 | 65 sn
+    epok 4/8: kayıp 0.0269 | 77 sn
+    epok 5/8: kayıp 0.0263 | 77 sn
+    epok 6/8: kayıp 0.0256 | 77 sn
+    epok 7/8: kayıp 0.0250 | 76 sn
+    epok 8/8: kayıp 0.0247 | 65 sn
+ay≠6 → 6: eğitim 1,321,967, sınama 134,184
+satır 2,056,671 (ADS-B eşleşmeli 1,456,151); günler: Ocak 31, Temmuz 31
+          ay 2  ay 2 ADS-B satırı    ay 6  ay 6 ADS-B satırı  Oca/Tem ağırlıklı
+k=0.0   203.71             153.82  203.53             201.26             203.62
+k=0.5   190.94             123.28  186.68             177.92             188.83
+k=0.75  187.40             113.78  182.18             171.52             184.81
+k=1.0   185.90             109.59  180.59             169.24             183.27
+k=1.25  186.52             111.32  181.98             171.24             184.26
+k=1.5   189.21             118.70  186.26             177.33             187.74
+        satır  ADS-B %  taban  düzeltilmiş
+EDDF  35442.0     99.4  149.0        100.9
+EDDM  25856.0     99.1  149.2         90.6
+EGLL  37854.0     88.3  201.4        188.3
+EHAM  38442.0     99.7  144.9         81.7
+LEBL  28226.0     99.5  159.1        111.3
+LEMD  33262.0     53.2  156.2        130.3
+LFPG  37116.0     16.3  206.7        205.9
+LIRF  25156.0     55.7  344.7        341.8
+LSZH  20748.0     99.6  154.2         75.0
+LTFM  41160.0      0.0  274.5        274.5
+OPDI hedef satırları (Oca/Tem): 2,235 | taban 254.9 → 173.7
+       satır  taban  düzeltilmiş  ΔSSE (M)
+EDDF    13.0  116.0        109.6      -0.0
+EDDM   469.0  160.7        123.1      -5.0
+EGLL    14.0  158.9        162.9       0.0
+LEBL    33.0  289.0        244.2      -0.8
+LEMD     2.0  566.0        399.8      -0.3
+LFPG   205.0  453.3        417.7      -6.4
+LIRF     4.0  466.0        435.2      -0.1
+LSZH  1495.0  240.1        118.5     -65.2
+süre 2152 sn

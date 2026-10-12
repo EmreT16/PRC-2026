@@ -1,0 +1,38 @@
+kuyruk bitti: 0 02:16:54
+DW + XGB HAZIR 22:17:37
+kuyruk bitti: 0 03:29:19
+== harman ağırlıkları (3 bölme, bilgi için) 03:29:35
+split_1 dışarıda: ağırlık {'xgb_kqg': 0.1587, 'gcb6k_ort2_kqg': 0.2289, 'e1h3_kqg': 0.2267, 'lgbh3_kqg': 0.1312, 'dw_kqg': 0.2546} → ay 1 197.37, ay 7 236.14 | sabit: ay 1 197.44, ay 7 236.09
+split_2 dışarıda: ağırlık {'xgb_kqg': 0.0924, 'gcb6k_ort2_kqg': 0.1444, 'e1h3_kqg': 0.2081, 'lgbh3_kqg': 0.1823, 'dw_kqg': 0.3728} → ay 2 213.10, ay 8 208.27 | sabit: ay 2 212.93, ay 8 208.25
+split_3 dışarıda: ağırlık {'xgb_kqg': 0.1338, 'gcb6k_ort2_kqg': 0.2177, 'e1h3_kqg': 0.2397, 'lgbh3_kqg': 0.1054, 'dw_kqg': 0.3034} → ay 6 208.80, ay 12 192.51 | sabit: ay 6 208.78, ay 12 192.52
+önerilen (3 bölme): {'xgb_kqg': 0.1266, 'gcb6k_ort2_kqg': 0.196, 'e1h3_kqg': 0.2238, 'lgbh3_kqg': 0.1411, 'dw_kqg': 0.3125} → <repo>\kutuk\g1_agirliklar_kqg_3b.json
+== düzeltici CV (kqg) 03:29:43
+k=0.0   197.44             176.35  236.09             231.60             219.83
+k=1.0   178.67             139.63  220.76             210.09             203.21
+EDDF  36231.0     98.5  172.4        130.0
+EDDM  26854.0     95.2  163.2        120.2
+EGLL  39744.0     82.9  231.9        219.5
+EHAM  40141.0     99.4  162.5        107.7
+LEBL  28490.0     98.6  216.6        186.4
+LEMD  35019.0     71.2  166.6        165.2
+LFPG  38732.0     18.5  242.2        241.3
+LIRF  26131.0     55.8  368.7        363.1
+LSZH  21822.0     98.1  173.7        130.3
+LTFM  45882.0      0.0  236.5        236.5
+süre 195 sn
+== v181 03:33:01
+- Dosya: `<repo>\gonderim\strong-moose_v181.parquet`
+- MD5: `ad33c1499783bbe71b0f5e9e088794cf`
+- Aday: `D_kqg_adsb_13a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+== v182 03:41:47
+- Dosya: `<repo>\gonderim\strong-moose_v182.parquet`
+- MD5: `0d57f765439385b5535555b21e306df1`
+- Aday: `D_kqg_adsb_13a_k115`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+== v183 03:41:48
+- Dosya: `<repo>\gonderim\strong-moose_v183.parquet`
+- MD5: `bcb9fd7bdeb1217901ac8e9734837e58`
+- Aday: `D_kqg_adsb_13b`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+strong-moose_v183.parquet
+strong-moose_v182.parquet
+strong-moose_v181.parquet
+zincir bitti 03:46:06

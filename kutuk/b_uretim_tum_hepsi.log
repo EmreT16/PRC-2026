@@ -1,0 +1,14 @@
+eğitim 2,085,047 satır (B 22,470) | test B 5,290, LIRF dışı 5,290 | 0 sn
+LIRF dışı test B: ort. tahmin 1556.7 (v126 1646.0) | RMS fark 694.0 | 3.500 tavanında 203 (v126 230) | süre 146 sn
+           taksi    v126
+ADEP_mvt                
+EDDF      1167.8  1030.8
+EDDM      1270.6  1120.1
+EGLL      1548.1  1551.9
+EHAM      1114.1  1494.3
+LEBL      1118.3  1096.3
+LEMD      1168.9  1140.8
+LFPG      1275.8  1340.1
+LIRF      6799.8  6989.4
+LSZH       866.3   876.6
+LTFM      1150.2  1144.7

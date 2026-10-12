@@ -1,0 +1,8 @@
+[D_kqgpy] ağırlıklar {'xgb_kqgpy_1500': 0.1021, 'gcb12k_kqgpy_1t': 0.2036, 'e1h3_kqgpy': 0.2211, 'lgbh3_kqgpy': 0.1236, 'dw_kqgpy_1t': 0.3497} | ort. taksi 1003.1
+                 xgb_kqgpy_1500  gcb12k_kqgpy_1t  e1h3_kqgpy  lgbh3_kqgpy  dw_kqgpy_1t
+xgb_kqgpy_1500            1.000            0.978       0.980        0.983        0.978
+gcb12k_kqgpy_1t           0.978            1.000       0.978        0.980        0.992
+e1h3_kqgpy                0.980            0.978       1.000        0.995        0.978
+lgbh3_kqgpy               0.983            0.980       0.995        1.000        0.980
+dw_kqgpy_1t               0.978            0.992       0.978        0.980        1.000
+cikis: 0

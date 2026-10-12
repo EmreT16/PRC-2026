@@ -1,0 +1,11 @@
+başladı 19:06:27
+    epok 1/12: kayıp 0.0734 | 100 sn
+    epok 12/12: kayıp 0.0331 | 124 sn
+[split_1] taksi RMSE: ay 1 196.44, ay 7 234.49 | 1723 sn
+split_1: 339,046 satır | korelasyon tabm_kqgp_e12 ↔ tabm_kqgp_d1024: 0.9949
+                     ay1      ay7  ağırlıklı
+tabm_kqgp_e12    171.648  211.881    195.102
+tabm_kqgp_d1024  171.710  211.738    195.040
+fark               0.062   -0.143     -0.062
+ağırlıklı -0.062 → RET
+bitti 19:35:23

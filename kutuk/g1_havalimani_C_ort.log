@@ -1,0 +1,30 @@
+== split_2'de sınama: havalimanı ağırlıkları (λ=1.0) ↔ genel ağırlıklar
+  ağırlıklı RMSE: taban 215.459 | aday 215.573 | Δ +0.114 sn [%95: -0.109 … +0.387]
+  ay  2: taban 218.396 | aday 218.540 (n=142,622)
+  ay  8: taban 213.099 | aday 213.189 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 28/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2'de sınama: havalimanı ağırlıkları (λ=0.5) ↔ genel ağırlıklar
+  ağırlıklı RMSE: taban 215.459 | aday 215.447 | Δ -0.012 sn [%95: -0.122 … +0.117]
+  ay  2: taban 218.396 | aday 218.410 (n=142,622)
+  ay  8: taban 213.099 | aday 213.066 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 37/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1'de sınama: havalimanı ağırlıkları (λ=1.0) ↔ genel ağırlıklar
+  ağırlıklı RMSE: taban 224.899 | aday 224.816 | Δ -0.083 sn [%95: -0.259 … +0.082]
+  ay  1: taban 200.815 | aday 200.682 (n=152,271)
+  ay  7: taban 242.319 | aday 242.269 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✓ · gün 30/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1'de sınama: havalimanı ağırlıkları (λ=0.5) ↔ genel ağırlıklar
+  ağırlıklı RMSE: taban 224.899 | aday 224.802 | Δ -0.097 sn [%95: -0.184 … -0.016]
+  ay  1: taban 200.815 | aday 200.693 (n=152,271)
+  ay  7: taban 242.319 | aday 242.238 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✓ · gün 38/62 (≥40) ✗ · güven aralığı < 0 ✓  →  RET
+  EDDF: {'xgb': 0.164, 'gcb6k_ort2': 0.5225, 'e1h3': 0.1075, 'lgbh3': 0.206}
+  EDDM: {'xgb': 0.1505, 'gcb6k_ort2': 0.4155, 'e1h3': 0.0815, 'lgbh3': 0.353}
+  EGLL: {'xgb': 0.1775, 'gcb6k_ort2': 0.4655, 'e1h3': 0.0, 'lgbh3': 0.357}
+  EHAM: {'xgb': 0.135, 'gcb6k_ort2': 0.424, 'e1h3': 0.09, 'lgbh3': 0.351}
+  LEBL: {'xgb': 0.09, 'gcb6k_ort2': 0.557, 'e1h3': 0.1095, 'lgbh3': 0.244}
+  LEMD: {'xgb': 0.1505, 'gcb6k_ort2': 0.5445, 'e1h3': 0.009, 'lgbh3': 0.296}
+  LFPG: {'xgb': 0.206, 'gcb6k_ort2': 0.2615, 'e1h3': 0.097, 'lgbh3': 0.436}
+  LIRF: {'xgb': 0.0355, 'gcb6k_ort2': 0.453, 'e1h3': 0.411, 'lgbh3': 0.1}
+  LSZH: {'xgb': 0.1525, 'gcb6k_ort2': 0.5185, 'e1h3': 0.0, 'lgbh3': 0.329}
+  LTFM: {'xgb': 0.107, 'gcb6k_ort2': 0.538, 'e1h3': 0.1225, 'lgbh3': 0.233}

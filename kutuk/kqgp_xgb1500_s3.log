@@ -1,0 +1,16 @@
+  EDDF: harman 163.2 (alt sınırsız) | 58 sn
+  EDDM: harman 171.2 (alt sınırsız) | 47 sn
+  EGLL: harman 212.4 (alt sınırsız) | 55 sn
+  EHAM: harman 148.1 (alt sınırsız) | 55 sn
+  LEBL: harman 179.9 (alt sınırsız) | 48 sn
+  LEMD: harman 165.3 (alt sınırsız) | 52 sn
+  LFPG: harman 221.8 (alt sınırsız) | 56 sn
+  LIRF: harman 353.7 (alt sınırsız) | 44 sn
+  LSZH: harman 157.7 (alt sınırsız) | 42 sn
+  LTFM: harman 199.5 (alt sınırsız) | 57 sn
+== split_3: v_xgb_kqgp_1500 (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 208.159 | aday 201.674 | Δ -6.485 sn [%95: -7.597 … -5.389]
+  ay 12: taban 199.451 | aday 192.593 (n=164,028)
+  ay  6: taban 214.821 | aday 208.601 (n=180,640)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 60/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_3] süre 565 sn

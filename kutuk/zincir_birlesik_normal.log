@@ -1,0 +1,8 @@
+başladı 20:07:46
+ara gonderim/strong-moose_v375.parquet → Y1 gonderim/strong-moose_v376.parquet → yetim gonderim/strong-moose_v377.parquet → günlük gonderim/strong-moose_v378.parquet MD5: `730051fad58362246014e7f0fd64529e`
+toplanırlık (Y1 − v370) − (v363 − v361): RMS 0.000, maks 0.0
+toplanırlık (son − v374) − (Y1 − v365): RMS 0.974, maks 360.7
+  − v374: değişen 342,399, RMS 4.07, ort -0.030, maks 363
+  − v368: değişen 342,419, RMS 12.45, ort -0.041, maks 2931
+  − v370: değişen 333,290, RMS 17.00, ort +4.711, maks 2931
+zincir bitti 20:07:59

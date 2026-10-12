@@ -1,0 +1,28 @@
+başladı 11:24:22
+tr: warning: an unescaped backslash at end of string is not portable
+_40o: gonderim/strong-moose_v331.parquet → gonderim\strong-moose_v332.parquet MD5: `f587bcd39ce5453c824a4ef9f66c23a8`
+L8: aday: ara gonderim/strong-moose_v333.parquet → gonderim/strong-moose_v334.parquet MD5: `632242ea76d3699f90dca8e91f4a2f19`
+L9: aday: ara gonderim/strong-moose_v335.parquet → gonderim/strong-moose_v336.parquet MD5: `9e39a14abf807ceb61cf24128c440613`
+L8 gonderim/strong-moose_v334.parquet − v316:
+           size  mean  <lambda_0>
+ADEP_mvt                         
+EDDF        326  -0.1    9.600000
+EDDM        231  -0.1    9.700000
+EGLL      25533  -0.0    1.100000
+EHAM      16629   3.2  131.899994
+LEBL      30080  -0.0    0.900000
+LEMD       7248  -0.0    1.300000
+LFPG      21855   0.0    1.700000
+LSZH      13439   1.8   95.800003
+L9 gonderim/strong-moose_v336.parquet − v316:
+           size  mean  <lambda_0>
+ADEP_mvt                         
+EDDF      20862   3.1   50.400002
+EDDM        231  -1.4    9.500000
+EGLL      39840   0.0    0.800000
+EHAM      16629   3.2  131.800003
+LEBL      17955  -0.0    1.100000
+LEMD        230  -0.5    8.600000
+LFPG      39871   0.0    1.100000
+LSZH      13439   1.9   95.900002
+zincir bitti 11:37:43

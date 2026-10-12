@@ -1,0 +1,11 @@
+== split_1: GCB_border254:global_cb ↔ A2_global_cb:global_cb
+  ağırlıklı RMSE: taban 230.384 | aday 229.635 | Δ -0.749 sn [%95: -1.321 … -0.140]
+  ay  1: taban 206.753 | aday 205.686 (n=152,271)
+  ay  7: taban 247.542 | aday 246.999 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 44/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_2: GCB_border254:global_cb ↔ A2_global_cb:global_cb
+  ağırlıklı RMSE: taban 219.281 | aday 219.373 | Δ +0.091 sn [%95: -0.432 … +0.585]
+  ay  2: taban 221.876 | aday 222.049 (n=142,622)
+  ay  8: taban 217.199 | aday 217.224 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 28/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+cikis: 0

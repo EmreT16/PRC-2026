@@ -1,0 +1,56 @@
+  hazırlık: 183 sayısal (eksiklik bayrakları dahil), 11 kategorik | 105 sn
+  TabM: 5 sabit sütun atıldı, 178 sayısal kaldı
+    epok 1/8: kayıp 0.0770 | 70 sn
+    epok 2/8: kayıp 0.0584 | 85 sn
+    epok 3/8: kayıp 0.0544 | 86 sn
+    epok 4/8: kayıp 0.0518 | 85 sn
+    epok 5/8: kayıp 0.0493 | 86 sn
+    epok 6/8: kayıp 0.0469 | 86 sn
+    epok 7/8: kayıp 0.0447 | 86 sn
+    epok 8/8: kayıp 0.0434 | 86 sn
+[split_2] taksi RMSE: ay 2 202.96, ay 8 206.17 | 934 sn
+  hazırlık: 183 sayısal (eksiklik bayrakları dahil), 11 kategorik | 130 sn
+  TabM: 5 sabit sütun atıldı, 178 sayısal kaldı
+    epok 1/8: kayıp 0.0784 | 66 sn
+    epok 2/8: kayıp 0.0591 | 81 sn
+    epok 3/8: kayıp 0.0548 | 80 sn
+    epok 4/8: kayıp 0.0519 | 80 sn
+    epok 5/8: kayıp 0.0494 | 80 sn
+    epok 6/8: kayıp 0.0469 | 80 sn
+    epok 7/8: kayıp 0.0447 | 79 sn
+    epok 8/8: kayıp 0.0434 | 79 sn
+[split_3] taksi RMSE: ay 6 206.86, ay 12 197.15 | 943 sn
+  hazırlık: 183 sayısal (eksiklik bayrakları dahil), 11 kategorik | 142 sn
+  TabM: 5 sabit sütun atıldı, 178 sayısal kaldı
+    epok 1/8: kayıp 0.0794 | 68 sn
+    epok 2/8: kayıp 0.0602 | 82 sn
+    epok 3/8: kayıp 0.0557 | 82 sn
+    epok 4/8: kayıp 0.0531 | 81 sn
+    epok 5/8: kayıp 0.0506 | 81 sn
+    epok 6/8: kayıp 0.0480 | 80 sn
+    epok 7/8: kayıp 0.0457 | 81 sn
+    epok 8/8: kayıp 0.0443 | 80 sn
+[split_4] taksi RMSE: ay 3 181.16, ay 11 185.79 | 953 sn
+  hazırlık: 183 sayısal (eksiklik bayrakları dahil), 11 kategorik | 78 sn
+  TabM: 5 sabit sütun atıldı, 178 sayısal kaldı
+    epok 1/8: kayıp 0.0791 | 188 sn
+    epok 2/8: kayıp 0.0605 | 187 sn
+    epok 3/8: kayıp 0.0559 | 188 sn
+    epok 4/8: kayıp 0.0533 | 187 sn
+    epok 5/8: kayıp 0.0506 | 187 sn
+    epok 6/8: kayıp 0.0481 | 187 sn
+    epok 7/8: kayıp 0.0458 | 188 sn
+    epok 8/8: kayıp 0.0445 | 189 sn
+[split_5] taksi RMSE: ay 4 178.51, ay 10 197.81 | 1713 sn
+  hazırlık: 183 sayısal (eksiklik bayrakları dahil), 11 kategorik | 80 sn
+  TabM: 4 sabit sütun atıldı, 179 sayısal kaldı
+    epok 1/8: kayıp 0.0785 | 195 sn
+    epok 2/8: kayıp 0.0598 | 199 sn
+    epok 3/8: kayıp 0.0554 | 197 sn
+    epok 4/8: kayıp 0.0524 | 204 sn
+    epok 5/8: kayıp 0.0499 | 206 sn
+    epok 6/8: kayıp 0.0473 | 196 sn
+    epok 7/8: kayıp 0.0450 | 199 sn
+    epok 8/8: kayıp 0.0436 | 196 sn
+[split_6] taksi RMSE: ay 5 186.07, ay 9 201.23 | 1807 sn
+cikis 0

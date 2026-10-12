@@ -1,0 +1,33 @@
+# Gönderim denetimi — strong-moose_v152
+
+- Dosya: `<repo>\gonderim\strong-moose_v152.parquet`
+- MD5: `bd02660857cc86f36737310f6057ee04`
+- Aday: `D_dw`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+- Model B: TEST_B_tum6M satırlarında yeni (2978 satır), diğerleri v126
+- Not: Model A: v149 ile aynı (dondurulan). Model B: v151 + LIRF ön koşul dışı 357 satır: v126 rejim olasılıkları korunur, normal bileşen tüm satırlı μ (v126 + p0·(μ − pred0)); ön koşul satırları, EHAM, LSZH, EDDF v126
+
+| Denetim | Sonuç |
+|---|---|
+| satir_sayisi | ✓ |
+| sutunlar | ✓ |
+| kimlik_sirasi | ✓ |
+| nan_inf_yok | ✓ |
+| alt_sinir_60 | ✓ |
+| model_b_kalan_ayni | ✓ |
+| model_b_yeni_uygulandi | ✓ |
+
+| Bilgi | Değer |
+|---|---:|
+| model_a_rms_fark | 41.07 |
+| model_a_ort_fark | 0.82 |
+| yeni_modelin_v126dan_rms_farki | 41.07 |
+| 40000_ustu | 15.00 |
+| 40000_ustu_v126 | 15.00 |
+| satir_24s | 85,927.64 |
+| satir_24s_v126 | 86,074.27 |
+| satir_24s_yeni | 85,927.64 |
+| model_b_degisen_satir | 2,978.00 |
+| model_b_rms_fark | 346.98 |
+| model_b_ort_fark | 24.00 |
+| model_b_ort_v126 | 1,696.03 |
+| model_b_ort_yeni | 1,720.03 |

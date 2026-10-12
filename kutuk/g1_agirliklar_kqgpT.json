@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_T",
+  "gcb_T",
+  "e1h3_T",
+  "lgbh3_T",
+  "dw_T"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "03.10: kqgpxg ağırlıkları; test bileşenleri sıcaklıklı (SIC_0, SIC_MIN12, SPREAD_0; _kqgpy)"
+}

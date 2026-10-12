@@ -1,0 +1,15 @@
+durum ['park', 'ktah']: +13 sütun (atılan []); test B boş oranı en çok 0.318
+eğitim 2,085,047 satır (B 22,470) | test B 9,077, LIRF dışı 8,458 | 6 sn
+LIRF dışı test B: ort. tahmin 1131.3 (v126 1129.1) | RMS fark 435.8 | 3.500 tavanında 70 (v126 53) | süre 189 sn
+           taksi    v126
+ADEP_mvt                
+EDDF      1232.5  1029.3
+EDDM      1321.7  1182.4
+EGLL      1596.4  1622.3
+EHAM      1079.6  1150.9
+LEBL      1090.3  1082.7
+LEMD      1194.9  1132.2
+LFPG      1167.1  1247.4
+LSZH       873.3   839.1
+LTFM      1088.3  1100.6
+cikis: 0

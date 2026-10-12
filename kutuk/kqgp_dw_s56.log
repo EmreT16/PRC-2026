@@ -1,0 +1,26 @@
+[split_5] hazırlık 37 sn
+0:	learn: 377.2898837	test: 390.7002129	best: 390.7002129 (0)	total: 184ms	remaining: 24m 31s
+1000:	learn: 184.0840314	test: 213.7741145	best: 213.7741145 (1000)	total: 1m 38s	remaining: 11m 29s
+2000:	learn: 174.1385885	test: 211.1097681	best: 211.1088712 (1999)	total: 2m 59s	remaining: 8m 58s
+3000:	learn: 166.6134068	test: 209.8979884	best: 209.8974951 (2999)	total: 4m 26s	remaining: 7m 24s
+4000:	learn: 159.9535286	test: 209.2679652	best: 209.2679652 (4000)	total: 5m 51s	remaining: 5m 51s
+5000:	learn: 153.8287916	test: 208.8747026	best: 208.8744264 (4997)	total: 7m 14s	remaining: 4m 20s
+6000:	learn: 148.2803912	test: 208.5884018	best: 208.5884018 (5996)	total: 8m 38s	remaining: 2m 52s
+7000:	learn: 143.0822008	test: 208.4084744	best: 208.4074523 (6964)	total: 10m 3s	remaining: 1m 26s
+7999:	learn: 138.1385518	test: 208.2698400	best: 208.2639305 (7960)	total: 11m 45s	remaining: 0us
+bestTest = 208.2639305
+bestIteration = 7960
+Shrink model to first 7961 iterations.
+[split_6] hazırlık 60 sn
+0:	learn: 374.0483962	test: 385.2628521	best: 385.2628521 (0)	total: 429ms	remaining: 57m 11s
+1000:	learn: 183.2906962	test: 212.0332551	best: 212.0332551 (1000)	total: 1m 48s	remaining: 12m 38s
+2000:	learn: 173.1816205	test: 209.2559310	best: 209.2559310 (2000)	total: 3m 13s	remaining: 9m 39s
+3000:	learn: 165.4760458	test: 208.0855270	best: 208.0855270 (3000)	total: 4m 41s	remaining: 7m 49s
+4000:	learn: 158.7468080	test: 207.4566902	best: 207.4550552 (3990)	total: 6m 16s	remaining: 6m 16s
+5000:	learn: 152.7184930	test: 207.1012707	best: 207.1012707 (5000)	total: 7m 42s	remaining: 4m 37s
+6000:	learn: 147.0725168	test: 206.8137200	best: 206.8121518 (5992)	total: 9m 14s	remaining: 3m 4s
+7000:	learn: 141.8731472	test: 206.6019691	best: 206.5996648 (6971)	total: 10m 52s	remaining: 1m 33s
+bestTest = 206.5996648
+bestIteration = 6971
+Shrink model to first 6972 iterations.
+cikis: 0

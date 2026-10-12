@@ -1,0 +1,8 @@
+kar satırı 12,968 (22 tarih, 13 küme); havalimanı: {'EDDM': 4784, 'LTFM': 4319, 'LSZH': 1882, 'EDDF': 1444, 'EHAM': 539}
+kontrol: kar 386.26 | karsız 205.39 | kar hv: EDDF 222.5 EDDM 248.1 EHAM 234.4 LSZH 266.4 LTFM 570.5
+NOISE: kar +0.14 (katlar -1.2 +0.7 +1.4 -0.4 +0.0) | karsız +0.003 | genel +0.006 | kar hv: EDDF +2.2 EDDM +0.2 EHAM +0.4 LSZH -0.6 LTFM +0.0
+KAR: kar +5.28 (katlar -9.8 +0.7 +2.5 +2.3 +17.2) | karsız -0.018 | genel +0.109 | kar hv: EDDF -2.5 EDDM +2.6 EHAM +1.6 LSZH -3.3 LTFM +10.4
+KARG: kar +5.88 (katlar -5.3 +5.5 +1.1 -0.5 +14.7) | karsız +0.033 | genel +0.172 | kar hv: EDDF -2.8 EDDM +0.3 EHAM +1.3 LSZH +0.5 LTFM +11.9
+KARHEP: kar +4.97 (katlar -11.7 +2.3 +3.5 +1.0 +15.9) | karsız -0.025 | genel +0.094 | kar hv: EDDF -2.8 EDDM +2.4 EHAM +1.4 LSZH -3.8 LTFM +10.0
+KARW: kar +11.16 (katlar -7.0 -5.3 +4.7 +4.3 +34.5) | karsız +0.008 | genel +0.275 | kar hv: EDDF -4.7 EDDM +3.2 EHAM +1.9 LSZH -2.2 LTFM +22.0
+SIC: kar -1.09 (katlar -3.6 -3.1 +0.1 +0.5 +0.6) | karsız -0.013 | genel -0.038 | kar hv: EDDF -5.9 EDDM -0.1 EHAM -0.6 LSZH +0.3 LTFM -1.4

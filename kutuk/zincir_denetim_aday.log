@@ -1,0 +1,27 @@
+başladı 21:35:21
+- Dosya: `<repo>\gonderim\strong-moose_v234.parquet`
+- MD5: `c109b20c8ea4cc40c499656b2482b6a1`
+- Aday: `D_kqgpPe_adsb_39a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+- Dosya: `<repo>\gonderim\strong-moose_v235.parquet`
+- MD5: `b4c8a5a6269eb8754e42e6b35d34edc1`
+- Kaynak: `gonderim/strong-moose_v234.parquet` (MD5 c109b20c8ea4cc40c499656b2482b6a1) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+B5 bugünkü kod + iz5 − 02.10 dosyası:
+          size  <lambda_0>  mean  <lambda_1>
+ADEP_mvt                                    
+EDDF       421         282   2.5        18.1
+EDDM       238         231  -1.2        43.3
+EGLL       248         241  14.8        49.3
+EHAM      1206         719   9.4        51.0
+LEBL       442         437  -0.9        35.7
+LEMD       238         230   4.3        32.2
+LFPG       734         271  -1.9        19.2
+LIRF       383           0   0.0         0.0
+LSZH       659         483   6.7        42.6
+LTFM       721           0   0.0         0.0
+- Dosya: `<repo>\gonderim\strong-moose_v236.parquet`
+- MD5: `9213f7ec3a8c7dc98d61d60b2a66b57a`
+- Aday: `D_kqgpPe_adsb_37a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+- Dosya: `<repo>\gonderim\strong-moose_v237.parquet`
+- MD5: `b55bf296bb2592498c6292ca20cb053a`
+- Kaynak: `gonderim/strong-moose_v236.parquet` (MD5 9213f7ec3a8c7dc98d61d60b2a66b57a) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+zincir bitti 22:02:51

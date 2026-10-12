@@ -1,0 +1,16 @@
+kopya s30: 707,774 eşleşmeli satır (özgün tanımla)
+kopya s10: 701,361 eşleşmeli satır (özgün tanımla)
+yankı hedge'i: β=0.25, 10,618 satır | ort. değişim 6.6 sn | ort. p_kilit 0.203
+eğitim satırı 712,757 | test satırı 339,551, ADS-B eşleşmeli 243,310 (%71.7)
+          satir  adsb  ort_fark  rms_fark
+ADEP_mvt                                 
+EDDF      35896  93.8       3.9      84.5
+EDDM      25728  97.9      -2.5     138.0
+EGLL      39592  95.7     -21.5     143.2
+EHAM      36976  98.8      -0.8     137.9
+LEBL      29638  97.7      -8.9     115.1
+LEMD      36716  97.8      -5.7      96.9
+LFPG      39138  31.7       2.0      46.9
+LIRF      26516  40.0      -4.9      46.7
+LSZH      22491  97.2       1.1     115.6
+LTFM      46860   0.6      -0.1       2.4

@@ -1,0 +1,8 @@
+[split_1] ağırlıklı RMSE (60 sn alt sınırlı): lgb_s42 229.628 | lgb 228.651 | cb 230.753 | xgb 231.429 | blend 226.951
+  alt sınırsız harman 230.125; alt sınıra takılan satır %0.02
+  aylar (harman): 1: 202.379, 7: 244.706
+  havalimanı (harman): EDDF 179.29, EDDM 167.09, EGLL 236.11, EHAM 167.05, LEBL 222.07, LEMD 171.88, LFPG 246.83, LIRF 383.19, LSZH 183.1, LTFM 247.17
+[split_2] ağırlıklı RMSE (60 sn alt sınırlı): lgb_s42 221.512 | lgb 220.720 | cb 222.910 | xgb 220.500 | blend 219.184
+  alt sınırsız harman 219.463; alt sınıra takılan satır %0.00
+  aylar (harman): 2: 223.852, 8: 215.406
+  havalimanı (harman): EDDF 152.82, EDDM 155.22, EGLL 203.49, EHAM 148.62, LEBL 204.21, LEMD 163.82, LFPG 216.25, LIRF 351.11, LSZH 155.63, LTFM 318.21

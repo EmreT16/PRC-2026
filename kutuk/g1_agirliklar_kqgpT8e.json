@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_T",
+  "gcb_T4",
+  "e1h3_T6",
+  "lgbh3_T6",
+  "dw_T5"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "05.10: yedek — T8b bileşenleri (tüm çok tohum, pistsiz) + eski kqgpT ağırlıkları (v208 / v212)"
+}

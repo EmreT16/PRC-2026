@@ -1,0 +1,50 @@
+== split_1: egitim_ici_TE
+  ağırlıklı RMSE: taban 229.628 | aday 229.984 | Δ +0.356 sn [%95: +0.053 … +0.672]
+  ay  1: taban 204.456 | aday 204.477 (n=152,271)
+  ay  7: taban 247.796 | aday 248.375 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 26/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: egitim_ici_TE
+  ağırlıklı RMSE: taban 221.512 | aday 222.057 | Δ +0.545 sn [%95: +0.273 … +0.850]
+  ay  2: taban 227.080 | aday 228.012 (n=142,622)
+  ay  8: taban 216.990 | aday 217.213 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 19/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+0:	learn: 361.0551987	test: 379.6838782	best: 379.6838782 (0)	total: 349ms	remaining: 17m 28s
+500:	learn: 204.1640274	test: 225.1976743	best: 225.1976743 (500)	total: 2m 34s	remaining: 12m 52s
+1000:	learn: 195.5685422	test: 220.8461343	best: 220.8461343 (1000)	total: 5m 20s	remaining: 10m 39s
+1500:	learn: 189.9976550	test: 218.9608246	best: 218.9509366 (1499)	total: 8m 4s	remaining: 8m 4s
+2000:	learn: 185.7752548	test: 217.7904009	best: 217.7894095 (1999)	total: 10m 51s	remaining: 5m 25s
+2500:	learn: 182.0984832	test: 216.9817867	best: 216.9817867 (2500)	total: 13m 39s	remaining: 2m 43s
+2999:	learn: 179.0196891	test: 216.4101933	best: 216.4075167 (2998)	total: 16m 26s	remaining: 0us
+bestTest = 216.4075167
+bestIteration = 2998
+Shrink model to first 2999 iterations.
+== split_1: global_CB_tek_basina
+  ağırlıklı RMSE: taban 226.951 | aday 230.384 | Δ +3.433 sn [%95: +2.140 … +4.768]
+  ay  1: taban 202.379 | aday 206.753 (n=152,271)
+  ay  7: taban 244.706 | aday 247.542 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 10/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1: global_CB_yuzde50
+  ağırlıklı RMSE: taban 226.951 | aday 226.605 | Δ -0.346 sn [%95: -1.026 … +0.324]
+  ay  1: taban 202.379 | aday 202.593 (n=152,271)
+  ay  7: taban 244.706 | aday 243.990 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 30/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+0:	learn: 370.7564179	test: 375.9367811	best: 375.9367811 (0)	total: 540ms	remaining: 26m 59s
+500:	learn: 207.6615605	test: 217.8674324	best: 217.8674324 (500)	total: 2m 46s	remaining: 13m 48s
+1000:	learn: 198.7537104	test: 213.7612605	best: 213.7562379 (999)	total: 5m 31s	remaining: 11m 1s
+1500:	learn: 193.2435457	test: 212.0950286	best: 212.0950286 (1500)	total: 8m 16s	remaining: 8m 15s
+2000:	learn: 188.9258078	test: 211.0206520	best: 211.0206520 (2000)	total: 11m 2s	remaining: 5m 30s
+2500:	learn: 185.2468961	test: 210.3425253	best: 210.3419224 (2498)	total: 13m 49s	remaining: 2m 45s
+2999:	learn: 181.9786299	test: 209.7493096	best: 209.7493096 (2999)	total: 16m 36s	remaining: 0us
+bestTest = 209.7493096
+bestIteration = 2999
+== split_2: global_CB_tek_basina
+  ağırlıklı RMSE: taban 219.184 | aday 219.281 | Δ +0.098 sn [%95: -2.090 … +1.902]
+  ay  2: taban 223.852 | aday 221.876 (n=142,622)
+  ay  8: taban 215.406 | aday 217.199 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 13/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: global_CB_yuzde50
+  ağırlıklı RMSE: taban 219.184 | aday 217.451 | Δ -1.733 sn [%95: -3.059 … -0.587]
+  ay  2: taban 223.852 | aday 220.682 (n=142,622)
+  ay  8: taban 215.406 | aday 214.852 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 34/59 (≥39) ✗ · güven aralığı < 0 ✓  →  RET
+cikis: 0

@@ -1,0 +1,12 @@
+başladı 02:52:58
+[y6k] ara gonderim/strong-moose_v250.parquet, aday gonderim/strong-moose_v251.parquet
+- MD5: `a4da223d0c1174f70ab1f6564365eb13`
+- Kaynak: `gonderim/strong-moose_v250.parquet` (MD5 22381f9f9636b2e1fd72171a1222af98) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+  − gonderim/strong-moose_v243.parquet: RMS 7.25 sn, ort +0.001
+  − gonderim/strong-moose_v249.parquet: RMS 4.51 sn, ort -0.002
+[12pe] ara gonderim/strong-moose_v252.parquet, aday gonderim/strong-moose_v253.parquet
+- MD5: `7a6d7538c0b643f41132e7b7ded06b0f`
+- Kaynak: `gonderim/strong-moose_v252.parquet` (MD5 936435a2f152b9431b01bc7a4006165b) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+  − gonderim/strong-moose_v243.parquet: RMS 9.27 sn, ort +0.002
+  − gonderim/strong-moose_v249.parquet: RMS 0.51 sn, ort -0.002
+zincir bitti 02:58:10

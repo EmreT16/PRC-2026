@@ -1,0 +1,22 @@
+{
+ "komsu_oz.parquet": [
+  "KOM_PP_2",
+  "KOM_PP_3",
+  "KOM_PP_5",
+  "KOM_PP_10",
+  "KOM_PS_2",
+  "KOM_PS_3",
+  "KOM_PS_5",
+  "KOM_PS_10",
+  "KOM_AP_5",
+  "KOM_AP_10",
+  "KOM_AS_5",
+  "KOM_AS_10"
+ ],
+ "komsu_tah_oz.parquet": [
+  "KTAH_ORT",
+  "KTAH_FARK",
+  "KTAH_P_ORT",
+  "KTAH_P_FARK"
+ ]
+}

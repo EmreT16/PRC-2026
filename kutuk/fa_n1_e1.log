@@ -1,0 +1,13 @@
+[v_e1_huber1000_3t_kqgp] eğitim 2,062,378 | test 661,713 | özellik 178 | hazırlık 62 sn
+  EDDF: eğitim 228,185 test 69,905 | 408 sn
+  EDDM: eğitim 166,324 test 50,423 | 327 sn
+  EGLL: eğitim 238,132 test 76,750 | 372 sn
+  EHAM: eğitim 243,865 test 73,971 | 410 sn
+  LEBL: eğitim 177,838 test 58,555 | 330 sn
+  LEMD: eğitim 211,295 test 72,042 | 280 sn
+  LFPG: eğitim 235,725 test 76,215 | 347 sn
+  LIRF: eğitim 159,154 test 51,527 | 274 sn
+  LSZH: eğitim 132,540 test 43,861 | 298 sn
+  LTFM: eğitim 269,320 test 88,464 | 541 sn
+[v_e1_huber1000_3t_kqgp] bitti: <repo>\data_final\preds\TEST_v_e1_huber1000_3t_kqgp.parquet | ort. taksi 1005.0 | süre 3649 sn
+cikis: 0

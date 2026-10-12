@@ -1,0 +1,9 @@
+  ay  1 dışarıda: SSE %-0.13
+  ay  3 dışarıda: SSE %-0.31
+  ay  7 dışarıda: SSE %-0.08
+  ay 10 dışarıda: SSE %-0.26
+  ay 11 dışarıda: SSE %+0.16
+  toplam SSE %-0.126
+test: taban farkı RMS 6.51 sn, ort +0.12; havalimanı ort: EDDF +0.2, EDDM +0.0, EGLL -0.0, EHAM +0.0, LEBL +0.1, LEMD +0.1, LFPG +1.0, LIRF -0.3, LSZH +0.3, LTFM -0.2
+yazıldı: <repo>\data_final\preds\TEST_D_kqgpPe_adsb_42o_ha.parquet
+cikis: 0

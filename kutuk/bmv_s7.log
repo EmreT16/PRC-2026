@@ -1,0 +1,62 @@
+satır 2,085,047 (B 22,470) | özellik 121 | atılan ['PC_KUYRUK_W', 'PC_AGIR_N']
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 35 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/12: kayıp 0.1257 | 42 sn
+    epok 2/12: kayıp 0.0716 | 42 sn
+    epok 3/12: kayıp 0.0661 | 42 sn
+    epok 4/12: kayıp 0.0621 | 42 sn
+    epok 5/12: kayıp 0.0597 | 47 sn
+    epok 6/12: kayıp 0.0580 | 51 sn
+    epok 7/12: kayıp 0.0562 | 50 sn
+    epok 8/12: kayıp 0.0547 | 50 sn
+    epok 9/12: kayıp 0.0531 | 50 sn
+    epok 10/12: kayıp 0.0516 | 42 sn
+    epok 11/12: kayıp 0.0505 | 42 sn
+    epok 12/12: kayıp 0.0498 | 42 sn
+  Q1: eğitim 1,617,467 | doğrulama 3,627 | 583 sn
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 33 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/12: kayıp 0.1394 | 37 sn
+    epok 2/12: kayıp 0.0772 | 37 sn
+    epok 3/12: kayıp 0.0711 | 37 sn
+    epok 4/12: kayıp 0.0665 | 43 sn
+    epok 5/12: kayıp 0.0639 | 45 sn
+    epok 6/12: kayıp 0.0614 | 45 sn
+    epok 7/12: kayıp 0.0595 | 45 sn
+    epok 8/12: kayıp 0.0575 | 45 sn
+    epok 9/12: kayıp 0.0555 | 45 sn
+    epok 10/12: kayıp 0.0542 | 41 sn
+    epok 11/12: kayıp 0.0527 | 37 sn
+    epok 12/12: kayıp 0.0520 | 37 sn
+  Q2: eğitim 1,536,023 | doğrulama 5,192 | 531 sn
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 32 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/12: kayıp 0.1325 | 37 sn
+    epok 2/12: kayıp 0.0728 | 37 sn
+    epok 3/12: kayıp 0.0666 | 37 sn
+    epok 4/12: kayıp 0.0624 | 40 sn
+    epok 5/12: kayıp 0.0597 | 45 sn
+    epok 6/12: kayıp 0.0575 | 44 sn
+    epok 7/12: kayıp 0.0555 | 44 sn
+    epok 8/12: kayıp 0.0536 | 44 sn
+    epok 9/12: kayıp 0.0517 | 44 sn
+    epok 10/12: kayıp 0.0501 | 42 sn
+    epok 11/12: kayıp 0.0488 | 36 sn
+    epok 12/12: kayıp 0.0481 | 36 sn
+  Q3: eğitim 1,514,505 | doğrulama 8,733 | 522 sn
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 34 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/12: kayıp 0.1354 | 40 sn
+    epok 2/12: kayıp 0.0743 | 40 sn
+    epok 3/12: kayıp 0.0685 | 40 sn
+    epok 4/12: kayıp 0.0644 | 43 sn
+    epok 5/12: kayıp 0.0617 | 49 sn
+    epok 6/12: kayıp 0.0595 | 49 sn
+    epok 7/12: kayıp 0.0577 | 49 sn
+    epok 8/12: kayıp 0.0558 | 48 sn
+    epok 9/12: kayıp 0.0540 | 48 sn
+    epok 10/12: kayıp 0.0523 | 41 sn
+    epok 11/12: kayıp 0.0511 | 40 sn
+    epok 12/12: kayıp 0.0505 | 40 sn
+  Q4: eğitim 1,565,936 | doğrulama 4,918 | 565 sn
+OOF → BM_cv_mu_nn_dparkktahkomgspcyte_e12_t1_s7_oof.parquet | 2215 sn

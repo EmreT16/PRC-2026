@@ -1,0 +1,14 @@
+yankı hedge'i: β=0.25, 10,618 satır | ort. değişim 6.6 sn | ort. p_kilit 0.203
+eğitim satırı 712,757 | test satırı 339,551, ADS-B eşleşmeli 243,310 (%71.7)
+          satir  adsb  ort_fark  rms_fark
+ADEP_mvt                                 
+EDDF      35896  93.8       9.8      86.5
+EDDM      25728  97.9      -1.4     139.5
+EGLL      39592  95.7     -12.6     142.5
+EHAM      36976  98.8      -0.9     138.3
+LEBL      29638  97.7      -5.4     116.5
+LEMD      36716  97.8      -4.1      97.5
+LFPG      39138  31.7       1.3      45.8
+LIRF      26516  40.0      -5.1      47.6
+LSZH      22491  97.2       5.0     117.4
+LTFM      46860   0.6      -0.2       3.6

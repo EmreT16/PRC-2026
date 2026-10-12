@@ -1,0 +1,15 @@
+başladı 20:49:41
+kutuk/adsb_uretim_D_kqgpPe_38a.log:yankı hedge'i: β=0.25, 10,618 satır | ort. değişim 7.1 sn | ort. p_kilit 0.209
+kutuk/adsb_uretim_D_kqgpPe_37a.log:yankı hedge'i: β=0.25, 10,618 satır | ort. değişim 6.1 sn | ort. p_kilit 0.203
+değişen 10,618 satır; havalimanı dışı LIRF: 0
+                    size  mean  <lambda_0>
+ADEP_mvt MVT_MONTH                        
+LIRF     1          9423  0.77       15.13
+         7          1195  2.51       14.68
+- Dosya: `<repo>\gonderim\strong-moose_v232.parquet`
+- MD5: `769bbcd33d3160cbccf1771492858be3`
+- Aday: `D_kqgpPe_adsb_38a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+- Dosya: `<repo>\gonderim\strong-moose_v233.parquet`
+- MD5: `f813ced0633748966c7ac72eb75638e2`
+- Kaynak: `gonderim/strong-moose_v232.parquet` (MD5 769bbcd33d3160cbccf1771492858be3) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+zincir bitti 21:02:56

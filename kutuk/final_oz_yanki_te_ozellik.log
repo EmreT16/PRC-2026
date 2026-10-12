@@ -1,0 +1,9 @@
+2025 gecikmeli satır 442,658; havalimanı yankı oranı %: {'EDDF': 0.0, 'EDDM': 0.1, 'EGLL': 0.6, 'EHAM': 0.0, 'LEBL': 0.4, 'LEMD': 0.1, 'LFPG': 0.2, 'LIRF': 8.1, 'LSZH': 0.0, 'LTFM': 0.6}
+2755837 
+                 count    mean     std      max
+YTE_UCUS    2755837.0   0.008   0.031    0.878
+YTE_HY      2755837.0   0.008   0.035    0.935
+YTE_VARIS   2755837.0   0.008   0.033    0.773
+YTE_PARK    2755837.0   0.008   0.026    0.429
+YTE_N_UCUS  2755837.0  39.797  38.239  264.000
+eğitim/test ortalama YTE_UCUS: 0.0079 0.0083

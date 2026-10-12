@@ -1,0 +1,17 @@
+hazırlık 18 sn | özellik 134 | split_1 eğitim satırı 1,723,367 | en büyük havalimanı LTFM: 223,438 satır (payı 13.0%)
+LTFM: eğitim 223,438 × 134 | doğrulama 45,882
+  {'model': 'LightGBM v126 (n_jobs=8)', 'durum': 'başarılı', 'sure_sn': 57.9, 'gpu_tepe_mib': 0, 'gpu_taban_mib': 0, 'rmse': 249.16, 'aylar': {1: 220.12, 7: 271.51}}
+  {'model': 'LightGBM v126 (n_jobs=16)', 'durum': 'başarılı', 'sure_sn': 63.3, 'gpu_tepe_mib': 0, 'gpu_taban_mib': 0, 'rmse': 249.16, 'aylar': {1: 220.12, 7: 271.51}}
+  {'model': 'CatBoost GPU v126 (yalnızca sayısal)', 'durum': 'başarılı', 'sure_sn': 8.4, 'gpu_tepe_mib': 3207, 'gpu_taban_mib': 0, 'rmse': 254.7, 'aylar': {1: 224.62, 7: 277.82}}
+  {'model': 'CatBoost GPU + 5 kategorik (max_ctr_complexity=varsayılan)', 'durum': 'başarılı', 'sure_sn': 28.9, 'gpu_tepe_mib': 3207, 'gpu_taban_mib': 75, 'rmse': 254.8, 'aylar': {1: 224.46, 7: 278.11}}
+  {'model': 'CatBoost GPU + 5 kategorik (max_ctr_complexity=1)', 'durum': 'başarılı', 'sure_sn': 10.7, 'gpu_tepe_mib': 3205, 'gpu_taban_mib': 77, 'rmse': 253.82, 'aylar': {1: 223.12, 7: 277.36}}
+  {'model': 'XGBoost CUDA v126', 'durum': 'başarılı', 'sure_sn': 6.1, 'gpu_tepe_mib': 277, 'gpu_taban_mib': 77, 'rmse': 252.62, 'aylar': {1: 222.32, 7: 275.88}}
+
+Süre tahmini (tüm havalimanları, satır sayısıyla doğrusal varsayım):
+  bir_bolme_v126_tohumlari_sn        1,688 sn ≈   28.1 dk
+  split1+split2_sn                   3,377 sn ≈   56.3 dk
+  12_ay_tam_egitim_sn                2,026 sn ≈   33.8 dk
+  v126_ozgun_3kat_12ay_sn            4,862 sn ≈   81.0 dk
+  tek_tohum_LGB_bir_bolme_sn           488 sn ≈    8.1 dk
+toplam 196 sn
+cikis: 0

@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_P",
+  "gcb_P4",
+  "e1h3_P6",
+  "lgbh3_P6",
+  "dw_P5"
+ ],
+ "agirlik": [
+  0.1832,
+  0.1832,
+  0.2799,
+  0.0997,
+  0.254
+ ],
+ "not": "05.10: T8 ağırlıkları, pist konfigürasyonlu bileşenler (lgbh3 / E1 6, GCB 4, DW 5 tohum)"
+}

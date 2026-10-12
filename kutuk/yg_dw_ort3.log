@@ -1,0 +1,8 @@
+split_1: düzenek adımı atlandı; eksik: ['GCB_dw_lr03_ek5_l2_10_kqgpy_t42_split_1.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t2026_split_1.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t7_split_1.parquet']
+split_2: düzenek adımı atlandı; eksik: ['GCB_dw_lr03_ek5_l2_10_kqgpy_t42_split_2.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t2026_split_2.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t7_split_2.parquet']
+split_3: düzenek adımı atlandı; eksik: ['GCB_dw_lr03_ek5_l2_10_kqgpy_t42_split_3.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t2026_split_3.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t7_split_3.parquet']
+split_4: düzenek adımı atlandı; eksik: ['GCB_dw_lr03_ek5_l2_10_kqgpy_t42_split_4.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t2026_split_4.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t7_split_4.parquet']
+split_5: düzenek adımı atlandı; eksik: ['GCB_dw_lr03_ek5_l2_10_kqgpy_t42_split_5.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t2026_split_5.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t7_split_5.parquet']
+split_6: düzenek adımı atlandı; eksik: ['GCB_dw_lr03_ek5_l2_10_kqgpy_t42_split_6.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t2026_split_6.parquet', 'GCB_dw_lr03_ek5_l2_10_kqgpy_t7_split_6.parquet']
+test: 339,551 satır | ilk iki tohumun korelasyonu 0.9958 | ort. ofset 11.3
+cikis: 0

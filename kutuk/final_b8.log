@@ -1,0 +1,61 @@
+başladı 21:30:38
+tum6M_adsb → _bF8: 7692 satır yeni tabanla
+tum6M_adsb_lirfte → _bF8: 7692 satır yeni tabanla
+B5 tamam 21:41:48
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+A_ha_g2lgbcb_g2t (v320 yapısı): ara gonderim_final/strong-moose_final_a31.parquet → gonderim_final/strong-moose_final_a32.parquet MD5: `fbbc58ded0025b64dbbcaba6672fbc9c`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+A_ha_g2 (G2 yalnız LightGBM): ara gonderim_final/strong-moose_final_a33.parquet → gonderim_final/strong-moose_final_a34.parquet MD5: `9cfda714a754b0f555fd5a118ae557e4`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+A_ha_g2lgbcb (G2b yok): ara gonderim_final/strong-moose_final_a35.parquet → gonderim_final/strong-moose_final_a36.parquet MD5: `df4c7458b3ffdff2ee4d25de6628cbab`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+A_ha (G2 yok): ara gonderim_final/strong-moose_final_a37.parquet → gonderim_final/strong-moose_final_a38.parquet MD5: `a5e91d43b59e23a6f23adbfecebff827`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+A_duz (G2 ve H1 yok): ara gonderim_final/strong-moose_final_a39.parquet → gonderim_final/strong-moose_final_a40.parquet MD5: `1414709340ede25b11f4a9316d6db1c6`
+son dosya gonderim_final\strong-moose_final_a40.parquet − final_a2 (B satırları, havalimanı × ay):
+                    size       mean  <lambda_0>
+ADEP_mvt MVT_MONTH                             
+EDDF     1           147   2.000000   10.300000
+         2           167  -2.000000    7.500000
+         6           178   0.400000    8.800000
+         7           209   0.500000    7.700000
+EDDM     1           116   1.400000   10.800000
+         2            81   5.700000   16.299999
+         6           128   3.500000    8.900000
+         7           118   1.700000    5.500000
+EGLL     1           112   3.500000   13.000000
+         2            40   2.300000   10.900000
+         6           183   3.600000   12.700000
+         7           136   3.300000   11.400000
+EHAM     1           805 -10.600000  606.799988
+         2           233  48.799999  200.300003
+         6           452  17.700001  203.500000
+         7           398  -2.400000   80.199997
+LEBL     1            77   5.100000    7.800000
+         2            83   4.200000    7.100000
+         6           234   7.800000   13.400000
+         7           365   8.200000   10.700000
+LEMD     1            58   1.000000    8.000000
+         2            82   1.100000   14.900000
+         6           118   2.000000    9.600000
+         7           171  -0.200000    6.600000
+LFPG     1           325  -1.100000   10.800000
+         2            31   1.900000    7.900000
+         6           419   1.800000    9.500000
+         7           409   2.500000    7.100000
+LIRF     1           107   5.400000    5.400000
+         2            75   4.100000    4.200000
+         6           161   4.800000    4.800000
+         7           276   7.700000    7.700000
+LSZH     1           294  83.099998  530.200012
+         2           115 -51.000000  352.200012
+         6           259 -31.200001  261.899994
+         7           351 -13.100000  268.500000
+LTFM     1           333   2.300000    2.300000
+         2           279   2.000000    2.000000
+zincir bitti 21:42:43

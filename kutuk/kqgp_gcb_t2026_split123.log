@@ -1,0 +1,61 @@
+0:	learn: 361.0436306	test: 379.6697753	best: 379.6697753 (0)	total: 434ms	remaining: 43m 21s
+1000:	learn: 188.2148562	test: 211.5972237	best: 211.5972237 (1000)	total: 5m 45s	remaining: 28m 43s
+2000:	learn: 178.5375728	test: 208.0262497	best: 208.0256627 (1998)	total: 11m 29s	remaining: 22m 58s
+3000:	learn: 172.0418034	test: 206.4214728	best: 206.4213430 (2998)	total: 17m 19s	remaining: 17m 18s
+4000:	learn: 166.8343420	test: 205.6125264	best: 205.6087026 (3952)	total: 23m 7s	remaining: 11m 33s
+5000:	learn: 162.3549131	test: 205.0980829	best: 205.0980829 (5000)	total: 28m 57s	remaining: 5m 47s
+5999:	learn: 158.3834815	test: 204.7480149	best: 204.7425605 (5989)	total: 34m 48s	remaining: 0us
+bestTest = 204.7425605
+bestIteration = 5989
+Shrink model to first 5990 iterations.
+== split_1: GCB_it6000_t2026_kqgp tek ↔ B1 harmanı (en iyi iterasyon 5989)
+  ağırlıklı RMSE: taban 226.951 | aday 220.051 | Δ -6.900 sn [%95: -9.106 … -5.053]
+  ay  1: taban 202.379 | aday 199.058 (n=152,271)
+  ay  7: taban 244.706 | aday 235.387 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 53/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_1: GCB_it6000_t2026_kqgp yuzde50 ↔ B1 harmanı (en iyi iterasyon 5989)
+  ağırlıklı RMSE: taban 226.951 | aday 219.171 | Δ -7.779 sn [%95: -9.195 … -6.688]
+  ay  1: taban 202.379 | aday 197.018 (n=152,271)
+  ay  7: taban 244.706 | aday 235.277 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 61/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+0:	learn: 370.7922483	test: 375.8828487	best: 375.8828487 (0)	total: 535ms	remaining: 53m 29s
+1000:	learn: 190.8123226	test: 205.6978422	best: 205.6978422 (1000)	total: 5m 46s	remaining: 28m 50s
+2000:	learn: 181.2004118	test: 202.7293506	best: 202.7255546 (1990)	total: 11m 32s	remaining: 23m 2s
+3000:	learn: 174.5760862	test: 201.4151223	best: 201.4070942 (2993)	total: 17m 20s	remaining: 17m 19s
+4000:	learn: 169.2888585	test: 200.6996036	best: 200.6988424 (3993)	total: 23m 8s	remaining: 11m 33s
+5000:	learn: 164.7819143	test: 200.2391855	best: 200.2353495 (4998)	total: 28m 58s	remaining: 5m 47s
+5999:	learn: 160.7052081	test: 199.9249402	best: 199.9207882 (5978)	total: 34m 42s	remaining: 0us
+bestTest = 199.9207882
+bestIteration = 5978
+Shrink model to first 5979 iterations.
+== split_2: GCB_it6000_t2026_kqgp tek ↔ B1 harmanı (en iyi iterasyon 5978)
+  ağırlıklı RMSE: taban 219.184 | aday 210.220 | Δ -8.963 sn [%95: -12.210 … -6.418]
+  ay  2: taban 223.852 | aday 212.504 (n=142,622)
+  ay  8: taban 215.406 | aday 208.390 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 55/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_2: GCB_it6000_t2026_kqgp yuzde50 ↔ B1 harmanı (en iyi iterasyon 5978)
+  ağırlıklı RMSE: taban 219.184 | aday 211.098 | Δ -8.086 sn [%95: -10.050 … -6.505]
+  ay  2: taban 223.852 | aday 214.365 (n=142,622)
+  ay  8: taban 215.406 | aday 208.467 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 59/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+0:	learn: 370.9977352	test: 377.2962082	best: 377.2962082 (0)	total: 451ms	remaining: 45m 4s
+1000:	learn: 191.4369122	test: 207.4954884	best: 207.4954884 (1000)	total: 5m 20s	remaining: 26m 41s
+2000:	learn: 181.5522187	test: 204.4315728	best: 204.4307279 (1992)	total: 10m 52s	remaining: 21m 44s
+3000:	learn: 174.7682958	test: 203.0351653	best: 203.0350126 (2998)	total: 16m 27s	remaining: 16m 26s
+4000:	learn: 169.4460114	test: 202.3683644	best: 202.3652639 (3996)	total: 22m 3s	remaining: 11m 1s
+5000:	learn: 164.8713362	test: 201.8947025	best: 201.8946732 (4999)	total: 27m 39s	remaining: 5m 31s
+5999:	learn: 160.7997088	test: 201.6043223	best: 201.6027699 (5969)	total: 33m 17s	remaining: 0us
+bestTest = 201.6027699
+bestIteration = 5969
+Shrink model to first 5970 iterations.
+== split_3: GCB_it6000_t2026_kqgp tek ↔ B1 harmanı (en iyi iterasyon 5969)
+  ağırlıklı RMSE: taban 208.159 | aday 201.298 | Δ -6.861 sn [%95: -8.065 … -5.586]
+  ay 12: taban 199.451 | aday 192.502 (n=164,028)
+  ay  6: taban 214.821 | aday 208.016 (n=180,640)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 58/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_3: GCB_it6000_t2026_kqgp yuzde50 ↔ B1 harmanı (en iyi iterasyon 5969)
+  ağırlıklı RMSE: taban 208.159 | aday 201.367 | Δ -6.792 sn [%95: -7.506 … -6.133]
+  ay 12: taban 199.451 | aday 192.579 (n=164,028)
+  ay  6: taban 214.821 | aday 208.079 (n=180,640)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 61/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+cikis: 0

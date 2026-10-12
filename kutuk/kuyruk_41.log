@@ -1,0 +1,28 @@
+başladı 17:46:37; seçim: {"komsu_oz.parquet":["KOM_PP_2","KOM_PP_3","KOM_PP_5","KOM_PP_10","KOM_PS_2","KOM_PS_3","KOM_PS_5","KOM_PS_10","KOM_AP_5","KOM_AP_10","KOM_AS_5","KOM_AS_10"],"komsu_tah_oz.parquet":["KTAH_ORT","KTAH_FARK","KTAH_P_ORT","KTAH_P_FARK"]}
+GCB ort2 OOF = tek tohum kopyası
+islemci: 0 00:30:02
+ekran: 0 21:23:29
+== OOF harman kıyası (6 bölme) 00:30:02
+ay 1: 193.85 → 195.52 (+1.67) ay 2: 207.81 → 209.99 (+2.18) ay 6: 204.07 → 204.15 (+0.08) ay 7: 230.40 → 231.94 (+1.55) ay 8: 204.85 → 205.35 (+0.49) ay 12: 188.47 → 189.22 (+0.74)
+ort fark 1.12 | iyi 0 / 6
+havalimanı (6 ay RMSE farkı): EDDF +0.03 EDDM +0.82 EGLL +1.51 EHAM +0.16 LEBL +0.74 LEMD +0.25 LFPG +0.51 LIRF +3.10 LSZH +0.86 LTFM +1.65
+== düzeltici CV, kqgpy 12 ay 00:30:08 (kqgpxg 12 ay: 198.03)
+k=0.0   195.52             174.73  231.94             229.53             216.58
+k=1.0   176.20             136.82  216.37             207.87             199.59
+EDDF  36231.0     98.5  168.5        125.8
+EDDM  26854.0     95.2  160.5        114.1
+EGLL  39744.0     82.9  227.6        214.2
+EHAM  40141.0     99.4  160.7        102.0
+LEBL  28490.0     98.6  215.3        185.3
+LEMD  35019.0     71.2  164.6        162.3
+LFPG  38732.0     18.5  237.1        236.2
+LIRF  26131.0     55.8  370.8        366.9
+LSZH  21822.0     98.1  171.2        127.0
+LTFM  45882.0      0.0  227.6        227.6
+süre 506 sn
+- Dosya: `<repo>\gonderim\strong-moose_v203.parquet`
+- MD5: `d64d4de58ecb4c32d8d4e89d2b595796`
+- Aday: `D_kqgpy_adsb_23a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+strong-moose_v203.parquet
+strong-moose_v202.parquet
+kuyruk bitti 00:50:55

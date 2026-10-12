@@ -1,0 +1,15 @@
+  hazırlık: 183 sayısal (eksiklik bayrakları dahil), 11 kategorik | 84 sn
+  TabM: 5 sabit sütun atıldı, 178 sayısal kaldı
+    epok 1/12: kayıp 0.0734 | 100 sn
+    epok 2/12: kayıp 0.0571 | 113 sn
+    epok 3/12: kayıp 0.0532 | 125 sn
+    epok 4/12: kayıp 0.0502 | 124 sn
+    epok 5/12: kayıp 0.0478 | 124 sn
+    epok 6/12: kayıp 0.0454 | 124 sn
+    epok 7/12: kayıp 0.0429 | 124 sn
+    epok 8/12: kayıp 0.0402 | 106 sn
+    epok 9/12: kayıp 0.0376 | 118 sn
+    epok 10/12: kayıp 0.0354 | 124 sn
+    epok 11/12: kayıp 0.0338 | 124 sn
+    epok 12/12: kayıp 0.0331 | 124 sn
+[split_1] taksi RMSE: ay 1 196.44, ay 7 234.49 | 1723 sn

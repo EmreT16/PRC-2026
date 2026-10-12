@@ -1,0 +1,17 @@
+  EDDF: harman 171.1 (alt sınırsız) | 196 sn
+  EDDM: harman 180.0 (alt sınırsız) | 142 sn
+  EGLL: harman 222.6 (alt sınırsız) | 195 sn
+  EHAM: harman 151.6 (alt sınırsız) | 141 sn
+  LEBL: harman 186.8 (alt sınırsız) | 135 sn
+  LEMD: harman 170.8 (alt sınırsız) | 147 sn
+  LFPG: harman 229.5 (alt sınırsız) | 132 sn
+  LIRF: harman 355.3 (alt sınırsız) | 132 sn
+  LSZH: harman 165.0 (alt sınırsız) | 120 sn
+  LTFM: harman 212.4 (alt sınırsız) | 143 sn
+== split_3: v_lgb_huber1000_3t (134 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 208.159 | aday 208.864 | Δ +0.706 sn [%95: +0.274 … +1.157]
+  ay 12: taban 199.451 | aday 200.276 (n=164,028)
+  ay  6: taban 214.821 | aday 215.438 (n=180,640)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 25/61 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+[split_3] süre 1509 sn
+cikis: 0

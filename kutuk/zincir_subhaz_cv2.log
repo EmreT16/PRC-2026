@@ -1,0 +1,48 @@
+== H1 (7 ay) 17:39:49
+  ay  1 dışarıda: SSE %-0.25
+  ay  2 dışarıda: SSE %+0.11
+  ay  3 dışarıda: SSE %-0.30
+  ay  6 dışarıda: SSE %+0.11
+  ay  7 dışarıda: SSE %-0.09
+  ay 10 dışarıda: SSE %-0.12
+  ay 11 dışarıda: SSE %+0.22
+  toplam SSE %-0.046
+test: taban farkı RMS 6.75 sn, ort +0.16; havalimanı ort: EDDF +0.1, EDDM +0.1, EGLL +0.2, EHAM -0.1, LEBL +0.2, LEMD +0.2, LFPG +0.8, LIRF +0.4, LSZH +0.4, LTFM -0.4
+yazıldı: <repo>\data\preds\TEST_D_kqgpPe_adsb_42o_SH_ha.parquet
+== G2 LightGBM 17:40:17
+CV satırı 1,170,412 (RMSE 179.93); G2 satırı 119,884, SSE payı %23.8
+  ay  1 dışarıda: RMSE 172.27 → 172.03 (SSE %-0.28)
+  ay  2 dışarıda: RMSE 191.22 → 190.57 (SSE %-0.67)
+  ay  3 dışarıda: RMSE 159.72 → 159.71 (SSE %-0.02)
+  ay  6 dışarıda: RMSE 182.42 → 182.43 (SSE %+0.01)
+  ay  7 dışarıda: RMSE 212.96 → 212.57 (SSE %-0.37)
+  ay 10 dışarıda: RMSE 174.59 → 174.77 (SSE %+0.21)
+  ay 11 dışarıda: RMSE 155.76 → 155.73 (SSE %-0.04)
+  toplam ΔSSE %-0.182
+test: G2 satırı 36,376 / 339,551; ekleme ort +10.2 sn, RMS 39.2, çeyrekler [-12.0, -5.0, -1.0, 9.0, 91.0]
+yazıldı: <repo>\data\preds\TEST_D_kqgpPe_adsb_42o_SH_ha_g2.parquet
+== G2 LightGBM + CatBoost 17:41:21
+CV satırı 1,170,412 (RMSE 179.93); G2 satırı 119,884, SSE payı %23.8
+  ay  1 dışarıda: RMSE 172.27 → 171.52 (SSE %-0.88)
+  ay  2 dışarıda: RMSE 191.22 → 190.34 (SSE %-0.91)
+  ay  3 dışarıda: RMSE 159.72 → 159.01 (SSE %-0.89)
+  ay  6 dışarıda: RMSE 182.42 → 182.24 (SSE %-0.21)
+  ay  7 dışarıda: RMSE 212.96 → 212.37 (SSE %-0.55)
+  ay 10 dışarıda: RMSE 174.59 → 174.48 (SSE %-0.12)
+  ay 11 dışarıda: RMSE 155.76 → 155.73 (SSE %-0.05)
+  toplam ΔSSE %-0.507
+test: G2 satırı 36,376 / 339,551; ekleme ort +9.6 sn, RMS 50.7, çeyrekler [-14.0, -5.0, -1.0, 9.0, 72.0]
+yazıldı: <repo>\data\preds\TEST_D_kqgpPe_adsb_42o_SH_ha_g2lgbcb.parquet
+== G2b LightGBM + CatBoost 17:53:10
+CV satırı 1,170,412 (RMSE 179.93); G2 satırı 1,050,528, SSE payı %76.2
+  ay  1 dışarıda: RMSE 172.27 → 172.32 (SSE %+0.06)
+  ay  2 dışarıda: RMSE 191.22 → 189.52 (SSE %-1.76)
+  ay  3 dışarıda: RMSE 159.72 → 159.41 (SSE %-0.40)
+  ay  6 dışarıda: RMSE 182.42 → 181.62 (SSE %-0.87)
+  ay  7 dışarıda: RMSE 212.96 → 212.00 (SSE %-0.89)
+  ay 10 dışarıda: RMSE 174.59 → 174.01 (SSE %-0.66)
+  ay 11 dışarıda: RMSE 155.76 → 155.45 (SSE %-0.41)
+  toplam ΔSSE %-0.757
+test: G2 satırı 303,175 / 339,551; ekleme ort +4.5 sn, RMS 20.8, çeyrekler [-2.0, 1.0, 3.0, 5.0, 9.0]
+yazıldı: <repo>\data\preds\TEST_D_kqgpPe_adsb_42o_SH_ha_g2tlgbcb.parquet
+bitti 18:23:04

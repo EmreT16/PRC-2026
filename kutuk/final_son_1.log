@@ -1,0 +1,6 @@
+[01:36:23] ADS-B gün özellikleri
+2026 ADS-B gün özelliği: {'01': 31, '02': 28, '06': 27, '07': 31} | fazladan: []
+Traceback (most recent call last):
+  File "<stdin>", line 5, in <module>
+AssertionError: {'01': 31, '02': 28, '06': 27, '07': 31}
+HATA: ADS-B gün sayısı 01:44:39

@@ -1,0 +1,33 @@
+başladı 02:42:27 (tohum 1, ek _dpdcb8)
+(B üretimi hazır dosyadan: TEST_B_tum_dpdcb8.parquet)
+tum_dparkktah'a göre fark (6 havalimanı):
+          size  mean  <lambda_0>
+ADEP_mvt                        
+EDDM       238 -17.4       170.5
+EGLL       248  -3.6       144.9
+EHAM      1206  99.3       251.6
+LEBL       442  -2.4        79.2
+LEMD       238  -1.5       100.9
+LFPG       734 -11.2       157.1
+LSZH       659 -14.7       155.2
+LTFM       721   6.2       103.7
+tum6M_adsb → _bdpdcb8: 4486 satır değişti
+tum6M_adsb_lirfte → _bdpdcb8: 4486 satır değişti
+B5 sonrası, _bpark'a (v289'un B'si) göre fark:
+          size  <lambda_0>  mean  <lambda_1>
+ADEP_mvt                                    
+EDDF       421         326  -0.4         7.4
+EDDM       238         238   2.4       108.4
+EGLL       248         248   1.7        98.5
+EHAM      1206        1199 -54.6       484.5
+LEBL       442         442  -0.8        35.6
+LEMD       238         238   4.6        66.4
+LFPG       734         728 -12.0       157.8
+LIRF       383           0   0.0         0.0
+LSZH       659         646  24.4       419.9
+LTFM       721         705   6.2       103.7
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+aday: ara gonderim/strong-moose_v298.parquet → gonderim/strong-moose_v299.parquet MD5: `5a279b1c06cf098aeca621c15490028c`
+   − v289: değişen 130,785 satır, RMS 35.36 sn, |fark|>300 sn 544
+zincir bitti 02:54:30

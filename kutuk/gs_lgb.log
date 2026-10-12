@@ -1,0 +1,13 @@
+[v_lgb_huber1000_6t_kqgpy_gunsuz] eğitim 2,062,378 | test 339,551 | özellik 223 | hazırlık 58 sn
+  EDDF: eğitim 228,185 test 35,896 | 736 sn
+  EDDM: eğitim 166,324 test 25,728 | 561 sn
+  EGLL: eğitim 238,132 test 39,592 | 543 sn
+  EHAM: eğitim 243,865 test 36,976 | 593 sn
+  LEBL: eğitim 177,838 test 29,638 | 645 sn
+  LEMD: eğitim 211,295 test 36,716 | 698 sn
+  LFPG: eğitim 235,725 test 39,138 | 742 sn
+  LIRF: eğitim 159,154 test 26,516 | 562 sn
+  LSZH: eğitim 132,540 test 22,491 | 554 sn
+  LTFM: eğitim 269,320 test 46,860 | 743 sn
+[v_lgb_huber1000_6t_kqgpy_gunsuz] bitti: <repo>\data\preds\TEST_v_lgb_huber1000_6t_kqgpy_gunsuz.parquet | ort. taksi 1024.9 | süre 6434 sn
+cikis: 0

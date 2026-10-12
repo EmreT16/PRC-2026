@@ -1,0 +1,11 @@
+başladı 00:02:33
+data/preds/TEST_B_mu_nn_dparkktahkomgspcyte_e12_t5: 4,907 satır | 2 ↔ 3 tohum korelasyonu 0.9946, fark RMS 83.7
+data_final/preds/TEST_B_mu_nn_dparkktahkomgspcyte_e12_t5: 8,458 satır | 2 ↔ 3 tohum korelasyonu 0.9962, fark RMS 60.5
+TabM μ 5 tohum tamam 01:25:12
+normal aday: ara gonderim/strong-moose_v356.parquet → gonderim/strong-moose_v357.parquet MD5: `f1594a825bbe01cf00eecf63345c6cc1`
+  strong-moose_v357.parquet − v355: değişen 197,617, RMS 3.58, ort -0.025, maks |fark| 489
+tum6M_adsb → _bN85: 7692 satır
+tum6M_adsb_lirfte → _bN85: 7692 satır
+final: ara gonderim_final/strong-moose_final_a59.parquet → gonderim_final/strong-moose_final_a60.parquet MD5: `7521e897249968408e5e126dd5477d52`
+  − a56: B satırları RMS 21.8, ort -0.16; A satırları RMS 0.02
+zincir bitti 01:38:31

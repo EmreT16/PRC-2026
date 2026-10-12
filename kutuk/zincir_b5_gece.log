@@ -1,0 +1,15 @@
+başladı 01:34:03
+CV 12 ay bitti 01:42:39
+         ay 1    ay 2    ay 6    ay 7    ay 8  ay 12  izli B   EDDF   EDDM    EGLL   EHAM   LEBL   LEMD   LFPG    LIRF   LSZH
+k=0.0  2914.0  1684.3  2608.6  1479.6  1579.1  712.5  2089.5  300.5  509.1  1035.0  405.2  285.0  289.3  551.0  6209.9  575.2
+k=0.5  2909.7  1680.5  2604.9  1475.7  1574.6  686.8  2081.3  250.6  421.5  1022.7  358.3  249.3  260.4  535.5  6206.6  538.5
+k=1.0  2907.0  1678.4  2602.4  1474.1  1572.4  672.2  2076.9  217.8  369.8  1014.1  329.8  237.1  245.3  523.4  6204.6  517.2
+[pe] ara gonderim/strong-moose_v244.parquet, aday gonderim/strong-moose_v245.parquet
+- MD5: `40a78a15168b58104a718c577df00585`
+- Kaynak: `gonderim/strong-moose_v244.parquet` (MD5 d3c5284e38a7b74072120266140964db) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+  − v243: değişen 121,978 satır, RMS 0.46 sn, ort -0.002
+[12ay] ara gonderim/strong-moose_v246.parquet, aday gonderim/strong-moose_v247.parquet
+- MD5: `58f560d27571aa12a661d3afb867b69b`
+- Kaynak: `gonderim/strong-moose_v246.parquet` (MD5 f07ca866180f32e22a080f056ffc6209) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+  − v243: değişen 122,093 satır, RMS 3.61 sn, ort +0.001
+zincir bitti 01:51:37

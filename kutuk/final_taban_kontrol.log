@@ -1,0 +1,60 @@
+ham: eğitim 4,167,797 (DEP 2,085,047) | test 689,534 (DEP 344,841) — ranking.parquet
+<repo>\src\prc2_taban\features.py:247: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['DELAY_QUEUE_PRESSURE'] = out['TAKEOFF_VS_SCHED_SEC_POS'] * out['DEP_QUEUE_N']  # #82
+<repo>\src\prc2_taban\features.py:248: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['STAND_TYPE'] = d['STAND_mvt'].astype(str).str[0]                          # #84
+<repo>\src\prc2_taban\features.py:249: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['ROUTE_PAIR'] = d['ADEP_mvt'] + '_' + d['ADES_mvt']                        # #87
+<repo>\src\prc2_taban\features.py:253: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['IS_DOMESTIC'] = (dep_cc.to_numpy() == ades_cc2.to_numpy()).astype(float)   # #115
+<repo>\src\prc2_taban\features.py:258: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['DEP_RANK_TODAY'] = rank_in_day.reindex(d.index)
+<repo>\src\prc2_taban\features.py:259: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['IS_FIRST_DEP_TODAY'] = (out['DEP_RANK_TODAY'] == 1).astype(float)          # #116
+<repo>\src\prc2_taban\features.py:266: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['QUEUE_RATIO_TO_HOUR_MEAN'] = out['DEP_QUEUE_N'] / (hour_mean + 1)
+<repo>\src\prc2_taban\features.py:271: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['SCHED_DIFF_SEC_HOUR_PCT'] = out.groupby([day_key, out['LOCAL_HOUR']])['SCHED_DIFF_SEC'].rank(pct=True)
+<repo>\src\prc2_taban\features.py:275: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['MVT_ID_mvt'] = d['MVT_ID_mvt']
+<repo>\src\prc2_taban\features.py:277: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out[TARGET] = d[TARGET]
+<repo>\src\prc2_taban\features.py:286: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  out['NM_OFFSET_SEC'] = (d['BLOCK_TIME_UTC_mvt'] - d['AOBT_3_flt']).dt.total_seconds()
+özellikler: 127 sütun | 106 sn
+
+dep_train (yeniden ↔ PRC_2): eski 2,085,047 | yeni 2,085,047 | ortak 2,085,047 | sütun eski 127 yeni 127
+                sütun  farklı %  maks |fark|
+      DEST_VISIBILITY   100.000          NaN
+       WK_TBL_CAT_flt     1.081          NaN
+           ADES_FILED     1.078          NaN
+         CALLSIGN_flt     1.078          NaN
+   MARKET_SEGMENT_flt     1.078          NaN
+AIRCRAFT_OPERATOR_flt     1.078          NaN
+    AIRCRAFT_TYPE_mvt     0.072          NaN
+      AIRLINE_LETTERS     0.016          NaN
+          FLIGHT_CODE     0.009          NaN
+           ROUTE_PAIR     0.006          NaN
+             ADES_mvt     0.006          NaN
+            STAND_mvt     0.001          NaN
+           STAND_TYPE     0.001          NaN
+
+dep_rank (yeniden ↔ PRC_2): eski 344,841 | yeni 344,841 | ortak 344,841 | sütun eski 127 yeni 127
+                sütun  farklı %  maks |fark|
+      DEST_VISIBILITY   100.000          NaN
+       WK_TBL_CAT_flt     1.538          NaN
+           ADES_FILED     1.534          NaN
+         CALLSIGN_flt     1.534          NaN
+   MARKET_SEGMENT_flt     1.534          NaN
+AIRCRAFT_OPERATOR_flt     1.534          NaN
+    AIRCRAFT_TYPE_mvt     0.113          NaN
+      AIRLINE_LETTERS     0.025          NaN
+          FLIGHT_CODE     0.017          NaN
+           ROUTE_PAIR     0.004          NaN
+             ADES_mvt     0.004          NaN
+            STAND_mvt     0.001          NaN
+           STAND_TYPE     0.001          NaN
+
+V3 test (yeniden ↔ PRC_4): eski 344,841 | yeni 344,841 | ortak 344,841 | sütun eski 11 yeni 11
+  tüm sütunlar aynı
+kontrol çıkış 0

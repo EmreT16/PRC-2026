@@ -1,0 +1,12 @@
+[split_1'de seçim] en iyi (CB, LGB, XGB) = (0.2, 0.55, 0.25): 226.613 | v126 ağırlıkları 226.951
+== split_2'de sınama: (0.2, 0.55, 0.25) ↔ v126 (0.45, 0.4, 0.15)
+  ağırlıklı RMSE: taban 219.184 | aday 218.589 | Δ -0.595 sn [%95: -0.918 … -0.212]
+  ay  2: taban 223.852 | aday 223.149 (n=142,622)
+  ay  8: taban 215.406 | aday 214.900 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 51/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_2'de seçim] en iyi (CB, LGB, XGB) = (0.05, 0.45, 0.5): 218.294 | v126 ağırlıkları 219.184
+== split_1'de sınama: (0.05, 0.45, 0.5) ↔ v126 (0.45, 0.4, 0.15)
+  ağırlıklı RMSE: taban 226.951 | aday 227.033 | Δ +0.082 sn [%95: -0.317 … +0.493]
+  ay  1: taban 202.379 | aday 202.314 (n=152,271)
+  ay  7: taban 244.706 | aday 244.886 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 36/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET

@@ -1,0 +1,23 @@
+başladı 15:51:01
+nmsiz − iz5 (B satırları):
+          size  <lambda_0>  mean  <lambda_1>
+ADEP_mvt                                    
+EDDF       421         282   2.1        16.5
+EDDM       238         231 -11.4        48.7
+EGLL       248         241 -13.0        43.0
+EHAM      1206         719  12.9       100.9
+LEBL       442         437   2.1        22.9
+LEMD       238         230   4.7        36.9
+LFPG       734         271   1.7        21.7
+LIRF       383           0   0.0         0.0
+LSZH       659         483  11.1        43.2
+LTFM       721           0   0.0         0.0
+- Dosya: `<repo>\gonderim\strong-moose_v238.parquet`
+- MD5: `ba58e4a39e97c804299f0507e1df71ff`
+- Aday: `D_kqgpPe_adsb_37a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+- Dosya: `<repo>\gonderim\strong-moose_v239.parquet`
+- MD5: `bfa5d268c1df2404b202ceceb35379d7`
+- Kaynak: `gonderim/strong-moose_v238.parquet` (MD5 ba58e4a39e97c804299f0507e1df71ff) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+gonderim/strong-moose_v239.parquet − gonderim/strong-moose_v237.parquet: değişen 122,091 satır, RMS 6.70 sn, ort +0.007
+gonderim/strong-moose_v239.parquet − gonderim/strong-moose_v224.parquet: değişen 122,092 satır, RMS 9.71 sn, ort +0.018
+zincir bitti 15:58:07

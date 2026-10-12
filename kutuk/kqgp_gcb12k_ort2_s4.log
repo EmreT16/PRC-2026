@@ -1,0 +1,6 @@
+split_1: 339,046 satır | ilk iki tohumun korelasyonu 0.9933
+split_2: 331,474 satır | ilk iki tohumun korelasyonu 0.9934
+split_3: 344,668 satır | ilk iki tohumun korelasyonu 0.9946
+split_4: 324,343 satır | ilk iki tohumun korelasyonu 0.9947
+test: 339,551 satır | ilk iki tohumun korelasyonu 0.9928 | ort. ofset 10.6
+cikis: 0

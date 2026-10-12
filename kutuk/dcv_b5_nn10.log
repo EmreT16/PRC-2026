@@ -1,0 +1,80 @@
+  TabMReg: 1,363,364 satır, 105 sayısal, 1 kategorik | hazırlık 18 sn
+    epok 1/8: kayıp 0.0321 | 19 sn
+    epok 2/8: kayıp 0.0289 | 19 sn
+    epok 3/8: kayıp 0.0280 | 19 sn
+    epok 4/8: kayıp 0.0275 | 19 sn
+    epok 5/8: kayıp 0.0272 | 19 sn
+    epok 6/8: kayıp 0.0268 | 19 sn
+    epok 7/8: kayıp 0.0265 | 19 sn
+    epok 8/8: kayıp 0.0263 | 19 sn
+ay 1: A eğitim 1,363,364 → B sınama 659
+  TabMReg: 1,371,241 satır, 105 sayısal, 1 kategorik | hazırlık 21 sn
+    epok 1/8: kayıp 0.0325 | 19 sn
+    epok 2/8: kayıp 0.0293 | 18 sn
+    epok 3/8: kayıp 0.0284 | 18 sn
+    epok 4/8: kayıp 0.0279 | 20 sn
+    epok 5/8: kayıp 0.0275 | 21 sn
+    epok 6/8: kayıp 0.0271 | 21 sn
+    epok 7/8: kayıp 0.0268 | 21 sn
+    epok 8/8: kayıp 0.0266 | 21 sn
+ay 2: A eğitim 1,371,241 → B sınama 397
+  TabMReg: 1,321,967 satır, 105 sayısal, 1 kategorik | hazırlık 19 sn
+    epok 1/8: kayıp 0.0313 | 21 sn
+    epok 2/8: kayıp 0.0282 | 21 sn
+    epok 3/8: kayıp 0.0272 | 21 sn
+    epok 4/8: kayıp 0.0268 | 21 sn
+    epok 5/8: kayıp 0.0264 | 21 sn
+    epok 6/8: kayıp 0.0260 | 21 sn
+    epok 7/8: kayıp 0.0257 | 21 sn
+    epok 8/8: kayıp 0.0255 | 21 sn
+ay 6: A eğitim 1,321,967 → B sınama 1,453
+  TabMReg: 1,318,114 satır, 105 sayısal, 1 kategorik | hazırlık 17 sn
+    epok 1/8: kayıp 0.0299 | 21 sn
+    epok 2/8: kayıp 0.0268 | 18 sn
+    epok 3/8: kayıp 0.0259 | 17 sn
+    epok 4/8: kayıp 0.0254 | 18 sn
+    epok 5/8: kayıp 0.0250 | 17 sn
+    epok 6/8: kayıp 0.0247 | 17 sn
+    epok 7/8: kayıp 0.0244 | 17 sn
+    epok 8/8: kayıp 0.0242 | 18 sn
+ay 7: A eğitim 1,318,114 → B sınama 2,421
+  TabMReg: 1,317,977 satır, 105 sayısal, 1 kategorik | hazırlık 18 sn
+    epok 1/8: kayıp 0.0310 | 21 sn
+    epok 2/8: kayıp 0.0277 | 21 sn
+    epok 3/8: kayıp 0.0268 | 21 sn
+    epok 4/8: kayıp 0.0263 | 21 sn
+    epok 5/8: kayıp 0.0259 | 21 sn
+    epok 6/8: kayıp 0.0255 | 21 sn
+    epok 7/8: kayıp 0.0252 | 21 sn
+    epok 8/8: kayıp 0.0250 | 21 sn
+ay 8: A eğitim 1,317,977 → B sınama 1,308
+  TabMReg: 1,330,018 satır, 105 sayısal, 1 kategorik | hazırlık 18 sn
+    epok 1/8: kayıp 0.0320 | 21 sn
+    epok 2/8: kayıp 0.0288 | 21 sn
+    epok 3/8: kayıp 0.0279 | 21 sn
+    epok 4/8: kayıp 0.0274 | 21 sn
+    epok 5/8: kayıp 0.0270 | 21 sn
+    epok 6/8: kayıp 0.0266 | 21 sn
+    epok 7/8: kayıp 0.0263 | 21 sn
+    epok 8/8: kayıp 0.0261 | 21 sn
+ay 12: A eğitim 1,330,018 → B sınama 888
+B satırı 12,964 (izli 7,126)
+          ay 1    ay 2    ay 6    ay 7    ay 8  ay 12  izli B   EDDF   EDDM   EGLL   EHAM   LEBL   LEMD   LFPG    LIRF   LSZH
+k=0.0   3169.3  1508.2  2616.6  2267.5  1961.7  789.6  2414.9  298.4  473.5  958.9  318.6  267.0  255.6  494.3  7320.2  472.4
+k=0.5   3166.0  1505.2  2613.4  2263.5  1959.0  770.1  2408.2  248.0  384.7  946.6  269.3  236.9  233.3  487.8  7314.2  453.5
+k=1.0   3164.6  1504.5  2611.7  2261.1  1959.0  761.3  2405.2  215.8  335.0  937.9  244.7  228.2  221.0  484.5  7311.1  456.4
+k=1.25  3164.5  1505.1  2611.5  2260.5  1960.0  761.0  2405.2  209.4  330.9  935.0  244.3  233.0  219.2  484.0  7310.7  466.1
+k=1.5   3164.9  1506.1  2611.7  2260.4  1961.6  763.4  2406.0  210.3  341.9  932.9  251.9  243.4  220.4  484.3  7310.9  480.7
+SSE farkı (M, k=1; negatif = iyi):
+ay       1     2      6      7     8      12
+apt                                         
+EDDF  -7.11 -1.07  -8.52 -15.95 -3.11  -1.79
+EDDM  -9.15 -3.03  -9.46  -6.90 -4.44 -40.37
+EGLL  -6.85 -0.86  -1.32 -11.49 -1.38  -5.26
+EHAM -18.40 -6.54  -3.55  -4.85 -4.35  -8.04
+LEBL  -0.73 -0.86  -1.76  -9.58 -5.26  -2.05
+LEMD  -0.01   NaN  -2.81  -0.66 -0.73  -3.92
+LFPG  -0.04  0.13  -0.72  -0.12 -1.91  -2.48
+LIRF    NaN   NaN -35.25 -59.40  1.86  -6.63
+LSZH  -0.78 -0.06  -1.33  -4.81 -5.54  -1.87
+LTFM    NaN   NaN  -0.00    NaN   NaN    NaN

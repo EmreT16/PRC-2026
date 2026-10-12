@@ -1,0 +1,11 @@
+başladı 21:27:01
+G2 LightGBM tamam 21:28:00
+v324 karşılığı: ara gonderim_final/strong-moose_final_a23.parquet → gonderim_final/strong-moose_final_a24.parquet MD5: `f00a49cfa19735d0bdf1d2b06f353585`
+   ay ortalaması {1: 1082.0999755859375, 2: 982.0, 6: 980.2000122070312, 7: 993.7999877929688} | Oca/Tem 344,841: − v324 RMS 58.9, ort +0.05, r 0.9959
+v326 karşılığı: ara gonderim_final/strong-moose_final_a25.parquet → gonderim_final/strong-moose_final_a26.parquet MD5: `29a0b27c865cc29dc155de59abcaa6c1`
+   ay ortalaması {1: 1082.199951171875, 2: 982.0, 6: 980.2999877929688, 7: 993.7999877929688} | Oca/Tem 344,841: − v326 RMS 59.0, ort +0.04, r 0.9959
+v328 karşılığı: ara gonderim_final/strong-moose_final_a27.parquet → gonderim_final/strong-moose_final_a28.parquet MD5: `684f2fffc066ff542e3f3ef5a52cda38`
+   ay ortalaması {1: 1081.300048828125, 2: 981.9000244140625, 6: 980.2000122070312, 7: 993.7000122070312} | Oca/Tem 344,841: − v328 RMS 58.9, ort +0.02, r 0.9959
+v330 karşılığı: ara gonderim_final/strong-moose_final_a29.parquet → gonderim_final/strong-moose_final_a30.parquet MD5: `f2fcf3070df8e0eba295078e3ad3d0a3`
+   ay ortalaması {1: 1081.300048828125, 2: 982.0, 6: 980.2000122070312, 7: 993.7000122070312} | Oca/Tem 344,841: − v330 RMS 58.9, ort +0.02, r 0.9959
+zincir bitti 21:30:37

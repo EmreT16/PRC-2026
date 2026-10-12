@@ -1,0 +1,19 @@
+başladı 04:23:31
+CV: k=1.0   171.37             131.72  211.38             202.28             194.69
+TabM test normal tamam 05:10:30
+normal düzeltici tamam 05:33:49
+normal: ara gonderim/strong-moose_v344.parquet → gonderim/strong-moose_v345.parquet MD5: `fcfb4505dae7694b7ce3b6ec17a910df`
+  − v343: değişen 343,078, RMS 9.16, ort -0.109, min 60
+  − v341: değişen 344,265, RMS 35.78, ort +0.113, min 60
+TabM test final tamam 06:01:12
+final düzeltici tamam 06:18:44
+final6: ara gonderim_final/strong-moose_final_a45.parquet → gonderim_final/strong-moose_final_a46.parquet MD5: `c2aa8426fa1f247aa811fc8bb6c76283`
+final8: ara gonderim_final/strong-moose_final_a47.parquet → gonderim_final/strong-moose_final_a48.parquet MD5: `470edde2882c31e5871a8d5298778f2d`
+  gonderim_final/strong-moose_final_a48.parquet − a44: RMS 8.21, ort +0.03
+           mean  <lambda_0>
+MVT_MONTH                  
+1         -0.24       10.51
+2         -0.13        7.41
+6          0.24        7.11
+7          0.16        7.66
+zincir bitti 06:19:02

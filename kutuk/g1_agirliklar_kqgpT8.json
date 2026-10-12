@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_T",
+  "gcb_T4",
+  "e1h3_T",
+  "lgbh3_T",
+  "dw_T5"
+ ],
+ "agirlik": [
+  0.1832,
+  0.1832,
+  0.2799,
+  0.0997,
+  0.254
+ ],
+ "not": "05.10: ağırlıklar 6 bölmede yeniden seçildi (scripts/harman_agirlik6.py): kqgpy ve kqgp OOF ile seçilenlerin ortalaması; iç içe CV kqgpy −0,17 (5/6), kqgp −0,05 (6/6). Test GCB 4 / DW 5 tohum."
+}

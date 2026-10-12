@@ -1,0 +1,23 @@
+== split_1: C123 (123 özellik) ↔ lgb_s42 (134)
+  ağırlıklı RMSE: taban 229.628 | aday 230.690 | Δ +1.062 sn [%95: +0.585 … +1.532]
+  ay  1: taban 204.456 | aday 205.948 (n=152,271)
+  ay  7: taban 247.796 | aday 248.584 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 17/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1: C1234_TEsiz (113 özellik) ↔ lgb_s42 (134)
+  ağırlıklı RMSE: taban 229.628 | aday 230.838 | Δ +1.210 sn [%95: +0.787 … +1.636]
+  ay  1: taban 204.456 | aday 206.115 (n=152,271)
+  ay  7: taban 247.796 | aday 248.721 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 16/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+[split_1] süre 1013 sn
+== split_2: C123 (123 özellik) ↔ lgb_s42 (134)
+  ağırlıklı RMSE: taban 221.512 | aday 222.855 | Δ +1.343 sn [%95: +0.753 … +2.053]
+  ay  2: taban 227.080 | aday 228.853 (n=142,622)
+  ay  8: taban 216.990 | aday 217.976 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 15/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: C1234_TEsiz (113 özellik) ↔ lgb_s42 (134)
+  ağırlıklı RMSE: taban 221.512 | aday 223.806 | Δ +2.294 sn [%95: +1.314 … +3.445]
+  ay  2: taban 227.080 | aday 230.907 (n=142,622)
+  ay  8: taban 216.990 | aday 218.003 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 13/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+[split_2] süre 1017 sn
+cikis: 0

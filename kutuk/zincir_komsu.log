@@ -1,0 +1,22 @@
+başladı 13:59:00; seçim: {"komsu_oz.parquet":["KOM_PP_2","KOM_PP_3","KOM_PP_5","KOM_PP_10","KOM_PS_2","KOM_PS_3","KOM_PS_5","KOM_PS_10","KOM_AP_5","KOM_AP_10","KOM_AS_5","KOM_AS_10"],"komsu_tah_oz.parquet":["KTAH_ORT","KTAH_FARK","KTAH_P_ORT","KTAH_P_FARK"]}
+islemci: 0 15:33:01
+ekran: 0 17:26:28
+Model A test tabanı, komşulu − eski: RMS 39.9 | ort -2.8
+MVT_MONTH    1    7
+ADEP_mvt           
+EDDF      -3.8 -1.9
+EDDM      -0.3  1.6
+EGLL      -4.3 -6.3
+EHAM      -1.4  0.7
+LEBL       0.5 -5.9
+LEMD      -3.4 -7.1
+LFPG      -0.3 -2.0
+LIRF       1.2 -6.0
+LSZH       3.6 -1.6
+LTFM      -7.7 -2.6
+- Dosya: `<repo>\gonderim\strong-moose_v202.parquet`
+- MD5: `d4edfd9f4de8e6eabdbdd57d2f6d4e4a`
+- Aday: `D_kqgpT_adsb_22a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+strong-moose_v202.parquet
+strong-moose_v201.parquet
+zincir bitti 17:39:41

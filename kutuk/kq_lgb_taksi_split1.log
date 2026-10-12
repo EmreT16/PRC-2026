@@ -1,0 +1,38 @@
+17:56:39
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDF: harman 178.9 (alt sınırsız) | 198 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EDDM: harman 167.3 (alt sınırsız) | 190 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EGLL: harman 235.4 (alt sınırsız) | 224 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  EHAM: harman 174.2 (alt sınırsız) | 222 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEBL: harman 220.9 (alt sınırsız) | 189 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LEMD: harman 170.3 (alt sınırsız) | 207 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LFPG: harman 246.0 (alt sınırsız) | 218 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LIRF: harman 642.5 (alt sınırsız) | 177 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LSZH: harman 186.3 (alt sınırsız) | 177 sn
+<repo>\src\aday.py:117: PerformanceWarning: DataFrame is highly fragmented.  This is usually the result of calling `frame.insert` many times, which has poor performance.  Consider joining all columns at once using pd.concat(axis=1) instead. To get a de-fragmented frame, use `newframe = frame.copy()`
+  X_tr, X_ap = X_tr.assign(NM_TAKSI=nm_tr), X_ap.assign(NM_TAKSI=nm_ap)
+  LTFM: harman 245.9 (alt sınırsız) | 231 sn
+== split_1: v_lgb_taksi_kq (144 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 268.939 | Δ +41.988 sn [%95: -0.575 … +111.045]
+  ay  1: taban 202.379 | aday 202.930 (n=152,271)
+  ay  7: taban 244.706 | aday 311.536 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 39/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+[split_1] süre 2050 sn
+cikis 0 18:30:53

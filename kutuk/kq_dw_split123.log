@@ -1,0 +1,59 @@
+[split_1] hazırlık 22 sn
+0:	learn: 365.4192697	test: 384.0344633	best: 384.0344633 (0)	total: 157ms	remaining: 20m 54s
+1000:	learn: 185.5177224	test: 217.1035270	best: 217.1035270 (1000)	total: 1m 13s	remaining: 8m 33s
+2000:	learn: 175.7135634	test: 214.7971510	best: 214.7971510 (2000)	total: 2m 25s	remaining: 7m 16s
+3000:	learn: 168.3515627	test: 213.7462977	best: 213.7444864 (2998)	total: 3m 36s	remaining: 6m
+4000:	learn: 161.8829302	test: 213.1789092	best: 213.1789092 (4000)	total: 4m 48s	remaining: 4m 48s
+5000:	learn: 155.9484572	test: 212.8018110	best: 212.8001807 (4995)	total: 6m 2s	remaining: 3m 37s
+6000:	learn: 150.5546506	test: 212.5232567	best: 212.5169718 (5980)	total: 7m 16s	remaining: 2m 25s
+7000:	learn: 145.4080187	test: 212.3619073	best: 212.3609537 (6996)	total: 8m 31s	remaining: 1m 13s
+bestTest = 212.2692688
+bestIteration = 7740
+Shrink model to first 7741 iterations.
+== split_1: dw_lr03_ek5_l2_10_kq ↔ A2_global_cb (en iyi iterasyon 7740, 624 sn)
+  ağırlıklı RMSE: taban 230.384 | aday 226.980 | Δ -3.404 sn [%95: -4.202 … -2.642]
+  ay  1: taban 206.753 | aday 202.964 (n=152,271)
+  ay  7: taban 247.542 | aday 244.371 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 55/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_1: dw_lr03_ek5_l2_10_kq ↔ GCB_depthwise (en iyi iterasyon 7740, 624 sn)
+  ağırlıklı RMSE: taban 230.402 | aday 226.980 | Δ -3.422 sn [%95: -3.911 … -2.963]
+  ay  1: taban 206.343 | aday 202.964 (n=152,271)
+  ay  7: taban 247.844 | aday 244.371 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 61/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_2] hazırlık 28 sn
+0:	learn: 375.2777077	test: 380.5425027	best: 380.5425027 (0)	total: 334ms	remaining: 44m 32s
+1000:	learn: 188.8031568	test: 210.3110480	best: 210.3110480 (1000)	total: 1m 22s	remaining: 9m 38s
+2000:	learn: 178.4141120	test: 207.8529983	best: 207.8529983 (2000)	total: 2m 35s	remaining: 7m 45s
+3000:	learn: 170.4637599	test: 206.7155286	best: 206.7155286 (3000)	total: 3m 46s	remaining: 6m 17s
+4000:	learn: 163.7087153	test: 206.1133355	best: 206.1133355 (4000)	total: 4m 59s	remaining: 4m 58s
+5000:	learn: 157.6362989	test: 205.7310691	best: 205.7310691 (5000)	total: 6m 11s	remaining: 3m 42s
+6000:	learn: 152.0676920	test: 205.4656224	best: 205.4642056 (5976)	total: 7m 26s	remaining: 2m 28s
+7000:	learn: 146.8037941	test: 205.3379991	best: 205.3353532 (6996)	total: 8m 40s	remaining: 1m 14s
+7999:	learn: 141.8228019	test: 205.2054437	best: 205.2030067 (7933)	total: 9m 57s	remaining: 0us
+bestTest = 205.2030067
+bestIteration = 7933
+Shrink model to first 7934 iterations.
+== split_2: dw_lr03_ek5_l2_10_kq ↔ A2_global_cb (en iyi iterasyon 7933, 642 sn)
+  ağırlıklı RMSE: taban 219.281 | aday 216.099 | Δ -3.183 sn [%95: -4.030 … -2.350]
+  ay  2: taban 221.876 | aday 219.654 (n=142,622)
+  ay  8: taban 217.199 | aday 213.235 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 53/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_2: dw_lr03_ek5_l2_10_kq ↔ GCB_depthwise (en iyi iterasyon 7933, 642 sn)
+  ağırlıklı RMSE: taban 219.037 | aday 216.099 | Δ -2.938 sn [%95: -3.437 … -2.431]
+  ay  2: taban 222.605 | aday 219.654 (n=142,622)
+  ay  8: taban 216.163 | aday 213.235 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 54/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_3] hazırlık 25 sn
+0:	learn: 375.3338286	test: 381.6248541	best: 381.6248541 (0)	total: 301ms	remaining: 40m 8s
+1000:	learn: 188.6739673	test: 212.6629652	best: 212.6629652 (1000)	total: 1m 24s	remaining: 9m 51s
+2000:	learn: 178.3909433	test: 210.3093044	best: 210.3093044 (2000)	total: 2m 36s	remaining: 7m 48s
+3000:	learn: 170.4692529	test: 209.2792172	best: 209.2792172 (3000)	total: 3m 48s	remaining: 6m 19s
+4000:	learn: 163.5569081	test: 208.6566013	best: 208.6566013 (4000)	total: 5m 4s	remaining: 5m 4s
+5000:	learn: 157.2923966	test: 208.2541086	best: 208.2531444 (4992)	total: 6m 22s	remaining: 3m 49s
+6000:	learn: 151.6711804	test: 208.0109729	best: 208.0103128 (5999)	total: 7m 41s	remaining: 2m 33s
+7000:	learn: 146.3633582	test: 207.8279354	best: 207.8278005 (6984)	total: 9m 3s	remaining: 1m 17s
+7999:	learn: 141.4384567	test: 207.7615696	best: 207.7608590 (7986)	total: 10m 25s	remaining: 0us
+bestTest = 207.760859
+bestIteration = 7986
+Shrink model to first 7987 iterations.
+cikis: 0

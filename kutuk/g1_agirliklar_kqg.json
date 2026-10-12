@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_kqg",
+  "gcb6k_ort2_kqg",
+  "e1h3_kqg",
+  "lgbh3_kqg",
+  "dw_kqg"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "30.09 akşam: D_dw ağırlıkları, kuyruk + gecikme endeksi özellikli bileşenlerle"
+}

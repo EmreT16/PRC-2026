@@ -1,0 +1,9 @@
+başladı 20:07:03 (düzeltici TabM: 1, planli: 1, taban TabM 5: 1, v 0,9: 1, B μ 5: 1, LIRF μ: 1, B5: lgb)
+test TabM tamam 20:07:04 (harman kqgpPeT2t5)
+düzeltici tamam (D_kqgpPeT2t5_adsb_42p9T) 20:07:10
+tum6M_adsb → _bN85L: 7692 satır
+tum6M_adsb_lirfte → _bN85L: 7692 satır
+B5 tamam (D_kqgpxg_17a_b5_iz5_nmsiz_d5_12ay_k125_opdi_bN85L) 20:13:51
+denetim tamam: 670,790 satır, ort 1013.3
+final aday: ara gonderim_final/strong-moose_final_a76.parquet → gonderim_final/strong-moose_final_a79.parquet MD5: `5192dc4098c66bc2127f5be84e1646b6`
+zincir bitti 20:14:07

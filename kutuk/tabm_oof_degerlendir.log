@@ -1,0 +1,310 @@
+
+=== split_1: 339,046 satır | korelasyon (ofset) harman ↔ tabm_kqgp 0.9800
+--- düzeltici öncesi (izsiz 108,222 / izli 230,824 satır)
+       toplam      ay1      ay7    izsiz     izli
+w                                                
+0.00  214.753  193.849  230.396  229.414  207.522
+0.05  214.376  193.551  229.963  228.902  207.215
+0.10  214.053  193.294  229.593  228.445  206.962
+0.15  213.787  193.080  229.289  228.044  206.764
+0.20  213.575  192.907  229.050  227.698  206.622
+0.25  213.419  192.775  228.876  227.407  206.535
+0.30  213.319  192.685  228.768  227.173  206.504
+0.40  213.283  192.631  228.745  226.874  206.604
+0.50  213.470  192.744  228.983  226.802  206.923
+1.00  217.640  195.750  233.976  229.714  211.743
+çapraz: ay1'da seçilen w = 0.4 → ay7: 230.396 → 228.745 (-1.651) | ay7'da seçilen w = 0.4 → ay1: 193.849 → 192.631 (-1.218)
+--- düzeltici sonrası (izsiz 108,222 / izli 230,824 satır)
+       toplam      ay1      ay7    izsiz     izli
+w                                                
+0.00  195.952  172.528  213.152  229.414  178.112
+0.05  195.643  172.277  212.801  228.902  177.921
+0.10  195.392  172.074  212.518  228.445  177.792
+0.15  195.203  171.917  212.305  228.044  177.728
+0.20  195.075  171.808  212.164  227.698  177.729
+0.25  195.007  171.744  212.093  227.407  177.795
+0.30  195.000  171.728  212.092  227.173  177.925
+0.40  195.172  171.838  212.305  226.874  178.379
+0.50  195.587  172.138  212.801  226.802  179.088
+1.00  201.167  176.366  219.320  229.714  186.282
+çapraz: ay1'da seçilen w = 0.3 → ay7: 213.152 → 212.092 (-1.060) | ay7'da seçilen w = 0.3 → ay1: 172.528 → 171.728 (-0.800)
+--- havalimanı başına, düzeltici sonrası, w = 0,2
+       taban     w02      n  fark
+apt                              
+EDDF  124.55  123.93  36231 -0.62
+EDDM  111.69  111.95  26854  0.26
+EGLL  209.38  209.13  39744 -0.25
+EHAM   99.98  100.44  40141  0.46
+LEBL  184.42  184.42  28490 -0.00
+LEMD  161.66  161.33  35019 -0.32
+LFPG  234.57  233.05  38732 -1.53
+LIRF  360.24  358.06  26131 -2.18
+LSZH  100.93  101.16  21822  0.23
+LTFM  226.26  224.30  45882 -1.96
+
+=== split_2: 331,474 satır | korelasyon (ofset) harman ↔ tabm_kqgp 0.9830
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici öncesi (izsiz 331,474 / izli 0 satır)
+       toplam      ay2      ay8    izsiz  izli
+w                                             
+0.00  206.130  207.809  204.853  206.130   NaN
+0.05  205.681  207.151  204.564  205.681   NaN
+0.10  205.271  206.535  204.311  205.271   NaN
+0.15  204.900  205.961  204.095  204.900   NaN
+0.20  204.570  205.430  203.917  204.570   NaN
+0.25  204.279  204.943  203.777  204.279   NaN
+0.30  204.029  204.499  203.674  204.029   NaN
+0.40  203.651  203.743  203.582  203.651   NaN
+0.50  203.435  203.164  203.640  203.435   NaN
+1.00  204.798  202.962  206.175  204.798   NaN
+çapraz: ay2'da seçilen w = 0.5 → ay8: 204.853 → 203.640 (-1.214) | ay8'da seçilen w = 0.4 → ay2: 207.809 → 203.743 (-4.066)
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici sonrası (izsiz 331,474 / izli 0 satır)
+       toplam      ay2      ay8    izsiz  izli
+w                                             
+0.00  206.130  207.809  204.853  206.130   NaN
+0.05  205.681  207.151  204.564  205.681   NaN
+0.10  205.271  206.535  204.311  205.271   NaN
+0.15  204.900  205.961  204.095  204.900   NaN
+0.20  204.570  205.430  203.917  204.570   NaN
+0.25  204.279  204.943  203.777  204.279   NaN
+0.30  204.029  204.499  203.674  204.029   NaN
+0.40  203.651  203.743  203.582  203.651   NaN
+0.50  203.435  203.164  203.640  203.435   NaN
+1.00  204.798  202.962  206.175  204.798   NaN
+çapraz: ay2'da seçilen w = 0.5 → ay8: 204.853 → 203.640 (-1.214) | ay8'da seçilen w = 0.4 → ay2: 207.809 → 203.743 (-4.066)
+--- havalimanı başına, düzeltici sonrası, w = 0,2
+       taban     w02      n  fark
+apt                              
+EDDF  146.19  145.67  36300 -0.53
+EDDM  143.19  142.85  25780 -0.34
+EGLL  193.66  193.15  38634 -0.50
+EHAM  144.81  144.03  39855 -0.78
+LEBL  197.28  196.73  28494 -0.54
+LEMD  158.27  157.81  33787 -0.46
+LFPG  205.61  205.33  38361 -0.28
+LIRF  336.10  334.49  25907 -1.61
+LSZH  150.31  149.95  21271 -0.36
+LTFM  285.47  279.63  43085 -5.84
+
+=== split_3: 344,668 satır | korelasyon (ofset) harman ↔ tabm_kqgp 0.9826
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici öncesi (izsiz 344,668 / izli 0 satır)
+       toplam      ay6     ay12    izsiz  izli
+w                                             
+0.00  196.799  204.065  188.473  196.799   NaN
+0.05  196.649  203.898  188.342  196.649   NaN
+0.10  196.544  203.763  188.273  196.544   NaN
+0.15  196.484  203.660  188.265  196.484   NaN
+0.20  196.471  203.589  188.320  196.471   NaN
+0.25  196.503  203.551  188.436  196.503   NaN
+0.30  196.579  203.545  188.611  196.579   NaN
+0.40  196.867  203.631  189.139  196.867   NaN
+0.50  197.334  203.848  189.903  197.334   NaN
+1.00  202.296  206.855  197.153  202.296   NaN
+çapraz: ay6'da seçilen w = 0.3 → ay12: 188.473 → 188.611 (+0.138) | ay12'da seçilen w = 0.15 → ay6: 204.065 → 203.660 (-0.405)
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici sonrası (izsiz 344,668 / izli 0 satır)
+       toplam      ay6     ay12    izsiz  izli
+w                                             
+0.00  196.799  204.065  188.473  196.799   NaN
+0.05  196.649  203.898  188.342  196.649   NaN
+0.10  196.544  203.763  188.273  196.544   NaN
+0.15  196.484  203.660  188.265  196.484   NaN
+0.20  196.471  203.589  188.320  196.471   NaN
+0.25  196.503  203.551  188.436  196.503   NaN
+0.30  196.579  203.545  188.611  196.579   NaN
+0.40  196.867  203.631  189.139  196.867   NaN
+0.50  197.334  203.848  189.903  197.334   NaN
+1.00  202.296  206.855  197.153  202.296   NaN
+çapraz: ay6'da seçilen w = 0.3 → ay12: 188.473 → 188.611 (+0.138) | ay12'da seçilen w = 0.15 → ay6: 204.065 → 203.660 (-0.405)
+--- havalimanı başına, düzeltici sonrası, w = 0,2
+       taban     w02      n  fark
+apt                              
+EDDF  155.68  155.34  37645 -0.35
+EDDM  168.09  167.96  27407 -0.13
+EGLL  210.33  209.92  39809 -0.41
+EHAM  144.99  144.88  39985 -0.12
+LEBL  173.95  173.46  29848 -0.49
+LEMD  161.85  161.57  35814 -0.28
+LFPG  214.39  214.88  39898  0.48
+LIRF  343.98  343.37  26491 -0.61
+LSZH  154.52  154.47  22296 -0.05
+LTFM  194.39  193.29  45475 -1.11
+
+=== split_4: 324,343 satır | korelasyon (ofset) harman ↔ tabm_kqgp 0.9861
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici öncesi (izsiz 324,343 / izli 0 satır)
+       toplam      ay3     ay11    izsiz  izli
+w                                             
+0.00  182.231  181.525  182.945  182.231   NaN
+0.05  181.990  181.225  182.763  181.990   NaN
+0.10  181.781  180.954  182.616  181.781   NaN
+0.15  181.603  180.712  182.502  181.603   NaN
+0.20  181.457  180.500  182.424  181.457   NaN
+0.25  181.344  180.318  182.379  181.344   NaN
+0.30  181.262  180.165  182.369  181.262   NaN
+0.40  181.196  179.949  182.453  181.196   NaN
+0.50  181.259  179.853  182.675  181.259   NaN
+1.00  183.474  181.159  185.795  183.474   NaN
+çapraz: ay3'da seçilen w = 0.5 → ay11: 182.945 → 182.675 (-0.271) | ay11'da seçilen w = 0.3 → ay3: 181.525 → 180.165 (-1.360)
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici sonrası (izsiz 324,343 / izli 0 satır)
+       toplam      ay3     ay11    izsiz  izli
+w                                             
+0.00  182.231  181.525  182.945  182.231   NaN
+0.05  181.990  181.225  182.763  181.990   NaN
+0.10  181.781  180.954  182.616  181.781   NaN
+0.15  181.603  180.712  182.502  181.603   NaN
+0.20  181.457  180.500  182.424  181.457   NaN
+0.25  181.344  180.318  182.379  181.344   NaN
+0.30  181.262  180.165  182.369  181.262   NaN
+0.40  181.196  179.949  182.453  181.196   NaN
+0.50  181.259  179.853  182.675  181.259   NaN
+1.00  183.474  181.159  185.795  183.474   NaN
+çapraz: ay3'da seçilen w = 0.5 → ay11: 182.945 → 182.675 (-0.271) | ay11'da seçilen w = 0.3 → ay3: 181.525 → 180.165 (-1.360)
+--- havalimanı başına, düzeltici sonrası, w = 0,2
+       taban     w02      n  fark
+apt                              
+EDDF  152.03  151.97  35582 -0.06
+EDDM  137.73  137.57  25009 -0.16
+EGLL  197.02  196.48  38529 -0.54
+EHAM  145.97  145.44  38964 -0.53
+LEBL  146.15  146.02  27345 -0.13
+LEMD  165.33  165.08  34883 -0.26
+LFPG  220.25  218.01  37509 -2.25
+LIRF  275.61  274.37  23761 -1.24
+LSZH  143.48  143.65  20278  0.16
+LTFM  192.15  190.99  42483 -1.17
+
+=== split_5: 357,964 satır | korelasyon (ofset) harman ↔ tabm_kqgp 0.9875
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici öncesi (izsiz 357,964 / izli 0 satır)
+       toplam      ay4     ay10    izsiz  izli
+w                                             
+0.00  187.989  178.437  196.617  187.989   NaN
+0.05  187.725  178.174  196.350  187.725   NaN
+0.10  187.491  177.939  196.116  187.491   NaN
+0.15  187.288  177.732  195.917  187.288   NaN
+0.20  187.117  177.553  195.752  187.117   NaN
+0.25  186.978  177.402  195.623  186.978   NaN
+0.30  186.870  177.279  195.528  186.870   NaN
+0.40  186.749  177.117  195.442  186.749   NaN
+0.50  186.755  177.068  195.494  186.755   NaN
+1.00  188.666  178.512  197.811  188.666   NaN
+çapraz: ay4'da seçilen w = 0.5 → ay10: 196.617 → 195.494 (-1.122) | ay10'da seçilen w = 0.4 → ay4: 178.437 → 177.117 (-1.320)
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici sonrası (izsiz 357,964 / izli 0 satır)
+       toplam      ay4     ay10    izsiz  izli
+w                                             
+0.00  187.989  178.437  196.617  187.989   NaN
+0.05  187.725  178.174  196.350  187.725   NaN
+0.10  187.491  177.939  196.116  187.491   NaN
+0.15  187.288  177.732  195.917  187.288   NaN
+0.20  187.117  177.553  195.752  187.117   NaN
+0.25  186.978  177.402  195.623  186.978   NaN
+0.30  186.870  177.279  195.528  186.870   NaN
+0.40  186.749  177.117  195.442  186.749   NaN
+0.50  186.755  177.068  195.494  186.755   NaN
+1.00  188.666  178.512  197.811  188.666   NaN
+çapraz: ay4'da seçilen w = 0.5 → ay10: 196.617 → 195.494 (-1.122) | ay10'da seçilen w = 0.4 → ay4: 178.437 → 177.117 (-1.320)
+--- havalimanı başına, düzeltici sonrası, w = 0,2
+       taban     w02      n  fark
+apt                              
+EDDF  147.85  146.61  40623 -1.24
+EDDM  131.92  130.75  29694 -1.17
+EGLL  190.18  189.73  40759 -0.44
+EHAM  145.94  145.34  42104 -0.60
+LEBL  170.96  170.28  31394 -0.69
+LEMD  167.24  166.69  36100 -0.55
+LFPG  197.83  197.54  40343 -0.29
+LIRF  323.38  322.17  27985 -1.20
+LSZH  144.59  144.22  23175 -0.37
+LTFM  206.77  204.85  45787 -1.92
+
+=== split_6: 365,082 satır | korelasyon (ofset) harman ↔ tabm_kqgp 0.9864
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici öncesi (izsiz 365,082 / izli 0 satır)
+       toplam      ay5      ay9    izsiz  izli
+w                                             
+0.00  191.117  184.102  197.961  191.117   NaN
+0.05  190.897  183.878  197.744  190.897   NaN
+0.10  190.714  183.687  197.568  190.714   NaN
+0.15  190.567  183.531  197.431  190.567   NaN
+0.20  190.458  183.409  197.334  190.458   NaN
+0.25  190.386  183.321  197.277  190.386   NaN
+0.30  190.352  183.268  197.260  190.352   NaN
+0.40  190.395  183.265  197.347  190.395   NaN
+0.50  190.588  183.397  197.597  190.588   NaN
+1.00  193.753  186.069  201.228  193.753   NaN
+çapraz: ay5'da seçilen w = 0.4 → ay9: 197.961 → 197.347 (-0.614) | ay9'da seçilen w = 0.3 → ay5: 184.102 → 183.268 (-0.834)
+<python>\Lib\site-packages\numpy\_core\fromnumeric.py:3824: RuntimeWarning: Mean of empty slice
+  return _methods._mean(a, axis=axis, dtype=dtype,
+<python>\Lib\site-packages\numpy\_core\_methods.py:142: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+--- düzeltici sonrası (izsiz 365,082 / izli 0 satır)
+       toplam      ay5      ay9    izsiz  izli
+w                                             
+0.00  191.117  184.102  197.961  191.117   NaN
+0.05  190.897  183.878  197.744  190.897   NaN
+0.10  190.714  183.687  197.568  190.714   NaN
+0.15  190.567  183.531  197.431  190.567   NaN
+0.20  190.458  183.409  197.334  190.458   NaN
+0.25  190.386  183.321  197.277  190.386   NaN
+0.30  190.352  183.268  197.260  190.352   NaN
+0.40  190.395  183.265  197.347  190.395   NaN
+0.50  190.588  183.397  197.597  190.588   NaN
+1.00  193.753  186.069  201.228  193.753   NaN
+çapraz: ay5'da seçilen w = 0.4 → ay9: 197.961 → 197.347 (-0.614) | ay9'da seçilen w = 0.3 → ay5: 184.102 → 183.268 (-0.834)
+--- havalimanı başına, düzeltici sonrası, w = 0,2
+       taban     w02      n  fark
+apt                              
+EDDF  156.64  156.04  41804 -0.60
+EDDM  147.08  146.27  31580 -0.81
+EGLL  199.18  198.72  40657 -0.46
+EHAM  143.60  143.25  42818 -0.35
+LEBL  192.26  191.63  32272 -0.62
+LEMD  167.07  166.58  35692 -0.49
+LFPG  208.78  209.56  40936  0.79
+LIRF  310.84  309.19  28941 -1.64
+LSZH  149.35  149.15  23774 -0.21
+LTFM  198.16  196.34  46608 -1.83
+
+=== 6 bölme birlikte (2,062,577 satır), düzeltici sonrası; ay başına RMSE farkı (w − taban)
+taban toplam RMSE 193.475
+        ay1    ay2    ay3    ay4    ay5    ay6    ay7    ay8    ay9   ay10   ay11   ay12  toplam  iyi_ay
+0.05 -0.251 -0.658 -0.300 -0.263 -0.225 -0.167 -0.351 -0.290 -0.217 -0.267 -0.182 -0.131  -0.273    12.0
+0.10 -0.455 -1.275 -0.571 -0.497 -0.415 -0.302 -0.634 -0.543 -0.393 -0.501 -0.330 -0.200  -0.505    12.0
+0.15 -0.611 -1.848 -0.813 -0.705 -0.571 -0.405 -0.847 -0.758 -0.530 -0.700 -0.443 -0.208  -0.696    12.0
+0.20 -0.720 -2.379 -1.025 -0.884 -0.693 -0.476 -0.988 -0.936 -0.627 -0.865 -0.522 -0.153  -0.846    12.0
+0.25 -0.784 -2.866 -1.207 -1.035 -0.781 -0.514 -1.060 -1.076 -0.684 -0.994 -0.566 -0.037  -0.954    12.0
+0.30 -0.800 -3.310 -1.360 -1.158 -0.834 -0.520 -1.060 -1.179 -0.701 -1.089 -0.576  0.138  -1.021    11.0
+0.40 -0.690 -4.066 -1.576 -1.320 -0.838 -0.434 -0.847 -1.272 -0.614 -1.175 -0.492  0.666  -1.030    11.0
+0.50 -0.390 -4.645 -1.672 -1.369 -0.705 -0.217 -0.352 -1.214 -0.364 -1.122 -0.271  1.430  -0.873    11.0

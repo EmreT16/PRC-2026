@@ -1,0 +1,14 @@
+ekoz_secim: ['komsu_oz.parquet', 'komsu_tah_oz.parquet', 'komsu2_oz.parquet', 'yanki_te_oz.parquet', 'gunluk_oz.parquet', 'pist_oz.parquet']
+başladı 09:13:59
+islemci: 0 10:41:04
+ekran: 0 12:18:09
+TEST_v_lgb_huber1000_6t_pist_kqgpy korelasyon 0.99838
+TEST_v_e1_huber1000_6t_pist_kqgpy korelasyon 0.99863
+- Dosya: `<repo>\gonderim\strong-moose_v219.parquet`
+- MD5: `894424105aab0f80aed199263910fed7`
+- Aday: `D_kqgpP_adsb_35a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+
+- Dosya: `<repo>\gonderim\strong-moose_v220.parquet`
+- MD5: `e1f47fbbde2fd4d51d9bc4cf65af830f`
+- Kaynak: `gonderim/strong-moose_v219.parquet` (MD5 894424105aab0f80aed199263910fed7) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+zincir bitti 12:30:56

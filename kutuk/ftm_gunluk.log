@@ -1,0 +1,31 @@
+satır 670,790 | gün toplamı bulunan 1.0000 | havalimanı-günü 1,207 | düzeltilen B havalimanları -
+gün sapması (T − ΣE[c]) / T: medyan -0.0085 | |sapma| > %10 gün payı 0.026
+           size  mean   rms   maks
+apt  tur                          
+EDDF A    69905   2.5   8.0   58.4
+     B      766   0.0   0.0    0.0
+EDDM A    50423   3.1   5.1   59.7
+     B      449   0.0   0.0    0.0
+EGLL A    76750   6.8  10.4   47.9
+     B      471   0.0   0.0    0.0
+EHAM A    73971   0.8   8.7  300.0
+     B     1894   0.0   0.0    0.0
+LEBL A    58555   5.4  12.9  190.5
+     B      759   0.0   0.0    0.0
+LEMD A    72042   3.1   7.8   21.5
+     B      438   0.0   0.0    0.0
+LFPG A    76215  11.4  16.5   48.9
+     B     1305   0.0   0.0    0.0
+LIRF A    51527   0.0   0.0    0.0
+     B      619   0.0   0.0    0.0
+LSZH A    43861   1.8   4.5   73.7
+     B     1047   0.0   0.0    0.0
+LTFM A    88464  16.2  30.1  300.0
+     B     1329   0.0   0.0    0.0
+LEMD / LEBL 3.604 sn üst sınırı: 6 satır
+değişen satır 604,024 | RMS 14.24 | ort +5.71 | maks |fark| 311 | LOBT kırpılan 5
+# Gönderim denetimi — strong-moose_final_a79
+
+- Dosya: `<repo>\gonderim_final\strong-moose_final_a79.parquet`
+- MD5: `5192dc4098c66bc2127f5be84e1646b6`
+- Kaynak: `gonderim_final/strong-moose_final_a78.parquet` (MD5 1030ff4d3d1aefab73a75c1feb1a1f62) + günlük kalkış öncesi gecikme kısıtı (scripts/g_gunluk.py; düzeltilen B havalimanları: yok; hariç: LIRF) + LOBT penceresi

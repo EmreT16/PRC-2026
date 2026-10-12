@@ -1,0 +1,13 @@
+[split_1] F3 NaN: eğitim {'F3_PLAN_SURE': 0.0, 'F3_ARVT_SAPMA': 0.0, 'F3_PLAN_TAKSI': 0.0} | doğrulama {'F3_PLAN_SURE': 0.0, 'F3_ARVT_SAPMA': 0.0, 'F3_PLAN_TAKSI': 0.0}
+== split_1: F3 (137 özellik) ↔ lgb_s42 (134)
+  ağırlıklı RMSE: taban 229.628 | aday 229.442 | Δ -0.186 sn [%95: -0.565 … +0.185]
+  ay  1: taban 204.456 | aday 203.345 (n=152,271)
+  ay  7: taban 247.796 | aday 248.213 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 38/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+[split_2] F3 NaN: eğitim {'F3_PLAN_SURE': 0.0, 'F3_ARVT_SAPMA': 0.0, 'F3_PLAN_TAKSI': 0.0} | doğrulama {'F3_PLAN_SURE': 0.0, 'F3_ARVT_SAPMA': 0.0, 'F3_PLAN_TAKSI': 0.0}
+== split_2: F3 (137 özellik) ↔ lgb_s42 (134)
+  ağırlıklı RMSE: taban 221.512 | aday 221.780 | Δ +0.268 sn [%95: -0.164 … +0.720]
+  ay  2: taban 227.080 | aday 227.376 (n=142,622)
+  ay  8: taban 216.990 | aday 217.235 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 26/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+cikis: 0

@@ -1,0 +1,16 @@
+durum ['park', 'ktah', 'kom', 'gs', 'pc', 'yte']: +42 sütun (atılan ['PC_KUYRUK_W', 'PC_AGIR_N']); test B boş oranı en çok 0.318
+eğitim 2,085,047 satır (B 22,470) | test B 9,077, LIRF dışı 9,077 | 19 sn
+LIRF dışı test B: ort. tahmin 1514.1 (v126 1493.6) | RMS fark 669.4 | 3.500 tavanında 431 (v126 351) | süre 4597 sn
+           taksi    v126
+ADEP_mvt                
+EDDF      1200.8  1029.3
+EDDM      1291.5  1182.4
+EGLL      1596.9  1622.3
+EHAM      1146.6  1150.9
+LEBL      1099.1  1082.7
+LEMD      1189.8  1132.2
+LFPG      1164.2  1247.4
+LIRF      6622.6  6473.1
+LSZH       862.0   839.1
+LTFM      1085.8  1100.6
+cikis: 0

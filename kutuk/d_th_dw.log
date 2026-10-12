@@ -1,0 +1,41 @@
+0:	learn: 375.2754220	total: 565ms	remaining: 1h 24m 47s
+500:	learn: 184.6777933	total: 1m 15s	remaining: 21m 19s
+1000:	learn: 178.4168634	total: 2m 24s	remaining: 19m 15s
+1500:	learn: 173.9525139	total: 3m 29s	remaining: 17m 26s
+2000:	learn: 170.2790437	total: 4m 33s	remaining: 15m 57s
+2500:	learn: 167.0143806	total: 5m 37s	remaining: 14m 36s
+3000:	learn: 164.0008005	total: 6m 41s	remaining: 13m 23s
+3500:	learn: 161.1365465	total: 7m 45s	remaining: 12m 11s
+4000:	learn: 158.4534964	total: 8m 49s	remaining: 11m 1s
+4500:	learn: 155.9492229	total: 9m 53s	remaining: 9m 53s
+5000:	learn: 153.3943826	total: 10m 58s	remaining: 8m 46s
+5500:	learn: 150.9528580	total: 12m 3s	remaining: 7m 39s
+6000:	learn: 148.5759857	total: 13m 9s	remaining: 6m 34s
+6500:	learn: 146.3127100	total: 14m 10s	remaining: 5m 26s
+7000:	learn: 144.1235127	total: 15m 7s	remaining: 4m 19s
+7500:	learn: 141.9941413	total: 16m 2s	remaining: 3m 12s
+8000:	learn: 139.9354384	total: 16m 59s	remaining: 2m 7s
+8500:	learn: 137.8814601	total: 17m 57s	remaining: 1m 3s
+8999:	learn: 135.9103887	total: 18m 54s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_dw_lr03_ek5_l2_10_kqgpy_t123.parquet | ort. ofset 11.2 | süre 1408 sn
+0:	learn: 375.2993634	total: 322ms	remaining: 48m 15s
+500:	learn: 184.9724270	total: 1m 13s	remaining: 20m 40s
+1000:	learn: 178.7973738	total: 2m 11s	remaining: 17m 30s
+1500:	learn: 174.4161722	total: 3m 7s	remaining: 15m 36s
+2000:	learn: 170.7376605	total: 4m	remaining: 14m 2s
+2500:	learn: 167.3814731	total: 4m 54s	remaining: 12m 44s
+3000:	learn: 164.3016590	total: 5m 44s	remaining: 11m 29s
+3500:	learn: 161.4518459	total: 6m 36s	remaining: 10m 22s
+4000:	learn: 158.7475158	total: 7m 27s	remaining: 9m 19s
+4500:	learn: 156.1425520	total: 8m 20s	remaining: 8m 19s
+5000:	learn: 153.6350864	total: 9m 14s	remaining: 7m 23s
+5500:	learn: 151.2155943	total: 10m 7s	remaining: 6m 26s
+6000:	learn: 148.9100862	total: 11m	remaining: 5m 30s
+6500:	learn: 146.6147942	total: 11m 55s	remaining: 4m 34s
+7000:	learn: 144.4192502	total: 12m 50s	remaining: 3m 39s
+7500:	learn: 142.2517909	total: 13m 46s	remaining: 2m 45s
+8000:	learn: 140.1893986	total: 14m 41s	remaining: 1m 50s
+8500:	learn: 138.1493608	total: 15m 37s	remaining: 55s
+8999:	learn: 136.0990575	total: 16m 34s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_dw_lr03_ek5_l2_10_kqgpy_t999.parquet | ort. ofset 11.4 | süre 2462 sn
+cikis: 0

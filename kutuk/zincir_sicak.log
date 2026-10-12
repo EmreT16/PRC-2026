@@ -1,0 +1,22 @@
+başladı 07:17:44; seçim: {"kar_oz.parquet":["SIC_0","SIC_MIN12","SPREAD_0"]}
+islemci: 0 08:45:28
+ekran: 0 10:36:43
+Model A test tabanı, sıcaklıklı − eski: RMS 11.9 | ort 0.3
+MVT_MONTH    1    7
+ADEP_mvt           
+EDDF      -0.3 -0.4
+EDDM       0.9  0.2
+EGLL      -0.5 -0.4
+EHAM      -0.4 -0.3
+LEBL       0.1  1.1
+LEMD       0.5  1.3
+LFPG       1.0 -0.1
+LIRF      -0.5  2.8
+LSZH      -0.1  1.1
+LTFM       0.4 -0.1
+- Dosya: `<repo>\gonderim\strong-moose_v201.parquet`
+- MD5: `d2f58b9853a4fa3ed5dc9093b2cbb606`
+- Aday: `D_kqgpT_adsb_21a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+strong-moose_v201.parquet
+strong-moose_v200.parquet
+zincir bitti 10:49:07

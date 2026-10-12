@@ -1,0 +1,5 @@
+eşleşen (LIRF / LTFM) 200; gerçek pencerede 0.000; tahmin yasak aralıkta 73
+havalimanı: {'LIRF': {'n': 119, 'ic': 54, 'sse': -408.4}, 'LTFM': {'n': 81, 'ic': 19, 'sse': -55.0}}
+çeyrek SSE farkı (M): {'Q1': np.float64(-50.2), 'Q2': np.float64(-467.6), 'Q3': np.float64(92.4), 'Q4': np.float64(-38.0)}
+toplam -463.4 M, iyileşen 66, kötüleşen 7, iyi çeyrek 3/4 → KABUL
+test ölçeğinde (12 ay → 2 ay) ≈ -224.0 sn² MSE

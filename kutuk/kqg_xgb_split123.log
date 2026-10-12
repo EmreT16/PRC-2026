@@ -1,0 +1,49 @@
+  EDDF: harman 185.2 (alt sınırsız) | 21 sn
+  EDDM: harman 165.6 (alt sınırsız) | 16 sn
+  EGLL: harman 242.3 (alt sınırsız) | 19 sn
+  EHAM: harman 168.9 (alt sınırsız) | 20 sn
+  LEBL: harman 223.6 (alt sınırsız) | 17 sn
+  LEMD: harman 176.4 (alt sınırsız) | 17 sn
+  LFPG: harman 250.6 (alt sınırsız) | 18 sn
+  LIRF: harman 388.6 (alt sınırsız) | 15 sn
+  LSZH: harman 192.5 (alt sınırsız) | 14 sn
+  LTFM: harman 245.0 (alt sınırsız) | 21 sn
+== split_1: v_xgb_kqg (149 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 227.411 | Δ +0.460 sn [%95: -1.634 … +2.343]
+  ay  1: taban 202.379 | aday 202.978 (n=152,271)
+  ay  7: taban 244.706 | aday 245.079 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 33/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+[split_1] süre 214 sn
+  EDDF: harman 152.8 (alt sınırsız) | 19 sn
+  EDDM: harman 152.4 (alt sınırsız) | 16 sn
+  EGLL: harman 201.9 (alt sınırsız) | 19 sn
+  EHAM: harman 148.3 (alt sınırsız) | 20 sn
+  LEBL: harman 203.2 (alt sınırsız) | 17 sn
+  LEMD: harman 161.9 (alt sınırsız) | 19 sn
+  LFPG: harman 214.4 (alt sınırsız) | 20 sn
+  LIRF: harman 351.0 (alt sınırsız) | 16 sn
+  LSZH: harman 156.7 (alt sınırsız) | 13 sn
+  LTFM: harman 301.4 (alt sınırsız) | 21 sn
+== split_2: v_xgb_kqg (149 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 214.914 | Δ -4.270 sn [%95: -7.319 … -1.745]
+  ay  2: taban 223.852 | aday 215.764 (n=142,622)
+  ay  8: taban 215.406 | aday 214.237 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 44/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_2] süre 211 sn
+  EDDF: harman 167.8 (alt sınırsız) | 19 sn
+  EDDM: harman 175.8 (alt sınırsız) | 16 sn
+  EGLL: harman 217.9 (alt sınırsız) | 19 sn
+  EHAM: harman 150.7 (alt sınırsız) | 19 sn
+  LEBL: harman 181.0 (alt sınırsız) | 18 sn
+  LEMD: harman 168.7 (alt sınırsız) | 20 sn
+  LFPG: harman 229.3 (alt sınırsız) | 20 sn
+  LIRF: harman 357.8 (alt sınırsız) | 15 sn
+  LSZH: harman 160.4 (alt sınırsız) | 12 sn
+  LTFM: harman 210.2 (alt sınırsız) | 21 sn
+== split_3: v_xgb_kqg (149 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 208.159 | aday 206.813 | Δ -1.346 sn [%95: -2.446 … -0.178]
+  ay 12: taban 199.451 | aday 197.063 (n=164,028)
+  ay  6: taban 214.821 | aday 214.238 (n=180,640)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 43/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_3] süre 210 sn
+cikis: 0

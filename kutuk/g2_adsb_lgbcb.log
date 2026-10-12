@@ -1,0 +1,37 @@
+CV satırı 847,150 (RMSE 177.40); G2 satırı 88,344, SSE payı %25.2
+  ay  1 dışarıda: RMSE 172.37 → 171.73 (SSE %-0.74)
+  ay  3 dışarıda: RMSE 159.72 → 158.94 (SSE %-0.97)
+  ay  7 dışarıda: RMSE 212.97 → 212.41 (SSE %-0.52)
+  ay 10 dışarıda: RMSE 174.47 → 173.91 (SSE %-0.64)
+  ay 11 dışarıda: RMSE 155.72 → 155.64 (SSE %-0.10)
+  toplam ΔSSE %-0.593
+Traceback (most recent call last):
+  File "<repo>\scripts\gecikme_asama2.py", line 263, in <module>
+    main(sys.argv[1], opt.get("ha") == "1")
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<repo>\scripts\gecikme_asama2.py", line 246, in main
+    r[t.gec.to_numpy()] = tahmin(ms, t.loc[t.gec, F])
+                                     ~~~~~^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1200, in __getitem__
+    return self._getitem_tuple(key)
+           ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1386, in _getitem_tuple
+    return self._getitem_lowerdim(tup)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1093, in _getitem_lowerdim
+    section = self._getitem_axis(key, axis=i)
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1438, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1378, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis)
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexing.py", line 1576, in _get_listlike_indexer
+    keyarr, indexer = ax._get_indexer_strict(key, axis_name)
+                      ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexes\base.py", line 6302, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pandas\core\indexes\base.py", line 6355, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['ADSB_ESLESME'] not in index"

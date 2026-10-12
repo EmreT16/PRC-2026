@@ -1,0 +1,7 @@
+ağırlıklar {'cb': 0.0, 'lgb': 0.2, 'xgb': 0.186, 'global_cb': 0.395, 'karisim': 0.219} | ort. taksi 1031.4 | bileşen korelasyonları:
+             lgb    xgb  global_cb  karisim
+lgb        1.000  0.979      0.973    0.991
+xgb        0.979  1.000      0.972    0.974
+global_cb  0.973  0.972      1.000    0.971
+karisim    0.991  0.974      0.971    1.000
+cikis: 0

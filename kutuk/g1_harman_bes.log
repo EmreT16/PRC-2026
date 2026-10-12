@@ -1,0 +1,23 @@
+split_1'de seçilen ağırlıklar {'cb': 0.0, 'lgb': 0.286, 'xgb': 0.15, 'global_cb': 0.359, 'karisim': 0.205}
+== split_2'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 216.577 | Δ -2.606 sn [%95: -3.774 … -1.644]
+  ay  2: taban 223.852 | aday 220.157 (n=142,622)
+  ay  8: taban 215.406 | aday 213.692 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 54/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+split_2'de seçilen ağırlıklar {'cb': 0.0, 'lgb': 0.115, 'xgb': 0.222, 'global_cb': 0.431, 'karisim': 0.233}
+== split_1'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 225.714 | Δ -1.236 sn [%95: -1.805 … -0.704]
+  ay  1: taban 202.379 | aday 201.723 (n=152,271)
+  ay  7: taban 244.706 | aday 243.080 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 46/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+önerilen (iki seçimin ortalaması): {'cb': 0.0, 'lgb': 0.2, 'xgb': 0.186, 'global_cb': 0.395, 'karisim': 0.219}
+== split_1: ortalama ağırlıklar ↔ B1 harmanı (kısmen örneklem içi)
+  ağırlıklı RMSE: taban 226.951 | aday 225.556 | Δ -1.395 sn [%95: -1.911 … -0.910]
+  ay  1: taban 202.379 | aday 201.544 (n=152,271)
+  ay  7: taban 244.706 | aday 242.933 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 46/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+== split_2: ortalama ağırlıklar ↔ B1 harmanı (kısmen örneklem içi)
+  ağırlıklı RMSE: taban 219.184 | aday 216.441 | Δ -2.743 sn [%95: -4.127 … -1.650]
+  ay  2: taban 223.852 | aday 219.782 (n=142,622)
+  ay  8: taban 215.406 | aday 213.751 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 52/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL

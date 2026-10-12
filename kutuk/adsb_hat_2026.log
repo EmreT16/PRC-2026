@@ -1,0 +1,108 @@
+23:02:41
+2026-07-01: indirildi, 4.06 GB
+2026-07-01: iz 81,375 | tutulan uçak-havalimanı 4,252 | nokta 1,504,665 | havalimanı başına nokta {'EHAM': 413422, 'EGLL': 259524, 'EDDM': 179608, 'EDDF': 152079, 'LEBL': 151807, 'LEMD': 146887, 'LSZH': 94133, 'LFPG': 80898, 'LTFM': 15670, 'LIRF': 10637} | 93 sn
+2026-07-02: indirildi, 4.11 GB
+2026-07-02: iz 81,758 | tutulan uçak-havalimanı 4,308 | nokta 1,649,120 | havalimanı başına nokta {'EHAM': 457316, 'EGLL': 255812, 'EDDM': 205098, 'LEBL': 175648, 'LEMD': 169842, 'EDDF': 148994, 'LSZH': 114693, 'LFPG': 88614, 'LTFM': 23766, 'LIRF': 9337} | 77 sn
+2026-07-03: indirildi, 3.90 GB
+2026-07-03: iz 77,969 | tutulan uçak-havalimanı 4,334 | nokta 1,652,472 | havalimanı başına nokta {'EHAM': 461065, 'EGLL': 245362, 'EDDM': 199751, 'LEMD': 181798, 'LEBL': 180636, 'EDDF': 155880, 'LSZH': 113121, 'LFPG': 82176, 'LTFM': 22418, 'LIRF': 10265} | 68 sn
+2026-07-04: indirildi, 3.25 GB
+2026-07-04: iz 62,089 | tutulan uçak-havalimanı 4,032 | nokta 1,560,515 | havalimanı başına nokta {'EHAM': 427957, 'EGLL': 241164, 'LEBL': 212854, 'EDDM': 179003, 'EDDF': 151847, 'LEMD': 135452, 'LSZH': 103461, 'LFPG': 75579, 'LTFM': 25684, 'LIRF': 7514} | 57 sn
+2026-07-05: indirildi, 3.42 GB
+2026-07-05: iz 66,131 | tutulan uçak-havalimanı 4,257 | nokta 1,700,186 | havalimanı başına nokta {'EHAM': 467446, 'LEBL': 288881, 'EGLL': 240498, 'EDDM': 181635, 'LEMD': 160851, 'EDDF': 140617, 'LSZH': 99607, 'LFPG': 80765, 'LTFM': 27687, 'LIRF': 12199} | 60 sn
+2026-07-06: indirildi, 3.77 GB
+2026-07-06: iz 73,171 | tutulan uçak-havalimanı 4,367 | nokta 1,771,735 | havalimanı başına nokta {'EHAM': 452833, 'LEBL': 278173, 'EGLL': 247174, 'LEMD': 215456, 'EDDM': 196178, 'EDDF': 149119, 'LSZH': 108151, 'LFPG': 80869, 'LTFM': 23288, 'LIRF': 20494} | 70 sn
+2026-07-07: indirildi, 3.90 GB
+2026-07-07: iz 77,134 | tutulan uçak-havalimanı 4,276 | nokta 1,718,785 | havalimanı başına nokta {'EHAM': 456129, 'EGLL': 249868, 'LEBL': 238090, 'LEMD': 212472, 'EDDM': 193504, 'EDDF': 147853, 'LSZH': 98075, 'LFPG': 85987, 'LIRF': 21577, 'LTFM': 15230} | 84 sn
+2026-07-08: indirildi, 4.03 GB
+2026-07-08: iz 82,565 | tutulan uçak-havalimanı 4,421 | nokta 1,670,276 | havalimanı başına nokta {'EHAM': 417821, 'LEBL': 257235, 'EGLL': 239810, 'EDDM': 182432, 'LEMD': 168571, 'EDDF': 157825, 'LSZH': 111735, 'LFPG': 94728, 'LTFM': 22356, 'LIRF': 17763} | 69 sn
+2026-07-09: indirildi, 4.00 GB
+2026-07-09: iz 82,615 | tutulan uçak-havalimanı 4,440 | nokta 1,740,527 | havalimanı başına nokta {'EHAM': 405911, 'LEBL': 281265, 'EGLL': 276001, 'EDDM': 195776, 'LEMD': 178061, 'EDDF': 146196, 'LSZH': 108617, 'LFPG': 107730, 'LTFM': 22565, 'LIRF': 18405} | 72 sn
+2026-07-10: indirildi, 4.08 GB
+2026-07-10: iz 84,348 | tutulan uçak-havalimanı 4,461 | nokta 1,708,188 | havalimanı başına nokta {'EHAM': 402740, 'EGLL': 271004, 'LEBL': 244244, 'EDDM': 195796, 'LEMD': 188157, 'EDDF': 140461, 'LSZH': 112238, 'LFPG': 108253, 'LTFM': 25884, 'LIRF': 19411} | 63 sn
+curl: (18) end of response with 552965120 bytes missing
+2026-07-11: indirme hatası (Command '['curl', '-L', '--fail', '--retry', '8', '--retry-delay', '10', '-C', '-', '-sS', '-o', 'D:\\PRC_adsb\\ham\\2026-07-11\\v2026.07.11-planes-readsb-staging-0.tar.aa', 'https://github.com/adsblol/globe_history_2026/releases/download/v2026.07.11-planes-readsb-staging-0/v2026.07.11-planes-readsb-staging-0.tar.aa']' returned non-zero exit status 18.), deneme 1
+curl: (22) The requested URL returned error: 618
+2026-07-11: indirme hatası (Command '['curl', '-L', '--fail', '--retry', '8', '--retry-delay', '10', '-C', '-', '-sS', '-o', 'D:\\PRC_adsb\\ham\\2026-07-11\\v2026.07.11-planes-readsb-staging-0.tar.aa', 'https://github.com/adsblol/globe_history_2026/releases/download/v2026.07.11-planes-readsb-staging-0/v2026.07.11-planes-readsb-staging-0.tar.aa']' returned non-zero exit status 22.), deneme 2
+curl: (18) end of response with 500536320 bytes missing
+2026-07-11: indirme hatası (Command '['curl', '-L', '--fail', '--retry', '8', '--retry-delay', '10', '-C', '-', '-sS', '-o', 'D:\\PRC_adsb\\ham\\2026-07-11\\v2026.07.11-planes-readsb-staging-0.tar.aa', 'https://github.com/adsblol/globe_history_2026/releases/download/v2026.07.11-planes-readsb-staging-0/v2026.07.11-planes-readsb-staging-0.tar.aa']' returned non-zero exit status 18.), deneme 3
+2026-07-12: indirildi, 3.79 GB
+2026-07-12: iz 74,453 | tutulan uçak-havalimanı 4,135 | nokta 1,681,834 | havalimanı başına nokta {'EHAM': 410133, 'EGLL': 289926, 'LEMD': 222738, 'EDDM': 201753, 'LEBL': 171198, 'EDDF': 142938, 'LSZH': 105534, 'LFPG': 103614, 'LIRF': 19037, 'LTFM': 14963} | 97 sn
+2026-07-13: indirildi, 3.96 GB
+2026-07-13: iz 78,102 | tutulan uçak-havalimanı 4,353 | nokta 1,670,068 | havalimanı başına nokta {'EHAM': 437923, 'EGLL': 262964, 'EDDM': 204514, 'LEBL': 180937, 'LEMD': 166284, 'EDDF': 145099, 'LSZH': 113970, 'LFPG': 111481, 'LTFM': 24616, 'LIRF': 22280} | 77 sn
+2026-07-14: noktalar zaten var
+2026-07-15: indirildi, 4.11 GB
+2026-07-15: iz 82,932 | tutulan uçak-havalimanı 4,241 | nokta 1,661,989 | havalimanı başına nokta {'EHAM': 441647, 'EGLL': 254930, 'LEBL': 251221, 'EDDM': 205478, 'EDDF': 137634, 'LEMD': 113911, 'LFPG': 113788, 'LSZH': 105957, 'LIRF': 19386, 'LTFM': 18037} | 84 sn
+2026-07-16: indirildi, 4.10 GB
+2026-07-16: iz 81,195 | tutulan uçak-havalimanı 4,273 | nokta 1,563,243 | havalimanı başına nokta {'EHAM': 421553, 'EGLL': 245110, 'EDDM': 207322, 'LEBL': 164314, 'EDDF': 149861, 'LEMD': 124814, 'LFPG': 107157, 'LSZH': 106905, 'LIRF': 19802, 'LTFM': 16405} | 74 sn
+2026-07-17: indirildi, 4.04 GB
+2026-07-17: iz 80,577 | tutulan uçak-havalimanı 4,303 | nokta 1,650,091 | havalimanı başına nokta {'EHAM': 453448, 'EGLL': 298028, 'EDDM': 200147, 'LEMD': 184677, 'LEBL': 179607, 'EDDF': 108429, 'LSZH': 100992, 'LFPG': 89122, 'LIRF': 19060, 'LTFM': 16581} | 77 sn
+2026-07-18: indirildi, 3.64 GB
+2026-07-18: iz 72,884 | tutulan uçak-havalimanı 4,011 | nokta 1,543,515 | havalimanı başına nokta {'EHAM': 396580, 'EGLL': 274559, 'EDDM': 179425, 'LEBL': 161920, 'LEMD': 154127, 'EDDF': 141388, 'LSZH': 102604, 'LFPG': 88936, 'LIRF': 22353, 'LTFM': 21623} | 81 sn
+2026-07-19: indirildi, 3.69 GB
+2026-07-19: iz 71,115 | tutulan uçak-havalimanı 4,044 | nokta 1,631,764 | havalimanı başına nokta {'EHAM': 408675, 'EGLL': 294230, 'EDDM': 192647, 'LEMD': 185724, 'LEBL': 176409, 'EDDF': 130642, 'LSZH': 99979, 'LFPG': 98157, 'LIRF': 26995, 'LTFM': 18306} | 83 sn
+2026-07-20: indirildi, 4.02 GB
+2026-07-20: iz 78,765 | tutulan uçak-havalimanı 4,291 | nokta 1,636,337 | havalimanı başına nokta {'EHAM': 414248, 'EGLL': 243664, 'EDDM': 192178, 'LEBL': 185749, 'LEMD': 173951, 'EDDF': 153358, 'LSZH': 115042, 'LFPG': 114617, 'LIRF': 27826, 'LTFM': 15704} | 118 sn
+2026-07-21: indirildi, 3.87 GB
+2026-07-21: iz 76,895 | tutulan uçak-havalimanı 4,229 | nokta 1,623,550 | havalimanı başına nokta {'EHAM': 424245, 'EGLL': 249282, 'EDDM': 195892, 'LEBL': 173458, 'LEMD': 173030, 'EDDF': 145236, 'LFPG': 114561, 'LSZH': 101707, 'LIRF': 25360, 'LTFM': 20779} | 99 sn
+2026-07-22: indirildi, 4.03 GB
+2026-07-22: iz 81,207 | tutulan uçak-havalimanı 4,272 | nokta 1,619,408 | havalimanı başına nokta {'EHAM': 433544, 'EGLL': 233402, 'EDDM': 189404, 'LEBL': 179054, 'LEMD': 167274, 'EDDF': 155389, 'LSZH': 111045, 'LFPG': 101364, 'LIRF': 25832, 'LTFM': 23100} | 71 sn
+2026-07-23: indirildi, 4.28 GB
+2026-07-23: iz 87,825 | tutulan uçak-havalimanı 4,271 | nokta 1,569,972 | havalimanı başına nokta {'EHAM': 415306, 'EGLL': 237923, 'EDDM': 190745, 'LEMD': 185754, 'LEBL': 164461, 'EDDF': 152070, 'LSZH': 103313, 'LFPG': 72200, 'LIRF': 26278, 'LTFM': 21922} | 67 sn
+2026-07-24: indirildi, 4.20 GB
+2026-07-24: iz 87,972 | tutulan uçak-havalimanı 4,358 | nokta 1,573,630 | havalimanı başına nokta {'EHAM': 428567, 'EGLL': 243382, 'EDDM': 191893, 'LEBL': 157581, 'LEMD': 157469, 'EDDF': 154341, 'LSZH': 110616, 'LFPG': 74245, 'LIRF': 31675, 'LTFM': 23861} | 68 sn
+2026-07-25: indirildi, 3.77 GB
+2026-07-25: iz 77,407 | tutulan uçak-havalimanı 4,022 | nokta 1,551,269 | havalimanı başına nokta {'EHAM': 423491, 'EGLL': 286289, 'EDDM': 169607, 'LEMD': 169019, 'EDDF': 148684, 'LEBL': 147139, 'LSZH': 99485, 'LFPG': 59171, 'LTFM': 24882, 'LIRF': 23502} | 65 sn
+2026-07-26: indirildi, 3.73 GB
+2026-07-26: iz 73,091 | tutulan uçak-havalimanı 4,108 | nokta 1,598,979 | havalimanı başına nokta {'EHAM': 443657, 'EGLL': 301395, 'EDDM': 176671, 'LEMD': 173525, 'LEBL': 164652, 'EDDF': 141306, 'LSZH': 99600, 'LFPG': 59675, 'LIRF': 22613, 'LTFM': 15885} | 60 sn
+2026-07-27: indirildi, 3.86 GB
+2026-07-27: iz 76,819 | tutulan uçak-havalimanı 4,176 | nokta 1,551,242 | havalimanı başına nokta {'EHAM': 451905, 'EGLL': 249072, 'EDDM': 190147, 'LEBL': 165073, 'EDDF': 154768, 'LEMD': 142400, 'LSZH': 101067, 'LFPG': 62827, 'LIRF': 26864, 'LTFM': 7119} | 68 sn
+2026-07-28: indirildi, 3.86 GB
+2026-07-28: iz 79,203 | tutulan uçak-havalimanı 4,137 | nokta 1,541,253 | havalimanı başına nokta {'EHAM': 439566, 'EGLL': 235447, 'EDDM': 187691, 'LEBL': 166120, 'EDDF': 146814, 'LEMD': 143119, 'LSZH': 95624, 'LFPG': 76460, 'LIRF': 25914, 'LTFM': 24498} | 85 sn
+2026-07-29: indirildi, 4.07 GB
+2026-07-29: iz 84,967 | tutulan uçak-havalimanı 4,187 | nokta 1,585,259 | havalimanı başına nokta {'EHAM': 445312, 'EGLL': 253169, 'LEBL': 193734, 'EDDM': 193715, 'EDDF': 146163, 'LEMD': 125743, 'LSZH': 108662, 'LFPG': 68560, 'LTFM': 25635, 'LIRF': 24566} | 91 sn
+2026-07-30: indirildi, 4.19 GB
+2026-07-30: iz 86,820 | tutulan uçak-havalimanı 4,243 | nokta 1,626,550 | havalimanı başına nokta {'EHAM': 452533, 'EGLL': 256610, 'LEBL': 225907, 'EDDM': 194664, 'EDDF': 142307, 'LEMD': 140167, 'LSZH': 105500, 'LFPG': 58721, 'LIRF': 28696, 'LTFM': 21445} | 93 sn
+2026-07-31: indirildi, 4.18 GB
+2026-07-31: iz 87,419 | tutulan uçak-havalimanı 4,353 | nokta 1,573,429 | havalimanı başına nokta {'EHAM': 430353, 'EGLL': 255510, 'EDDM': 198899, 'LEBL': 169743, 'LEMD': 153355, 'EDDF': 145767, 'LSZH': 106157, 'LFPG': 59270, 'LIRF': 31840, 'LTFM': 22535} | 116 sn
+2026-06-30: indirildi, 3.98 GB
+2026-06-30: iz 79,119 | tutulan uçak-havalimanı 4,203 | nokta 1,545,389 | havalimanı başına nokta {'EHAM': 400755, 'EGLL': 258566, 'EDDM': 201610, 'LEMD': 179900, 'LEBL': 151727, 'EDDF': 133214, 'LFPG': 95419, 'LSZH': 95048, 'LTFM': 19563, 'LIRF': 9587} | 115 sn
+2026-01-01: indirildi, 2.39 GB
+2026-01-01: iz 42,456 | tutulan uçak-havalimanı 3,096 | nokta 1,237,684 | havalimanı başına nokta {'EHAM': 302792, 'LEMD': 203783, 'LEBL': 137814, 'EGLL': 122865, 'EDDM': 121585, 'LSZH': 107373, 'EDDF': 101023, 'LFPG': 70324, 'LIRF': 70125} | 36 sn
+2026-01-02: indirildi, 3.02 GB
+2026-01-02: iz 55,985 | tutulan uçak-havalimanı 3,542 | nokta 1,400,791 | havalimanı başına nokta {'EHAM': 307352, 'LEMD': 230308, 'EDDM': 175150, 'LEBL': 149900, 'EGLL': 136475, 'LSZH': 131173, 'EDDF': 117155, 'LIRF': 79354, 'LFPG': 73921, 'LTFM': 3} | 47 sn
+2026-01-03: indirildi, 3.03 GB
+2026-01-03: iz 56,597 | tutulan uçak-havalimanı 3,401 | nokta 1,417,753 | havalimanı başına nokta {'EHAM': 344550, 'LEMD': 206021, 'EDDM': 198743, 'EGLL': 156225, 'LSZH': 133524, 'LEBL': 129673, 'EDDF': 119814, 'LFPG': 66892, 'LIRF': 62311} | 39 sn
+2026-01-04: indirildi, 3.06 GB
+2026-01-04: iz 56,336 | tutulan uçak-havalimanı 3,450 | nokta 1,409,444 | havalimanı başına nokta {'EHAM': 352594, 'LEMD': 205472, 'EDDM': 161356, 'EGLL': 161114, 'LEBL': 145929, 'EDDF': 127644, 'LSZH': 123140, 'LFPG': 66869, 'LIRF': 65326} | 42 sn
+2026-01-05: indirildi, 3.08 GB
+2026-01-05: iz 58,857 | tutulan uçak-havalimanı 3,308 | nokta 1,388,430 | havalimanı başına nokta {'EHAM': 314314, 'LEMD': 222996, 'EDDM': 172852, 'EGLL': 166231, 'LEBL': 138302, 'EDDF': 124030, 'LSZH': 116251, 'LIRF': 69414, 'LFPG': 64040} | 43 sn
+2026-01-06: indirildi, 3.01 GB
+2026-01-06: iz 61,447 | tutulan uçak-havalimanı 3,197 | nokta 1,386,385 | havalimanı başına nokta {'EHAM': 354447, 'LEMD': 216611, 'EGLL': 166552, 'EDDM': 161085, 'LEBL': 127264, 'EDDF': 116447, 'LSZH': 107088, 'LFPG': 71316, 'LIRF': 65575} | 44 sn
+2026-01-07: noktalar zaten var
+2026-01-08: noktalar zaten var
+2026-01-09: noktalar zaten var
+2026-01-10: noktalar zaten var
+2026-01-11: noktalar zaten var
+2026-01-12: noktalar zaten var
+2026-01-13: noktalar zaten var
+2026-01-14: noktalar zaten var
+2026-01-15: noktalar zaten var
+2026-01-16: noktalar zaten var
+2026-01-17: noktalar zaten var
+2026-01-18: noktalar zaten var
+2026-01-19: noktalar zaten var
+2026-01-20: noktalar zaten var
+2026-01-21: noktalar zaten var
+2026-01-22: noktalar zaten var
+2026-01-23: noktalar zaten var
+2026-01-24: noktalar zaten var
+2026-01-25: noktalar zaten var
+2026-01-26: noktalar zaten var
+2026-01-27: noktalar zaten var
+2026-01-28: noktalar zaten var
+2026-01-29: noktalar zaten var
+2026-01-30: noktalar zaten var
+2026-01-31: noktalar zaten var
+2025-12-31: noktalar zaten var
+cikis: 0
+01:43:58

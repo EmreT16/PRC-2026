@@ -1,0 +1,21 @@
+LIRF B satırı 1,488 (ön koşullu 68); üretim OOF RMSE 4159.5
+24 sa karışımı: 19 satır; OOF RMSE 4017.4
+pencere: gecikme 12–23 sa ve tahmin > 43.200
+kural tetiklenen (tahmin > 43.200) 24 satır, değişen (tahmin < gecikme) 9
+ MVT_ID_mvt  MVT_MONTH  gec_sa       y    tahmin    yeni    p0  on_kosul  e2_fark_mn       grup
+190197995.0          6  13.601 48965.0 48901.560 48962.0 0.001      True      -0.004 yer tutucu
+192620841.0          7  12.718 45791.0 45288.393 45785.0 0.020      True      -0.253 yer tutucu
+192617486.0          7  12.882 46369.0 45887.398 46374.0 0.008      True      -0.232 yer tutucu
+192628951.0          7  12.184 43863.0 43748.299 43861.0 0.004      True      -0.013 yer tutucu
+192629358.0          7  12.601 45368.0 45272.309 45364.0 0.002      True      -0.009 yer tutucu
+195000766.0          8  14.868 53530.0 53374.241 53525.0 0.003     False      -0.024 yer tutucu
+195006448.0          8  12.416 44697.0 44447.830 44698.0 0.006     False      -0.062 yer tutucu
+195005262.0          8  12.750 45899.0 45746.282 45899.0 0.006      True      -0.023 yer tutucu
+201197366.0         12  13.268 47767.0 47681.364 47763.0 0.001      True      -0.007 yer tutucu
+
+SSE farkı (milyon sn²): toplam -0.63 | iyileşen 9, kötüleşen 0
+  Q1: +0.00
+  Q2: -0.00
+  Q3: -0.62
+  Q4: -0.01
+LIRF RMSE 4017.41 → 4017.36; test ölçeğinde (344.841 satır) MSE farkı ≈ -1.82 sn² (≈ -0.0042 RMSE)

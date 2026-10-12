@@ -1,0 +1,31 @@
+başladı 20:02:20
+tum6M_adsb → _bdurum: 2621 satır değişti
+tum6M_adsb_lirfte → _bdurum: 2621 satır değişti
+yeni B: 2608 satır değişti, ort -3.3, RMS 101.1
+          size  <lambda_0>  mean  <lambda_1>
+ADEP_mvt                                    
+EDDF       421           0   0.0         0.0
+EDDM       238         238 -26.9       124.9
+EGLL       248         248  11.9       141.5
+EHAM      1206           0   0.0         0.0
+LEBL       442         442  -5.6        50.8
+LEMD       238         238  -9.9        72.1
+LFPG       734         730  -3.4       212.5
+LIRF       383           0   0.0         0.0
+LSZH       659           0   0.0         0.0
+LTFM       721         712  -9.7       117.2
+- Dosya: `<repo>\gonderim\strong-moose_v230.parquet`
+- MD5: `5c0ce7bed5a9c85536a8bcfaff14c736`
+- Aday: `D_kqgpPe_adsb_37a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+| model_b_kalan_ayni | ✓ |
+| model_b_yeni_uygulandi | ✓ |
+| lobt_kirpilan_model_b_satir | 0.00 |
+| model_b_degisen_satir | 5,290.00 |
+| model_b_rms_fark | 365.40 |
+| model_b_ort_fark | -6.42 |
+| model_b_ort_v126 | 1,645.98 |
+| model_b_ort_yeni | 1,639.56 |
+- Dosya: `<repo>\gonderim\strong-moose_v231.parquet`
+- MD5: `f0886a35aee3fc9e0a5d9fc057819426`
+- Kaynak: `gonderim/strong-moose_v230.parquet` (MD5 5c0ce7bed5a9c85536a8bcfaff14c736) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+zincir bitti 20:02:28

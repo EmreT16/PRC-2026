@@ -1,0 +1,45 @@
+[split_1] eğitim 1,723,367 (kilitli %9.75) | doğrulama 339,046 (kilitli %8.90)
+  EDDF: kilitli 2,410 Σp 2314 AUC 0.924 | uzak: kilitli 24 Σp 24 AUC 0.905 | 66 sn
+  EDDM: kilitli 2,522 Σp 2453 AUC 0.895 | uzak: kilitli 189 Σp 156 AUC 0.960 | 64 sn
+  EGLL: kilitli 3,450 Σp 3467 AUC 0.842 | uzak: kilitli 142 Σp 142 AUC 0.944 | 71 sn
+  EHAM: kilitli 2,349 Σp 2251 AUC 0.940 | uzak: kilitli 18 Σp 17 AUC 0.933 | 63 sn
+  LEBL: kilitli 2,956 Σp 2400 AUC 0.839 | uzak: kilitli 348 Σp 131 AUC 0.834 | 55 sn
+  LEMD: kilitli 2,839 Σp 2771 AUC 0.897 | uzak: kilitli 70 Σp 83 AUC 0.926 | 58 sn
+  LFPG: kilitli 2,768 Σp 2732 AUC 0.897 | uzak: kilitli 182 Σp 172 AUC 0.934 | 61 sn
+  LIRF: kilitli 4,947 Σp 5112 AUC 0.868 | uzak: kilitli 1,152 Σp 1239 AUC 0.878 | 52 sn
+  LSZH: kilitli 1,200 Σp 1048 AUC 0.933 | uzak: kilitli 28 Σp 15 AUC 0.881 | 51 sn
+  LTFM: kilitli 4,728 Σp 4559 AUC 0.823 | uzak: kilitli 599 Σp 589 AUC 0.921 | 64 sn
+== split_1: E1_karisim_tum ↔ lgb_s42
+  ağırlıklı RMSE: taban 229.628 | aday 229.527 | Δ -0.100 sn [%95: -0.830 … +0.659]
+  ay  1: taban 204.456 | aday 204.814 (n=152,271)
+  ay  7: taban 247.796 | aday 247.394 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 34/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1: E1_karisim_LIRF ↔ lgb_s42
+  ağırlıklı RMSE: taban 229.628 | aday 229.035 | Δ -0.592 sn [%95: -1.197 … +0.054]
+  ay  1: taban 204.456 | aday 204.238 (n=152,271)
+  ay  7: taban 247.796 | aday 246.954 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 43/62 (≥40) ✓ · güven aralığı < 0 ✗  →  RET
+[split_1] süre 621 sn
+[split_2] eğitim 1,730,940 (kilitli %9.56) | doğrulama 331,474 (kilitli %9.84)
+  EDDF: kilitli 2,524 Σp 2445 AUC 0.914 | uzak: kilitli 27 Σp 21 AUC 0.905 | 61 sn
+  EDDM: kilitli 2,790 Σp 2579 AUC 0.899 | uzak: kilitli 137 Σp 133 AUC 0.963 | 55 sn
+  EGLL: kilitli 4,007 Σp 3827 AUC 0.815 | uzak: kilitli 133 Σp 120 AUC 0.931 | 62 sn
+  EHAM: kilitli 2,700 Σp 2553 AUC 0.930 | uzak: kilitli 20 Σp 16 AUC 0.992 | 62 sn
+  LEBL: kilitli 3,293 Σp 2828 AUC 0.834 | uzak: kilitli 273 Σp 171 AUC 0.857 | 55 sn
+  LEMD: kilitli 3,107 Σp 2887 AUC 0.884 | uzak: kilitli 84 Σp 67 AUC 0.916 | 58 sn
+  LFPG: kilitli 3,203 Σp 2999 AUC 0.878 | uzak: kilitli 197 Σp 182 AUC 0.925 | 62 sn
+  LIRF: kilitli 5,402 Σp 5239 AUC 0.861 | uzak: kilitli 1,173 Σp 1066 AUC 0.884 | 51 sn
+  LSZH: kilitli 1,284 Σp 1113 AUC 0.934 | uzak: kilitli 21 Σp 16 AUC 0.946 | 52 sn
+  LTFM: kilitli 4,311 Σp 4184 AUC 0.831 | uzak: kilitli 709 Σp 552 AUC 0.913 | 66 sn
+== split_2: E1_karisim_tum ↔ lgb_s42
+  ağırlıklı RMSE: taban 221.512 | aday 221.125 | Δ -0.387 sn [%95: -1.617 … +1.210]
+  ay  2: taban 227.080 | aday 225.714 (n=142,622)
+  ay  8: taban 216.990 | aday 217.413 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 33/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: E1_karisim_LIRF ↔ lgb_s42
+  ağırlıklı RMSE: taban 221.512 | aday 221.493 | Δ -0.018 sn [%95: -0.999 … +1.422]
+  ay  2: taban 227.080 | aday 226.884 (n=142,622)
+  ay  8: taban 216.990 | aday 217.119 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 40/59 (≥39) ✓ · güven aralığı < 0 ✗  →  RET
+[split_2] süre 602 sn
+cikis: 0

@@ -1,0 +1,15 @@
+0:	learn: 371.3508820	total: 451ms	remaining: 45m 5s
+500:	learn: 201.9032578	total: 3m 19s	remaining: 36m 32s
+1000:	learn: 193.3743973	total: 6m 57s	remaining: 34m 43s
+1500:	learn: 188.2541786	total: 10m 33s	remaining: 31m 39s
+2000:	learn: 184.4555322	total: 14m 10s	remaining: 28m 19s
+2500:	learn: 181.1585165	total: 17m 48s	remaining: 24m 54s
+3000:	learn: 178.3717749	total: 21m 26s	remaining: 21m 25s
+3500:	learn: 175.8829382	total: 25m 4s	remaining: 17m 54s
+4000:	learn: 173.5411841	total: 28m 43s	remaining: 14m 21s
+4500:	learn: 171.4213187	total: 32m 23s	remaining: 10m 47s
+5000:	learn: 169.4405867	total: 36m 4s	remaining: 7m 12s
+5500:	learn: 167.5957743	total: 39m 44s	remaining: 3m 36s
+5999:	learn: 165.8473710	total: 43m 25s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb_it6000_t2026_kqgp.parquet | ort. ofset 10.5 | süre 2689 sn
+cikis: 0

@@ -1,0 +1,14 @@
+LIRF 2025: d > 1 sa 17302 satır, kilitli payı 0.094; τ = 1132, s_τ = 639
+                       ay1     ay2     ay6     ay7    LIRF       A        B
+taban               361.14  416.81  856.42  615.18  618.60  348.80  4615.08
+sira0 σT=0.003T+60  391.86  365.81  882.06  618.23  627.06  385.35  4472.49
+sira0 σT=0.01T+300  385.78  356.64  876.94  615.42  622.29  377.13  4474.53
+sira0 σT=0.03T+600  367.51  333.77  865.37  612.64  611.78  357.95  4483.27
+sira1 σT=0.003T+60  391.73  365.54  881.63  618.03  626.78  384.89  4472.49
+sira1 σT=0.01T+300  385.64  356.32  876.54  615.26  622.02  376.69  4474.53
+sira1 σT=0.03T+600  367.37  333.43  865.13  612.56  611.61  357.65  4483.27
+  ay 1: diğer aylarla seçilen sira1 σT=0.03T+600
+  ay 2: diğer aylarla seçilen sira1 σT=0.03T+600
+  ay 6: diğer aylarla seçilen sira1 σT=0.03T+600
+  ay 7: diğer aylarla seçilen sira1 σT=0.03T+600
+iç içe ay seçimi LIRF SSE -446.9 M (test ölçeğinde ≈ -648.0 sn² MSE) | en iyi sira1 σT=0.03T+600, iyi ay 2/4 → RET

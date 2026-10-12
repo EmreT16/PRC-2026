@@ -1,0 +1,60 @@
+=== havalimani=0 kayip=huber apt=EHAM,EDDF,LSZH,LEBL,EDDM
+ay 7 → 1: eğitim 133,848, sınama 88,941 | önemli: dH, dH_m, ADSB_ILK_GS, dI_m, ADSB_HAREKET, dNM
+satır 339,046 (ADS-B eşleşmeli 222,789); günler: Ocak 31, Temmuz 31
+          ay 1  ay 1 ADS-B satırı    ay 7  ay 7 ADS-B satırı  Oca/Tem ağırlıklı
+k=0.0   200.43             176.19  241.92             236.15             224.50
+k=0.5   191.97             159.25  234.53             225.51             216.73
+k=0.75  190.12             155.41  232.59             222.69             214.83
+k=1.0   189.94             155.02  231.86             221.63             214.32
+        satır  ADS-B %  taban  düzeltilmiş
+EDDF  36231.0     97.0  176.4        150.5
+EDDM  26854.0     94.6  166.4        134.9
+EGLL  39744.0     73.6  233.0        233.0
+EHAM  40141.0     99.1  164.4        125.1
+LEBL  28490.0     98.1  221.6        198.1
+LEMD  35019.0     68.4  170.4        170.4
+LFPG  38732.0     15.7  245.5        245.5
+LIRF  26131.0     55.4  378.2        378.2
+LSZH  21822.0     95.0  178.3        148.3
+LTFM  45882.0      0.0  244.9        244.9
+süre 12 sn
+=== havalimani=0 kayip=huber
+ay 7 → 1: eğitim 133,848, sınama 88,941 | önemli: dH, dH_m, ADSB_ILK_GS, dI_m, ADSB_HAREKET, dNM
+satır 339,046 (ADS-B eşleşmeli 222,789); günler: Ocak 31, Temmuz 31
+          ay 1  ay 1 ADS-B satırı    ay 7  ay 7 ADS-B satırı  Oca/Tem ağırlıklı
+k=0.0   200.43             176.19  241.92             236.15             224.50
+k=0.5   190.90             157.03  233.55             224.09             215.72
+k=0.75  188.88             152.80  231.76             221.48             213.85
+k=1.0   188.80             152.62  231.64             221.30             213.74
+        satır  ADS-B %  taban  düzeltilmiş
+EDDF  36231.0     97.0  176.4        150.5
+EDDM  26854.0     94.6  166.4        134.9
+EGLL  39744.0     73.6  233.0        231.0
+EHAM  40141.0     99.1  164.4        125.1
+LEBL  28490.0     98.1  221.6        198.1
+LEMD  35019.0     68.4  170.4        170.4
+LFPG  38732.0     15.7  245.5        248.7
+LIRF  26131.0     55.4  378.2        372.6
+LSZH  21822.0     95.0  178.3        148.3
+LTFM  45882.0      0.0  244.9        244.9
+süre 14 sn
+=== havalimani=0 apt=EHAM,EDDF,LSZH,LEBL,EDDM
+ay 7 → 1: eğitim 133,848, sınama 88,941 | önemli: dH, dH_m, ADSB_ILK_GS, dI_m, dNM, taban
+satır 339,046 (ADS-B eşleşmeli 222,789); günler: Ocak 31, Temmuz 31
+          ay 1  ay 1 ADS-B satırı    ay 7  ay 7 ADS-B satırı  Oca/Tem ağırlıklı
+k=0.0   200.43             176.19  241.92             236.15             224.50
+k=0.5   192.33             159.99  234.52             225.50             216.86
+k=0.75  190.97             157.17  232.58             222.68             215.16
+k=1.0   191.46             158.20  231.86             221.63             214.92
+        satır  ADS-B %  taban  düzeltilmiş
+EDDF  36231.0     97.0  176.4        151.2
+EDDM  26854.0     94.6  166.4        137.3
+EGLL  39744.0     73.6  233.0        233.0
+EHAM  40141.0     99.1  164.4        129.7
+LEBL  28490.0     98.1  221.6        198.3
+LEMD  35019.0     68.4  170.4        170.4
+LFPG  38732.0     15.7  245.5        245.5
+LIRF  26131.0     55.4  378.2        378.2
+LSZH  21822.0     95.0  178.3        150.2
+LTFM  45882.0      0.0  244.9        244.9
+süre 16 sn

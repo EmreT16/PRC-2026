@@ -1,0 +1,4 @@
+LIRF test B 619 | ön koşul dışı 580 | değişen 580 | RMS fark 911 | ort fark 94
+fark yüzdelikleri: [-3064.0, -1333.0, -242.0, 90.0, 528.0, 1361.0, 2234.0]
+TEST_B_tum6M_adsb_lirfte: 9077 B satırı; LIRF'te değişen 580
+cikis: 0

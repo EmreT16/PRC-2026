@@ -1,0 +1,8 @@
+0:	learn: 371.3159888	total: 461ms	remaining: 23m 2s
+500:	learn: 209.6083428	total: 3m 37s	remaining: 18m 6s
+1000:	learn: 201.2631938	total: 7m 15s	remaining: 14m 30s
+1500:	learn: 196.0423617	total: 20m 15s	remaining: 20m 13s
+2000:	learn: 192.0401410	total: 39m 54s	remaining: 19m 55s
+2500:	learn: 188.6817224	total: 59m 17s	remaining: 11m 49s
+2999:	learn: 185.7551976	total: 1h 6m 54s	remaining: 0us
+bitti: <repo>\data\preds\TEST_gcb.parquet | ort. ofset 6.0 | süre 4104 sn

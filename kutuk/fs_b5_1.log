@@ -1,0 +1,52 @@
+Traceback (most recent call last):
+  File "<repo>\scripts\adsb_b_duzeltici5.py", line 219, in <module>
+    {"cv": cv, "uretim": uretim}[sys.argv[1]](opt)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "<repo>\scripts\adsb_b_duzeltici5.py", line 162, in uretim
+    t = pd.read_parquet(A.PRED / f"TEST_{A.TEST_AD}.parquet", columns=["MVT_ID_mvt", "NM_TAXI_DIFF_SEC", "taksi"] + bil)
+  File "<python>\Lib\site-packages\pandas\io\parquet.py", line 671, in read_parquet
+    return impl.read(
+           ~~~~~~~~~^
+        path,
+        ^^^^^
+    ...<6 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "<python>\Lib\site-packages\pandas\io\parquet.py", line 260, in read
+    pa_table = self.api.parquet.read_table(
+        path_or_handle,
+    ...<3 lines>...
+        **kwargs,
+    )
+  File "<python>\Lib\site-packages\pyarrow\parquet\core.py", line 1959, in read_table
+    return dataset.read(columns=columns, use_threads=use_threads,
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        use_pandas_metadata=use_pandas_metadata)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<python>\Lib\site-packages\pyarrow\parquet\core.py", line 1585, in read
+    table = self._dataset.to_table(
+        columns=columns, filter=self._filter_expression,
+        use_threads=use_threads
+    )
+  File "pyarrow/_dataset.pyx", line 579, in pyarrow._dataset.Dataset.to_table
+  File "pyarrow/_dataset.pyx", line 415, in pyarrow._dataset.Dataset.scanner
+  File "pyarrow/_dataset.pyx", line 3704, in pyarrow._dataset.Scanner.from_dataset
+  File "pyarrow/_dataset.pyx", line 3617, in pyarrow._dataset.Scanner._make_scan_options
+  File "pyarrow/_dataset.pyx", line 3567, in pyarrow._dataset._populate_builder
+  File "pyarrow/error.pxi", line 92, in pyarrow.lib.check_status
+pyarrow.lib.ArrowInvalid: No match for FieldRef.Name(gcb12k_ort2_kqgp) in MVT_ID_mvt: double
+NM_TAXI_DIFF_SEC: double
+xgb_kqgp_1500: double
+gcb12k_kqgp_1t: double
+e1h3_kqgp: double
+lgbh3_kqgp: double
+dw_kqgp_1t: double
+harman: double
+taksi: double
+__fragment_index: int32
+__batch_index: int32
+__last_in_fragment: bool
+__filename: string
+cikis: 1

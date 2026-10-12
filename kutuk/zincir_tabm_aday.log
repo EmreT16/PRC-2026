@@ -1,0 +1,8 @@
+başladı 23:07:58
+normal harman: ort. taksi 1022.9
+normal düzeltici tamam 23:53:03
+normal: ara gonderim/strong-moose_v340.parquet → gonderim/strong-moose_v341.parquet MD5: `3a62d8566b104b9316caa549a2f09739`
+  − v330: değişen 343,153 satır, RMS 20.05, ort +0.023, min tahmin 60
+  − v316: değişen 343,186 satır, RMS 28.62, ort -1.577, min tahmin 60
+final harman: ort. taksi 1002.5
+HATA: düzeltici final 00:06:19

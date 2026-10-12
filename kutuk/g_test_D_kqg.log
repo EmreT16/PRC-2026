@@ -1,0 +1,7 @@
+[D_kqg] ağırlıklar {'xgb_kqg': 0.1021, 'gcb6k_ort2_kqg': 0.2036, 'e1h3_kqg': 0.2211, 'lgbh3_kqg': 0.1236, 'dw_kqg': 0.3497} | ort. taksi 1029.6
+                xgb_kqg  gcb6k_ort2_kqg  e1h3_kqg  lgbh3_kqg  dw_kqg
+xgb_kqg           1.000           0.975     0.977      0.979   0.975
+gcb6k_ort2_kqg    0.975           1.000     0.976      0.978   0.991
+e1h3_kqg          0.977           0.976     1.000      0.994   0.975
+lgbh3_kqg         0.979           0.978     0.994      1.000   0.978
+dw_kqg            0.975           0.991     0.975      0.978   1.000

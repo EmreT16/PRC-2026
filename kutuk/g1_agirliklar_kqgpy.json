@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_kqgpy_1500",
+  "gcb12k_ort2_kqgpy",
+  "e1h3_kqgpy",
+  "lgbh3_kqgpy",
+  "dw_kqgpy"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "02.10 akşam: kqgpxg + yüzey/kar özellikleri (kutuk/ekoz_secim.json); D_dw ağırlıkları"
+}

@@ -1,0 +1,10 @@
+başladı 13:24:33
+test B satırı 5,290 | düzeltilen 3,002 | değişen 3,002 | RMS fark 284 | ort fark -9.0
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+ara gonderim/strong-moose_v258.parquet, aday gonderim/strong-moose_v259.parquet
+- MD5: `feddf36f00b5043430dba6604ae2a3bf`
+- Kaynak: `gonderim/strong-moose_v258.parquet` (MD5 5ebc5c04e082bd305a2a158d1fdf146a) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+  − gonderim/strong-moose_v257.parquet: değişen 112,374 satır, RMS 11.10 sn, ort +0.039
+  − gonderim/strong-moose_v249.parquet: değişen 293,715 satır, RMS 24.75 sn, ort +1.475
+zincir bitti 13:30:51

@@ -1,0 +1,15 @@
+<repo>\scripts\adsb_duzeltici.py:102: Pandas4Warning: Constructing a Categorical with a dtype and values containing non-null entries not in that dtype's categories is deprecated and will raise in a future version.
+  X["tip"] = pd.Categorical(d["AIRCRAFT_TYPE_mvt"].astype(str), categories=TIP_KAT) if TIP_KAT is not None             else d["AIRCRAFT_TYPE_mvt"].astype(str).astype("category")
+eğitim satırı 440,878 | test satırı 339,551, ADS-B eşleşmeli 234,812 (%69.2)
+          satir  adsb  ort_fark  rms_fark
+ADEP_mvt                                 
+EDDF      35896  90.7       8.6      82.6
+EDDM      25728  97.5      -1.7     134.7
+EGLL      39592  91.5     -12.9     135.8
+EHAM      36976  98.6       2.1     136.6
+LEBL      29638  96.7      -2.4     122.1
+LEMD      36716  95.7      -4.6     100.7
+LFPG      39138  23.6      -0.2      20.8
+LIRF      26516  36.6     -13.0      59.7
+LSZH      22491  95.5       4.5     115.1
+LTFM      46860   0.6      -0.2       4.1

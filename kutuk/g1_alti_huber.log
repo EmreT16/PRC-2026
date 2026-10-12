@@ -1,0 +1,9 @@
+[alti_huber] split_1'de seçilen {'cb': 0.0, 'lgb': 0.238, 'xgb': 0.146, 'A2_global_cb:global_cb': 0.354, 'E1:karisim': 0.194, 'lgb_huber': 0.068}
+== split_2'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 216.468 | Δ -2.716 sn [%95: -3.987 … -1.697]
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 54/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[alti_huber] split_2'de seçilen {'cb': 0.0, 'lgb': 0.0, 'xgb': 0.179, 'A2_global_cb:global_cb': 0.409, 'E1:karisim': 0.147, 'lgb_huber': 0.265}
+== split_1'de sınama ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 225.554 | Δ -1.396 sn [%95: -1.943 … -0.878]
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 49/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[alti_huber] önerilen ağırlıklar: {'cb': 0.0, 'lgb': 0.119, 'xgb': 0.1625, 'A2_global_cb:global_cb': 0.3815, 'E1:karisim': 0.1705, 'lgb_huber': 0.1665} | çapraz Δ: split_2 -2.716, split_1 -1.396

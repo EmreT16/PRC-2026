@@ -1,0 +1,33 @@
+  EDDF: harman 152.2 (alt sınırsız) | 47 sn
+  EDDM: harman 135.5 (alt sınırsız) | 40 sn
+  EGLL: harman 192.6 (alt sınırsız) | 47 sn
+  EHAM: harman 146.8 (alt sınırsız) | 48 sn
+  LEBL: harman 176.5 (alt sınırsız) | 43 sn
+  LEMD: harman 171.0 (alt sınırsız) | 44 sn
+  LFPG: harman 201.5 (alt sınırsız) | 47 sn
+  LIRF: harman 332.7 (alt sınırsız) | 37 sn
+  LSZH: harman 146.3 (alt sınırsız) | 35 sn
+  LTFM: harman 214.6 (alt sınırsız) | 51 sn
+== split_5: v_xgb_kqgp_1500 (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 200.359 | aday 193.181 | Δ -7.178 sn [%95: -8.904 … -5.620]
+  ay  4: taban 190.406 | aday 182.217 (n=174,203)
+  ay 10: taban 207.922 | aday 201.460 (n=183,761)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 60/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_5] süre 481 sn
+  EDDF: harman 161.9 (alt sınırsız) | 46 sn
+  EDDM: harman 152.2 (alt sınırsız) | 39 sn
+  EGLL: harman 203.7 (alt sınırsız) | 46 sn
+  EHAM: harman 154.2 (alt sınırsız) | 47 sn
+  LEBL: harman 198.2 (alt sınırsız) | 44 sn
+  LEMD: harman 173.2 (alt sınırsız) | 44 sn
+  LFPG: harman 220.2 (alt sınırsız) | 47 sn
+  LIRF: harman 323.3 (alt sınırsız) | 37 sn
+  LSZH: harman 153.5 (alt sınırsız) | 35 sn
+  LTFM: harman 205.6 (alt sınırsız) | 50 sn
+== split_6: v_xgb_kqgp_1500 (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 203.351 | aday 197.830 | Δ -5.521 sn [%95: -6.778 … -4.224]
+  ay  5: taban 194.977 | aday 189.832 (n=183,597)
+  ay  9: taban 209.761 | aday 203.956 (n=181,485)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 56/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_6] süre 473 sn
+cikis: 0

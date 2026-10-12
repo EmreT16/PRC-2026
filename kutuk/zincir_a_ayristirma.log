@@ -1,0 +1,22 @@
+başladı 01:24:41
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+gonderim/strong-moose_v322.parquet − v316: değişen 0 satır, RMS 0.00 sn, ort +0.000, maks |fark| 0.0, min tahmin 60
+v316: gonderim/strong-moose_v321.parquet → gonderim/strong-moose_v322.parquet MD5: `9bfcc4ae195b2dca91b6a34a919ec5d8`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+gonderim/strong-moose_v324.parquet − v316: değişen 343,133 satır, RMS 16.73 sn, ort -1.242, maks |fark| 2758.6, min tahmin 60
+g2: gonderim/strong-moose_v323.parquet → gonderim/strong-moose_v324.parquet MD5: `6a8f15aa62e9ea8ff6b61698ccfdb423`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+gonderim/strong-moose_v326.parquet − v316: değişen 329,726 satır, RMS 13.18 sn, ort -1.176, maks |fark| 704.1, min tahmin 60
+g2lgbcb: gonderim/strong-moose_v325.parquet → gonderim/strong-moose_v326.parquet MD5: `42713edb4994e977ec6318df45719b3e`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+gonderim/strong-moose_v328.parquet − v316: değişen 343,148 satır, RMS 19.37 sn, ort -1.626, maks |fark| 2933.8, min tahmin 60
+ha: gonderim/strong-moose_v327.parquet → gonderim/strong-moose_v328.parquet MD5: `d0877eb50c075a0894a1b6db9dbfa142`
+tr: warning: an unescaped backslash at end of string is not portable
+tr: warning: an unescaped backslash at end of string is not portable
+gonderim/strong-moose_v330.parquet − v316: değişen 343,164 satır, RMS 20.58 sn, ort -1.600, maks |fark| 2990.1, min tahmin 60
+duz: gonderim/strong-moose_v329.parquet → gonderim/strong-moose_v330.parquet MD5: `b0c82106ccc972b964e17021d792e68f`
+zincir bitti 01:27:03

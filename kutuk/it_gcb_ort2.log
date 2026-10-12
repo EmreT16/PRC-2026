@@ -1,0 +1,8 @@
+split_1: düzenek adımı atlandı; eksik: ['GCB_it12000_t2026_kqgpy_split_1.parquet']
+split_2: düzenek adımı atlandı; eksik: ['GCB_it12000_t2026_kqgpy_split_2.parquet']
+split_3: düzenek adımı atlandı; eksik: ['GCB_it12000_t2026_kqgpy_split_3.parquet']
+split_4: düzenek adımı atlandı; eksik: ['GCB_it12000_t2026_kqgpy_split_4.parquet']
+split_5: düzenek adımı atlandı; eksik: ['GCB_it12000_t2026_kqgpy_split_5.parquet']
+split_6: düzenek adımı atlandı; eksik: ['GCB_it12000_t2026_kqgpy_split_6.parquet']
+test: 339,551 satır | ilk iki tohumun korelasyonu 0.9949 | ort. ofset 14.6
+cikis: 0

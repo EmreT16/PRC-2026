@@ -1,0 +1,17 @@
+  EDDF: harman 153.6 (alt sınırsız) | 353 sn
+  EDDM: harman 142.3 (alt sınırsız) | 289 sn
+  EGLL: harman 200.6 (alt sınırsız) | 324 sn
+  EHAM: harman 148.0 (alt sınırsız) | 348 sn
+  LEBL: harman 149.0 (alt sınırsız) | 289 sn
+  LEMD: harman 167.4 (alt sınırsız) | 293 sn
+  LFPG: harman 221.3 (alt sınırsız) | 244 sn
+  LIRF: harman 278.1 (alt sınırsız) | 189 sn
+  LSZH: harman 148.0 (alt sınırsız) | 256 sn
+  LTFM: harman 196.6 (alt sınırsız) | 419 sn
+== split_4: v_e1_huber1000_3t_kqgp (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 191.761 | aday 184.395 | Δ -7.366 sn [%95: -8.577 … -6.255]
+  ay 11: taban 192.866 | aday 185.967 (n=160,976)
+  ay  3: taban 190.879 | aday 183.137 (n=163,367)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 61/61 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_4] süre 3039 sn
+cikis: 0

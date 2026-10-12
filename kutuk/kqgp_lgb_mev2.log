@@ -1,0 +1,34 @@
+  EDDF: harman 180.0 (alt sınırsız) | 248 sn
+  EDDM: harman 163.5 (alt sınırsız) | 224 sn
+  EGLL: harman 232.8 (alt sınırsız) | 235 sn
+  EHAM: harman 166.1 (alt sınırsız) | 210 sn
+  LEBL: harman 222.3 (alt sınırsız) | 162 sn
+  LEMD: harman 171.1 (alt sınırsız) | 201 sn
+  LFPG: harman 240.1 (alt sınırsız) | 245 sn
+  LIRF: harman 373.7 (alt sınırsız) | 220 sn
+  LSZH: harman 186.0 (alt sınırsız) | 210 sn
+  LTFM: harman 231.0 (alt sınırsız) | 281 sn
+== split_1: v_lgb_huber1000_3t_kqgp_mev2 (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 226.951 | aday 218.774 | Δ -8.177 sn [%95: -9.634 … -6.924]
+  ay  1: taban 202.379 | aday 196.442 (n=152,271)
+  ay  7: taban 244.706 | aday 234.996 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 58/62 (≥40) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_1] süre 2268 sn
+  EDDF: harman 148.4 (alt sınırsız) | 256 sn
+  EDDM: harman 147.5 (alt sınırsız) | 231 sn
+  EGLL: harman 196.5 (alt sınırsız) | 263 sn
+  EHAM: harman 146.8 (alt sınırsız) | 262 sn
+  LEBL: harman 199.2 (alt sınırsız) | 219 sn
+  LEMD: harman 161.0 (alt sınırsız) | 245 sn
+  LFPG: harman 209.4 (alt sınırsız) | 193 sn
+  LIRF: harman 344.0 (alt sınırsız) | 157 sn
+  LSZH: harman 153.6 (alt sınırsız) | 172 sn
+  LTFM: harman 291.0 (alt sınırsız) | 247 sn
+== split_2: v_lgb_huber1000_3t_kqgp_mev2 (178 özellik) ↔ B1 harmanı
+  ağırlıklı RMSE: taban 219.184 | aday 209.794 | Δ -9.390 sn [%95: -12.273 … -7.165]
+  ay  2: taban 223.852 | aday 211.340 (n=142,622)
+  ay  8: taban 215.406 | aday 208.558 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 59/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+[split_2] süre 2281 sn
+  EDDF: harman 162.0 (alt sınırsız) | 256 sn
+durduruldu 02.10 gece: split_1/2'de lgbh3_kqgp'ye göre 4 ayın 3'ünde kötü (Oca -0,06, Şub +0,04, Tem +0,37, Ağu +0,24) -> reddedildi

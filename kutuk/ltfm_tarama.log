@@ -1,0 +1,73 @@
+split_1 taban  RMSE  230.19
+split_1 h600   RMSE  230.68
+split_1 h2000  RMSE  229.84
+split_1 l2     RMSE  230.85
+split_1 y63    RMSE  231.15
+split_1 y400   RMSE  230.41
+split_1 m100   RMSE  230.33
+split_1 lr02   RMSE  229.23
+split_1 süre 559 sn
+split_2 taban  RMSE  291.88
+split_2 h600   RMSE  298.10
+split_2 h2000  RMSE  295.11
+split_2 l2     RMSE  298.06
+split_2 y63    RMSE  292.33
+split_2 y400   RMSE  294.51
+split_2 m100   RMSE  301.27
+split_2 lr02   RMSE  292.55
+split_2 süre 544 sn
+split_3 taban  RMSE  197.63
+split_3 h600   RMSE  197.69
+split_3 h2000  RMSE  197.76
+split_3 l2     RMSE  198.21
+split_3 y63    RMSE  198.71
+split_3 y400   RMSE  197.70
+split_3 m100   RMSE  197.85
+split_3 lr02   RMSE  197.21
+split_3 süre 549 sn
+split_4 taban  RMSE  195.54
+split_4 h600   RMSE  196.32
+split_4 h2000  RMSE  195.70
+split_4 l2     RMSE  195.74
+split_4 y63    RMSE  197.53
+split_4 y400   RMSE  196.10
+split_4 m100   RMSE  196.97
+split_4 lr02   RMSE  195.21
+split_4 süre 556 sn
+split_5 taban  RMSE  211.66
+split_5 h600   RMSE  211.81
+split_5 h2000  RMSE  212.56
+split_5 l2     RMSE  211.88
+split_5 y63    RMSE  213.91
+split_5 y400   RMSE  212.26
+split_5 m100   RMSE  213.15
+split_5 lr02   RMSE  211.12
+split_5 süre 559 sn
+split_6 taban  RMSE  202.99
+split_6 h600   RMSE  202.38
+split_6 h2000  RMSE  203.98
+split_6 l2     RMSE  203.77
+split_6 y63    RMSE  204.90
+split_6 y400   RMSE  203.23
+split_6 m100   RMSE  203.14
+split_6 lr02   RMSE  202.87
+split_6 süre 551 sn
+
+LTFM ay başına RMSE (taksi, tek tohum):
+degisken   taban    h600   h2000      l2     y63    y400    m100    lr02
+ay                                                                      
+1         208.58  208.22  207.74  208.51  208.02  208.52  208.26  207.69
+2         377.85  389.11  382.88  388.61  377.28  382.34  393.91  379.37
+3         199.53  200.49  199.47  198.94  201.68  200.00  199.96  199.37
+4         207.40  207.14  207.94  208.07  208.14  208.61  207.64  207.08
+5         209.11  208.81  209.61  209.98  211.12  209.83  209.43  209.13
+6         197.74  197.93  197.98  198.45  199.12  197.63  198.72  197.39
+7         247.16  248.26  247.15  248.34  249.20  247.58  247.62  246.14
+8         209.81  210.09  211.04  210.67  211.61  210.30  211.46  209.44
+9         196.92  195.99  198.41  197.61  198.72  196.67  196.89  196.64
+10        215.56  216.07  216.77  215.37  219.16  215.60  218.15  214.82
+11        191.71  192.31  192.08  192.68  193.55  192.36  194.10  191.22
+12        197.52  197.43  197.54  197.96  198.28  197.77  196.94  197.02
+
+toplam RMSE: {'taban': 223.67, 'h600': 225.11, 'h2000': 224.63, 'l2': 225.36, 'y63': 225.03, 'y400': 224.48, 'm100': 226.17, 'lr02': 223.43}
+tabandan iyi ay sayısı (/12): {'taban': 0, 'h600': 5, 'h2000': 3, 'l2': 3, 'y63': 2, 'y400': 3, 'm100': 3, 'lr02': 10}

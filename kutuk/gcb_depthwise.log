@@ -1,0 +1,33 @@
+0:	learn: 358.9230298	test: 377.3825472	best: 377.3825472 (0)	total: 163ms	remaining: 8m 9s
+1000:	learn: 171.4550528	test: 216.3686650	best: 216.3650932 (998)	total: 1m 13s	remaining: 2m 27s
+2000:	learn: 155.6831585	test: 215.3278048	best: 215.3278048 (2000)	total: 2m 23s	remaining: 1m 11s
+bestTest = 215.2791856
+bestIteration = 2055
+Shrink model to first 2056 iterations.
+== split_1: GCB_depthwise tek ↔ B1 harmanı (en iyi iterasyon 2055)
+  ağırlıklı RMSE: taban 226.951 | aday 230.402 | Δ +3.451 sn [%95: +2.119 … +4.810]
+  ay  1: taban 202.379 | aday 206.343 (n=152,271)
+  ay  7: taban 244.706 | aday 247.844 (n=186,775)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 16/62 (≥40) ✗ · güven aralığı < 0 ✗  →  RET
+== split_1: GCB_depthwise yuzde50 ↔ B1 harmanı (en iyi iterasyon 2055)
+  ağırlıklı RMSE: taban 226.951 | aday 226.169 | Δ -0.781 sn [%95: -1.445 … -0.172]
+  ay  1: taban 202.379 | aday 201.857 (n=152,271)
+  ay  7: taban 244.706 | aday 243.750 (n=186,775)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 38/62 (≥40) ✗ · güven aralığı < 0 ✓  →  RET
+0:	learn: 368.4988425	test: 373.8059059	best: 373.8059059 (0)	total: 278ms	remaining: 13m 54s
+1000:	learn: 173.8862468	test: 209.2843967	best: 209.2843967 (1000)	total: 1m 4s	remaining: 2m 7s
+2000:	learn: 157.0994984	test: 208.3451644	best: 208.3302923 (1921)	total: 2m 8s	remaining: 1m 4s
+bestTest = 208.2336255
+bestIteration = 2242
+Shrink model to first 2243 iterations.
+== split_2: GCB_depthwise tek ↔ B1 harmanı (en iyi iterasyon 2242)
+  ağırlıklı RMSE: taban 219.184 | aday 219.037 | Δ -0.146 sn [%95: -2.320 … +1.566]
+  ay  2: taban 223.852 | aday 222.605 (n=142,622)
+  ay  8: taban 215.406 | aday 216.163 (n=188,852)
+  kurallar: Δ≤−0,5 ✗ · iki ay ✗ · gün 16/59 (≥39) ✗ · güven aralığı < 0 ✗  →  RET
+== split_2: GCB_depthwise yuzde50 ↔ B1 harmanı (en iyi iterasyon 2242)
+  ağırlıklı RMSE: taban 219.184 | aday 216.927 | Δ -2.257 sn [%95: -3.637 … -1.181]
+  ay  2: taban 223.852 | aday 220.788 (n=142,622)
+  ay  8: taban 215.406 | aday 213.812 (n=188,852)
+  kurallar: Δ≤−0,5 ✓ · iki ay ✓ · gün 44/59 (≥39) ✓ · güven aralığı < 0 ✓  →  KABUL
+cikis: 0

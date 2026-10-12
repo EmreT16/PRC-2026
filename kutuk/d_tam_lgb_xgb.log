@@ -1,0 +1,13 @@
+[tam_lgb_xgb] eğitim 2,062,378 | test 339,551 | özellik 134 | hazırlık 29 sn
+  EDDF: eğitim 228,185 test 35,896 | 215 sn
+  EDDM: eğitim 166,324 test 25,728 | 206 sn
+  EGLL: eğitim 238,132 test 39,592 | 239 sn
+  EHAM: eğitim 243,865 test 36,976 | 236 sn
+  LEBL: eğitim 177,838 test 29,638 | 206 sn
+  LEMD: eğitim 211,295 test 36,716 | 218 sn
+  LFPG: eğitim 235,725 test 39,138 | 236 sn
+  LIRF: eğitim 159,154 test 26,516 | 187 sn
+  LSZH: eğitim 132,540 test 22,491 | 196 sn
+  LTFM: eğitim 269,320 test 46,860 | 264 sn
+[tam_lgb_xgb] bitti: <repo>\data\preds\TEST_tam_lgb_xgb.parquet | ort. taksi 1031.9 | süre 2233 sn
+cikis: 0

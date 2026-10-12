@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_kqgpy_1500",
+  "gcb12k_kqgpy_1t",
+  "e1h3_kqgpy",
+  "lgbh3_kqgpy",
+  "dw_kqgpy_1t"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "08.10 final aşaması: g1_agirliklar_kqgpy.json ile aynı ağırlıklar; ekran kartı bileşenleri tek tohum (42) — yalnız komşu tahmini özelliklerinin test girdisi"
+}

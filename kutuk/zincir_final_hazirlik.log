@@ -1,0 +1,9 @@
+başladı 09:13:58
+- Dosya: `<repo>\gonderim\strong-moose_v217.parquet`
+- MD5: `56ed31110e0b46f9de96e7c4bbf70085`
+- Aday: `D_kqgpT8b_adsb_34a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+
+- Dosya: `<repo>\gonderim\strong-moose_v218.parquet`
+- MD5: `77a1b6afd94de5a865f585045f3b9634`
+- Kaynak: `gonderim/strong-moose_v217.parquet` (MD5 56ed31110e0b46f9de96e7c4bbf70085) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+zincir bitti 09:27:03

@@ -1,0 +1,18 @@
+başladı 15:22:20
+- Dosya: `<repo>\gonderim\strong-moose_v221.parquet`
+- MD5: `279059f752b3968e65c950b87d44aa89`
+- Aday: `D_kqgpT8e_adsb_36a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+
+- Dosya: `<repo>\gonderim\strong-moose_v222.parquet`
+- MD5: `1072e6ce221d5d6c0b1c21317ef0794b`
+- Kaynak: `gonderim/strong-moose_v221.parquet` (MD5 279059f752b3968e65c950b87d44aa89) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+kqgpT8e bitti 15:35:00
+- Dosya: `<repo>\gonderim\strong-moose_v223.parquet`
+- MD5: `615fe6b9b81d2b109e31caa584f55d46`
+- Aday: `D_kqgpPe_adsb_37a`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+
+- Dosya: `<repo>\gonderim\strong-moose_v224.parquet`
+- MD5: `3666b2f89eee18d610311d6980e721e3`
+- Kaynak: `gonderim/strong-moose_v223.parquet` (MD5 615fe6b9b81d2b109e31caa584f55d46) + Y1 kalibrasyonu (havalimanı + pist) (scripts/g_kalibre.py) + LOBT penceresi
+kqgpPe bitti 15:47:28
+zincir bitti 15:47:28

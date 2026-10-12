@@ -1,0 +1,6 @@
+[bes_huber] ağırlıklar {'xgb': 0.1679, 'A2_global_cb:global_cb': 0.3838, 'E1:karisim': 0.2109, 'lgb_huber': 0.2374} | ort. taksi 1031.3
+                          xgb  A2_global_cb:global_cb  E1:karisim  lgb_huber
+xgb                     1.000                   0.972       0.974      0.976
+A2_global_cb:global_cb  0.972                   1.000       0.971      0.973
+E1:karisim              0.974                   0.971       1.000      0.989
+lgb_huber               0.976                   0.973       0.989      1.000

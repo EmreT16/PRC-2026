@@ -1,0 +1,27 @@
+  hazırlık: 230 sayısal (eksiklik bayrakları dahil), 11 kategorik | 141 sn
+  TabM: 5 sabit sütun atıldı, 225 sayısal kaldı
+    epok 1/12: kayıp 0.0661 | 102 sn
+    epok 2/12: kayıp 0.0532 | 111 sn
+    epok 3/12: kayıp 0.0519 | 111 sn
+    epok 4/12: kayıp 0.0507 | 111 sn
+    epok 5/12: kayıp 0.0498 | 111 sn
+    epok 6/12: kayıp 0.0487 | 111 sn
+    epok 7/12: kayıp 0.0474 | 111 sn
+    epok 8/12: kayıp 0.0459 | 111 sn
+    epok 9/12: kayıp 0.0444 | 111 sn
+    epok 10/12: kayıp 0.0430 | 111 sn
+    epok 11/12: kayıp 0.0420 | 111 sn
+    epok 12/12: kayıp 0.0414 | 109 sn
+    epok 1/12: kayıp 0.0653 | 90 sn
+    epok 2/12: kayıp 0.0532 | 90 sn
+    epok 3/12: kayıp 0.0522 | 98 sn
+    epok 4/12: kayıp 0.0508 | 109 sn
+    epok 5/12: kayıp 0.0532 | 93 sn
+    epok 6/12: kayıp 0.0492 | 89 sn
+    epok 7/12: kayıp 0.0482 | 96 sn
+    epok 8/12: kayıp 0.0470 | 109 sn
+    epok 9/12: kayıp 0.0456 | 101 sn
+    epok 10/12: kayıp 0.0443 | 89 sn
+    epok 11/12: kayıp 0.0433 | 89 sn
+    epok 12/12: kayıp 0.0428 | 107 sn
+[tam] 661,713 test satırı | ort. ofset 18.4 | 3034 sn

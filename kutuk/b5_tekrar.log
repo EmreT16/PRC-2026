@@ -1,0 +1,13 @@
+test B satırı 5,290 | düzeltilen 3,002 | değişen 3,002 | RMS fark 284 | ort fark -9.0
+          size  <lambda_0>   mean
+ADEP_mvt                         
+EDDF       421         326   19.9
+EDDM       238         231 -105.1
+EGLL       248         241  -83.5
+EHAM      1206         723  -21.3
+LEBL       442         437   21.0
+LEMD       238         230   14.9
+LFPG       734         271   11.7
+LIRF       383           0    0.0
+LSZH       659         543    6.0
+LTFM       721           0    0.0

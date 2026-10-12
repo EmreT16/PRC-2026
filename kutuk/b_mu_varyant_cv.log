@@ -1,0 +1,16 @@
+başladı 02:15:51
+dl2000 bitti 02:52:54
+e20 bitti 03:53:36
+s7 bitti 04:30:37
+bw5 bitti 05:08:26
+ref _dparkktahkomgspcyte_e12_t1 (w 0,6): 8 hav. 646.34, μ RMSE 640.5
+kontrol _dparkktahkomgspcyte_e12_t1_s7 (en iyi w 0.5): 8 hav. 648.26 (fark +1.92), μ RMSE 644.3 → eşik 3.83
+_dparkktahkomgspcyte_e12_t1_dl2000: en iyi w 0.4, 8 hav. 649.49 (+3.15), çeyrek 1/4, havalimanı 2/8 → RET
+_dparkktahkomgspcyte_e20_t1: en iyi w 0.3, 8 hav. 650.05 (+3.71), çeyrek 1/4, havalimanı 1/8 → RET
+_dparkktahkomgspcyte_e12_t1_bw5: en iyi w 0.5, 8 hav. 648.79 (+2.45), çeyrek 1/4, havalimanı 2/8 → RET
+                                            8 hav.  μ RMSE      Q1     Q2     Q3     Q4   EDDM   EGLL   LEBL   LEMD    LFPG   LTFM   EHAM   LSZH
+ref                                          646.3   640.5  1320.7  324.3  428.1  405.1  467.2  803.5  264.2  232.3  1045.9  647.7  303.6  512.3
+_dparkktahkomgspcyte_e12_t1_dl2000 (w 0.4)   649.5   647.1  1328.0  328.7  427.3  408.0  464.8  802.0  265.3  233.2  1047.7  660.5  305.3  513.4
+_dparkktahkomgspcyte_e20_t1 (w 0.3)          650.1   649.0  1328.7  330.0  427.6  408.7  464.4  804.2  265.0  234.0  1047.8  661.9  305.5  513.9
+_dparkktahkomgspcyte_e12_t1_bw5 (w 0.5)      648.8   645.4  1327.6  325.6  428.2  405.0  465.5  805.6  264.3  232.9  1046.0  659.5  303.8  512.0
+zincir bitti 05:08:29

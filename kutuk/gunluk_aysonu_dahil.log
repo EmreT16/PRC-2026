@@ -1,0 +1,29 @@
+kalkış 671,293 | tahminsiz 0 (havalimanı-ay medyanıyla dolduruldu)
+kalıntı std (sn): {'EDDF|Ai': 109.0, 'EDDF|Az': 217.0, 'EDDF|B': 347.0, 'EDDM|Ai': 97.0, 'EDDM|Az': 166.0, 'EDDM|B': 464.0, 'EGLL|Ai': 193.0, 'EGLL|Az': 226.0, 'EGLL|B': 888.0, 'EHAM|Ai': 87.0, 'EHAM|Az': 322.0, 'EHAM|B': 416.0, 'LEBL|Ai': 151.0, 'LEBL|Az': 206.0, 'LEBL|B': 253.0, 'LEMD|Ai': 147.0, 'LEMD|Az': 145.0, 'LEMD|B': 213.0, 'LFPG|Ai': 224.0, 'LFPG|Az': 218.0, 'LFPG|B': 1000.0, 'LIRF|Ai': 389.0, 'LIRF|Az': 289.0, 'LIRF|B': 1000.0, 'LSZH|Ai': 84.0, 'LSZH|Az': 215.0, 'LSZH|B': 757.0, 'LTFM|Ai': 244.0, 'LTFM|Az': 249.0, 'LTFM|B': 956.0}
+gün toplamı bulunan satır payı 1.0000
+ay sonu / test ayı dışı off-block günündeki satır: 22,628
+                       ay1     ay2     ay6     ay7   hepsi       A        B  ay_sonu
+taban               349.98  223.58  354.88  386.90  340.05  188.10  2455.88   307.15
+α1.0 σT=0.003T+60   349.69  222.61  354.76  386.40  339.65  187.36  2455.88   307.05
+α1.0 σT=0.005T+120  349.70  222.59  354.76  386.47  339.67  187.41  2455.88   306.98
+α1.0 σT=0.01T+300   349.79  222.70  354.78  386.64  339.77  187.59  2455.88   306.96
+α1.0 σT=0.02T+300   349.89  223.01  354.83  386.80  339.90  187.82  2455.88   307.05
+  ay 1: diğer aylarla seçilen α1.0 σT=0.003T+60
+  ay 2: diğer aylarla seçilen α1.0 σT=0.003T+60
+  ay 6: diğer aylarla seçilen α1.0 σT=0.003T+60
+  ay 7: diğer aylarla seçilen α1.0 σT=0.003T+60
+iç içe ay seçimi -0.403 | en iyi α1.0 σT=0.003T+60 (-0.403), iyi ay 4/4 → KABUL
+havalimanı × tür (en iyi ayar) RMSE farkı:
+tur      A    B
+apt            
+EDDF -0.31  0.0
+EDDM -0.30  0.0
+EGLL -0.46  0.0
+EHAM -0.06  0.0
+LEBL -1.64  0.0
+LEMD -0.58  0.0
+LFPG -0.75  0.0
+LIRF  0.00  0.0
+LSZH -0.28  0.0
+LTFM -2.18  0.0
+SSE payı: A 1.00, B -0.00

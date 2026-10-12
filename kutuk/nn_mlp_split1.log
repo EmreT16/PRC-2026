@@ -1,0 +1,12 @@
+17:39:41
+<python>\Lib\site-packages\numpy\lib\_nanfunctions_impl.py:1215: RuntimeWarning: All-NaN slice encountered
+  return fnb._ureduce(a, func=_nanmedian, keepdims=keepdims,
+  hazırlık: 138 sayısal (eksiklik bayrakları dahil), 11 kategorik | 49 sn
+    epok 1/6: kayıp 0.0794 | 57 sn
+    epok 2/6: kayıp 0.0641 | 60 sn
+    epok 3/6: kayıp 0.0601 | 60 sn
+    epok 4/6: kayıp 0.0575 | 59 sn
+    epok 5/6: kayıp 0.0551 | 59 sn
+    epok 6/6: kayıp 0.0533 | 59 sn
+[split_1] taksi RMSE: ay 1 212.39, ay 7 258.87 | 426 sn
+cikis 0 17:46:53

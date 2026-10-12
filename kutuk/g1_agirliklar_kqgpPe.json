@@ -1,0 +1,17 @@
+{
+ "bilesenler": [
+  "xgb_P",
+  "gcb_P4",
+  "e1h3_P6",
+  "lgbh3_P6",
+  "dw_P5"
+ ],
+ "agirlik": [
+  0.1021,
+  0.2036,
+  0.2211,
+  0.1236,
+  0.3497
+ ],
+ "not": "05.10: yedek — kqgpP bileşenleri (tüm çok tohum, pistli) + eski kqgpT ağırlıkları (v208 / v212)"
+}

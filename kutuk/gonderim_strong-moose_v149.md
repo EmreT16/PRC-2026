@@ -1,0 +1,26 @@
+# Gönderim denetimi — strong-moose_v149
+
+- Dosya: `<repo>\gonderim\strong-moose_v149.parquet`
+- MD5: `80e8bc9325136f1381959dc2b8d4555c`
+- Aday: `D_dw`, yeni modelin payı: 1.00; taban v126 (MD5 486e03b2ef36eb9cc9fe559fa12ff0ff)
+- Not: Model A (dondurulan): v148 harmanı + Depthwise global CB (lr 0,03, ek 5 kategorik, l2 10; 9000 it, 3 tohum ort.; 12 ay). Model B: v126
+
+| Denetim | Sonuç |
+|---|---|
+| satir_sayisi | ✓ |
+| sutunlar | ✓ |
+| kimlik_sirasi | ✓ |
+| nan_inf_yok | ✓ |
+| alt_sinir_60 | ✓ |
+| model_b_ayni | ✓ |
+
+| Bilgi | Değer |
+|---|---:|
+| model_a_rms_fark | 41.07 |
+| model_a_ort_fark | 0.82 |
+| yeni_modelin_v126dan_rms_farki | 41.07 |
+| 40000_ustu | 15.00 |
+| 40000_ustu_v126 | 15.00 |
+| satir_24s | 85,927.64 |
+| satir_24s_v126 | 86,074.27 |
+| satir_24s_yeni | 85,927.64 |

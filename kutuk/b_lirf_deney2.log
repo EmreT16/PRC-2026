@@ -1,0 +1,12 @@
+Q1 tamam
+Q2 tamam
+Q3 tamam
+Q4 tamam
+
+LIRF ön koşul dışı 1420 satır, 5 tohum ortalaması
+taban   RMSE  3005.4 | logloss 0.3774 | çeyrekler  2242.6  2995.6  3390.3  2261.9 | tabana göre iyi çeyrek 0/4
+kks     RMSE  2975.4 | logloss 0.3689 | çeyrekler  2262.9  2952.2  3342.9  2290.4 | tabana göre iyi çeyrek 2/4
+agir    RMSE  3034.0 | logloss 0.3897 | çeyrekler  2190.1  2968.3  3471.6  2231.7 | tabana göre iyi çeyrek 3/4
+agir2   RMSE  3100.4 | logloss 0.4130 | çeyrekler  2180.6  2960.6  3607.3  2193.8 | tabana göre iyi çeyrek 3/4
+kksagir RMSE  3019.6 | logloss 0.3864 | çeyrekler  2211.9  2955.3  3440.2  2260.3 | tabana göre iyi çeyrek 3/4
+kksagir2 RMSE  3090.5 | logloss 0.4104 | çeyrekler  2235.8  2972.7  3574.1  2200.1 | tabana göre iyi çeyrek 3/4

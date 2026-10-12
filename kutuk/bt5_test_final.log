@@ -1,0 +1,40 @@
+satır 2,085,047 (B 22,470) | özellik 121 | atılan ['PC_KUYRUK_W', 'PC_AGIR_N']
+  hazırlık: 125 sayısal (eksiklik bayrakları dahil), 7 kategorik | 69 sn
+  TabM: 0 sabit sütun atıldı, 125 sayısal kaldı
+    epok 1/12: kayıp 0.1190 | 67 sn
+    epok 2/12: kayıp 0.0717 | 67 sn
+    epok 3/12: kayıp 0.0659 | 67 sn
+    epok 4/12: kayıp 0.0622 | 67 sn
+    epok 5/12: kayıp 0.0601 | 67 sn
+    epok 6/12: kayıp 0.0583 | 67 sn
+    epok 7/12: kayıp 0.0565 | 67 sn
+    epok 8/12: kayıp 0.0548 | 67 sn
+    epok 9/12: kayıp 0.0532 | 67 sn
+    epok 10/12: kayıp 0.0517 | 67 sn
+    epok 11/12: kayıp 0.0505 | 67 sn
+    epok 12/12: kayıp 0.0499 | 67 sn
+    epok 1/12: kayıp 0.1209 | 68 sn
+    epok 2/12: kayıp 0.0722 | 68 sn
+    epok 3/12: kayıp 0.0661 | 67 sn
+    epok 4/12: kayıp 0.0626 | 66 sn
+    epok 5/12: kayıp 0.0603 | 66 sn
+    epok 6/12: kayıp 0.0586 | 66 sn
+    epok 7/12: kayıp 0.0569 | 66 sn
+    epok 8/12: kayıp 0.0552 | 56 sn
+    epok 9/12: kayıp 0.0536 | 54 sn
+    epok 10/12: kayıp 0.0521 | 57 sn
+    epok 11/12: kayıp 0.0511 | 66 sn
+    epok 12/12: kayıp 0.0504 | 66 sn
+    epok 1/12: kayıp 0.1216 | 66 sn
+    epok 2/12: kayıp 0.0718 | 66 sn
+    epok 3/12: kayıp 0.0658 | 61 sn
+    epok 4/12: kayıp 0.0622 | 54 sn
+    epok 5/12: kayıp 0.0601 | 54 sn
+    epok 6/12: kayıp 0.0583 | 63 sn
+    epok 7/12: kayıp 0.0566 | 66 sn
+    epok 8/12: kayıp 0.0549 | 66 sn
+    epok 9/12: kayıp 0.0533 | 66 sn
+    epok 10/12: kayıp 0.0518 | 64 sn
+    epok 11/12: kayıp 0.0507 | 54 sn
+    epok 12/12: kayıp 0.0500 | 54 sn
+TEST_B_mu_nn_dparkktahkomgspcyte_e12_t3.parquet: 8,458 satır | ort μ_nn 1120.4 | 2429 sn
