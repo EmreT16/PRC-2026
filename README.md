@@ -6,8 +6,8 @@ EHAM, LEBL, LEMD, LFPG, LIRF, LSZH, LTFM). The metric is the RMSE in seconds.
 
 The final submission is `strong-moose_final.parquet` (January, February, June and July 2026, 670,790 rows,
 MD5 `5192dc4098c66bc2127f5be84e1646b6`). It is produced by `scripts/final_tum.sh`. The same code on the January + July
-ranking set scores 217.48 on the public leaderboard; the score of the final file itself is not known before the end
-of the challenge.
+ranking set scores 217.48 on the public leaderboard (v378, one difference is noted under Leaderboard); the score of the
+final file itself is not known before the end of the challenge.
 
 A longer description of the method is in [docs/METHOD.md](docs/METHOD.md). Code comments and log files are in
 Turkish; the method document ends with a short [glossary](docs/METHOD.md#9-glossary) of the Turkish names used in file
@@ -83,7 +83,9 @@ Public leaderboard (January + July 2026) for the submissions that improved our b
 | v368 | 11 Oct | daily pre-departure delay matching | 218.04 |
 | v374-v378 | 11 Oct | recovered flight plan window, final configuration | 217.48 |
 
-v378 uses the same code and settings as the final file. The numbering continues from our earlier code bases
+v378 uses the same code and settings as the final file, with one exception: the LIRF 24-hour shift mixture is in the
+final file but not in the leaderboard submissions after v320 (see [docs/METHOD.md](docs/METHOD.md#7-validation)).
+The numbering continues from our earlier code bases
 (v1-v144, best score 267.86); this repository starts at v145. Version numbers count the files built here; 66 of them
 were uploaded, and these are listed with their scores in `kutuk/skor_defteri.csv`.
 

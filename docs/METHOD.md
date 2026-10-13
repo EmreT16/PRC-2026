@@ -146,10 +146,15 @@ v301/v305). In a few cases the leaderboard decided alone, because the 2025 test 
 change. Kept this way were the runway configuration features, the runway layer of the monthly calibration (v224
 against v226) and taking the LIRF lock probability from the final lock model (v351 against v349). A temperature
 feature and three global scales of the Model A ADS-B correction (1.15, 0.9 and 0.883) were tried and not kept, so the
-final correction is not scaled. An early rule
-(v153) that changed only three LIRF rows was worse on the leaderboard and was removed; the 24-hour mixture in the final
-file, fitted on 2025, moves the same rows in the same direction again. No prediction was set from the leaderboard
-score of single rows. All submissions and their scores are in `kutuk/skor_defteri.csv`.
+final correction is not scaled.
+
+An early rule (v153) that changed only three LIRF rows was worse on the leaderboard and was removed. The LIRF 24-hour
+shift mixture of §5, fitted on 2025, was then tested as v320: it changed five rows of the leaderboard set and was 1.10
+worse. It is kept in the final file anyway (eight rows: one in January, three in June, four in July), because removing
+it only from the leaderboard rows would mean setting single rows from the leaderboard score. The leaderboard
+submissions after v320, including v378, do not contain it; in settings this is the only difference between v378 and
+the final file. No prediction was set from the leaderboard score of single rows. All submissions and their scores are
+in `kutuk/skor_defteri.csv`.
 
 ## 8. Reproducibility
 
